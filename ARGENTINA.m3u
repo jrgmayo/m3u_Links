@@ -53,10 +53,6 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1,CANAL 32 SPTV SAN PEDRO
 https://srv6.zcast.com.br/sptv/sptv/HasBahCa.m3u8
-#EXTINF:-1,CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/HasBahCa.m3u8
-#EXTINF:-1,Canal 4 Jujuy (720p)
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/HasBahCa.m3u8
 #EXTINF:-1,CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/HasBahCa.m3u8
 #EXTINF:-1,CANAL 5
@@ -73,8 +69,6 @@ https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/chunklist_w6531833
 https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
 #EXTINF:-1,CANAL ENCUENTRO  22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/HasBahCa.m3u8
-#EXTINF:-1,Canal Europa
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
 #EXTINF:-1,CANAL NUBEH TV
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913044177.m3u8
 #EXTINF:-1,Canal Orbe 21
@@ -239,10 +233,6 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?HasBahC
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1,teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1,THT HD
-http://lb1.macc.com.ua/img/ntn_2/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,THT HD
-https://edge1.iptv.macc.com.ua/img/ntn_2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Tierra De Amor Y Venganza
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1,TOP CINE HD

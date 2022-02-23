@@ -231,8 +231,6 @@ http://190.92.95.37:8000/play/a0f8/index.m3u8?HasBahCa.m3u8
 http://209.45.97.109:8000/play/a02v
 #EXTINF:-1,Canal Claro
 http://190.131.228.59:8000/play/a06a/index.m3u8
-#EXTINF:-1,Canal Claro HD
-http://190.92.95.37:8000/play/a0ey/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Canal de Las estrellas
 http://45.236.175.0:9600/play/a01f
 #EXTINF:-1,Canal de Las estrellas
@@ -319,8 +317,6 @@ http://45.236.175.0:9600/play/a01q
 http://209.45.97.109:8000/play/a00b
 #EXTINF:-1,Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://190.92.95.37:8000/play/a0iw/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1,Cinemax
@@ -507,8 +503,6 @@ http://45.236.175.0:9600/play/a00u
 http://209.45.97.109:8000/play/a01h
 #EXTINF:-1,E!
 http://190.92.95.37:8000/play/a0ih/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://190.92.95.37:8000/play/a0gf/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,EBS KIDS HD
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/HasBahCa.m3u8
 #EXTINF:-1,ECU FOXS
@@ -649,8 +643,6 @@ http://181.78.22.214:8000/play/a01m
 http://45.236.175.0:9600/play/a02i
 #EXTINF:-1,FX
 http://209.45.97.109:8000/play/a02b
-#EXTINF:-1,FX HD
-http://190.92.95.37:8000/play/a0gk/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,FX Movies
 http://45.236.175.0:9600/play/a00b
 #EXTINF:-1,FX Movies
@@ -712,8 +704,6 @@ http://45.236.175.0:9600/play/a00k
 #EXTINF:-1,HBO Family
 http://190.131.228.59:8000/play/a05h/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://190.92.95.37:8000/play/a0f4/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,HBO Family HD
 http://190.131.228.59:8000/play/a0ex/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.131.228.59:8000/play/a0eu/index.m3u8
@@ -722,13 +712,9 @@ http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,HBO Plus
 http://45.236.175.0:9600/play/a00i
 #EXTINF:-1,HBO Plus HD
-http://190.92.95.37:8000/play/a0f3/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,HBO Plus HD
 http://190.131.228.59:8000/play/a0ew/index.m3u8
 #EXTINF:-1,HBO PREMIUM
 https://s.vdo.ai/vhs/1.m3u8
-#EXTINF:-1,HBO XTREME
-http://190.92.95.37:8000/play/a0f5/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,HBO XTREME
 http://190.131.228.59:8000/play/a0ey/index.m3u8
 #EXTINF:-1,HBO XTREME SD
@@ -865,8 +851,6 @@ http://190.131.228.59:8000/play/a042/index.m3u8
 http://190.92.95.37:8000/play/a0hp/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MTV 80s
 http://190.92.95.37:8000/play/a0fy/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,MTV HD
-http://190.92.95.37:8000/play/a0g9/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MTV Hits
 http://190.92.95.37:8000/play/a0fx/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MULTICANAL HD
@@ -881,6 +865,10 @@ http://190.92.95.37:8000/play/a0ha/index.m3u8?HasBahCa.m3u8
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1,MY TIME HD
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+#EXTINF:-1,My time movie network bra
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,My time movie network esp
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,NACIONAL-AmericaTV
 http://190.187.200.69:8000/play/a01s
 #EXTINF:-1,NACIONAL-ATV
@@ -1209,8 +1197,6 @@ http://45.236.175.0:9600/play/a01i
 http://209.45.97.109:8000/play/a025
 #EXTINF:-1,Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://190.92.95.37:8000/play/a0gj/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TELENOVISA CANAL 43 HD
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
 #EXTINF:-1,Telepacifico
@@ -1331,14 +1317,10 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w236507452.m3u8
 https://srv1.zcast.com.br/daniel2525/daniel2525/HasBahCa.m3u8
 #EXTINF:-1,Tv Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-#EXTINF:-1,TV TICA HD
-http://tiquiciatv.com:1935/tvtica/web/chunklist_w1802027102.m3u8
 #EXTINF:-1,TV Universal (Ecuador) (720p) [Not 24/7]
 https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/HasBahCa.m3u8
 #EXTINF:-1,TV+
 http://190.131.228.59:8000/play/a074/index.m3u8
-#EXTINF:-1,TV5 LIMARES HD
-https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-1,TVChile
 http://190.92.95.37:8000/play/a0e8/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TVE
@@ -1485,7 +1467,3 @@ http://181.78.22.214:8000/play/a01d
 http://190.131.228.59:8000/play/a00d/index.m3u8
 #EXTINF:-1,ZooMoo
 http://190.92.95.37:8000/play/a0e5/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,🇧🇷My time movie networkᴴᴰ
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,🇪🇸My time movie networkᴴᴰ
-https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
