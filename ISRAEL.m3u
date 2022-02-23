@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,ARUTZ 20
+https://dvr.ch20-cdnwiz.com/hls/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ARUTZ 20 (backup)
+http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+#EXTINF:-1,As a Child (720p)
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playlist.m3u8
+#EXTINF:-1,ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Channel 20
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_low/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HAKNESSET 99
+https://contact.gostreaming.tv/Knesset/myStream/HasBahCa.m3u8
+#EXTINF:-1,Hala TV Israel
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1,Hidabroot (576p)
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Hidabroot Israel
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/HasBahCa.m3u8
+#EXTINF:-1,HINUCHIT 23
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+#EXTINF:-1,Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1,Jesus Shelanu
+https://1247634592.rsc.cdn77.org/1247634592/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kabbalah
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1,KABBALAH 96
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1,Kabbalah TV Hebrew (360p)
+http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
+#EXTINF:-1,KAN 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,KESHET 12
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
+#EXTINF:-1,MAKO 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:-1,Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,PANET 30 HALA
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:-1,RESHET 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RESHET 13 (backup)
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SHOPPING 21
+https://shoppingil-rewriter.vidnt.com/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,WALLA NEWS
+https://live.wcdn.co.il/news/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Y-NET NEWS
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ynet Live (720p)
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8?HasBahCa.m3u8

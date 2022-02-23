@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Almanya TV
+http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/HasBahCa.m3u8
+#EXTINF:-1,ATV AVRUPA
+http://mugla.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:-1,Avrupa TV
+http://aktif2830.ozelip.com:30124/avrupa/avrupa/HasBahCa.m3u8
+#EXTINF:-1,Brüksel Türk
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/HasBahCa.m3u8
+#EXTINF:-1,Euro D
+https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EURO D
+http://82.194.1.4:8002/play/E42_12034V_SID1309/index.m3u8
+#EXTINF:-1,EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1,EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EURO STAR ydk
+http://mugla.tvizlehd.com/live/eurostar.m3u8
+#EXTINF:-1,SHOW TURK ydk
+http://mugla.tvizlehd.com/live/showturk.m3u8
+#EXTINF:-1,SHOW TÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TGRT EU ydk
+http://mugla.tvizlehd.com/live/tgrteu.m3u8
+#EXTINF:-1,TV 8 INT
+http://82.194.1.4:8002/play/E42_12034V_SID1318/index.m3u8
+#EXTINF:-1,TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV8 int SD
+http://mugla.tvizlehd.com/live/tv8int.m3u8
+#EXTINF:-1,Viyana TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/HasBahCa.m3u8
+#EXTINF:-1,İsviçre TV
+http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/HasBahCa.m3u8

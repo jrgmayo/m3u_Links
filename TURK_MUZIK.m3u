@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1,Ankara Ses TV
+https://host.onlineradyotv.net:9999/ankarasestv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARABESK TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:-1,AViVA TV
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1,DAMAR TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1,Demo TV
+http://fidece38941.ozelip.com:2052/demotv/demotv/HasBahCa.m3u8
+#EXTINF:-1,Diamond Production TV
+https://tv170.ozelip.com:1936/diamond/diamond/HasBahCa.m3u8
+#EXTINF:-1,DREAM TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,DREAM TURK SD
+http://mugla.tvizlehd.com/live/dreamturk.m3u8
+#EXTINF:-1,Dream Türk
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fora Müzik
+https://tv170.ozelip.com:1936/foramuzik/foramuzik/HasBahCa.m3u8
+#EXTINF:-1,GENC SMS TV
+https://yayin.santraltr.com/hls/genctv.m3u8
+#EXTINF:-1,Genç Kral TV
+http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/HasBahCa.m3u8
+#EXTINF:-1,Genç Kraliçe TV
+https://tv170.ozelip.com:1936/genckralicetv/genckralicetv/HasBahCa.m3u8
+#EXTINF:-1,KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1,Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1,Kral TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
+#EXTINF:-1,KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:-1,KRAL TV  ydk
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1,Marmara TV
+https://host.onlineradyotv.net:9999/marmaratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mega TV İskenderun
+https://tv170.ozelip.com:1936/megatv/megatv/HasBahCa.m3u8
+#EXTINF:-1,MiLYON TV SD
+http://mugla.tvizlehd.com/live/milyontv.m3u8
+#EXTINF:-1,MiLYON TV ydk
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Moda FM TV
+http://modafm52300.ozelip.com:28008/modafm/modafm/HasBahCa_w1385220734.m3u8
+#EXTINF:-1,MUZiK HABERCiSi TV
+http://tv86905.radyotelekomtv.com:22808/muzik/muzik/HasBahCa.m3u8
+#EXTINF:-1,Müzik Habercisi
+https://tv170.ozelip.com:1936/muzik/muzik/HasBahCa.m3u8
+#EXTINF:-1,NR1 TURK SD
+http://mugla.tvizlehd.com/live/nr1turktv.m3u8
+#EXTINF:-1,Number 1 Damar
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch8g
+#EXTINF:-1,Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Number One
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pala TV
+http://fidece38941.ozelip.com:2052/palatv/palatv/HasBahCa.m3u8
+#EXTINF:-1,Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1,POWER DANCE HD
+https://listen.powerapp.com.tr/dance/dance.smil/HasBahCa.m3u8
+#EXTINF:-1,POWER HD
+http://195.155.98.170:5858/play/a0ab
+#EXTINF:-1,POWER HD
+http://82.194.1.4:8005/play/E42_12265V_SID14602/index.m3u8
+#EXTINF:-1,POWER LOVE HD
+https://listen.powerapp.com.tr/plove/love.smil/HasBahCa.m3u8
+#EXTINF:-1,POWER TURK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist.m3u8
+#EXTINF:-1,POWER TURK EN YENiLER
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/HasBahCa.m3u8
+#EXTINF:-1,POWER TURK HD
+http://yerelmedya.tv:1935/powerturktv/bant1/HasBahCa.m3u8
+#EXTINF:-1,POWER TURK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/HasBahCa.m3u8
+#EXTINF:-1,POWER TURK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/HasBahCa.m3u8
+#EXTINF:-1,Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1,Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1,POWER TV AKUSTiK
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/HasBahCa.m3u8
+#EXTINF:-1,POWER TV FHD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1,POWER TV HD ydk
+http://yerelmedya.tv:1935/powertv/bant1/HasBahCa.m3u8
+#EXTINF:-1,POWER TV TR
+https://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
+#EXTINF:-1,POWERTURK HD
+http://82.194.1.4:8005/play/E42_12265V_SID14603/index.m3u8
+#EXTINF:-1,Powertürk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+#EXTINF:-1,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/HasBahCa.m3u8
+#EXTINF:-1,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1,SILA TV
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1,TATLISES TV
+http://195.155.98.170:5858/play/a0ac
+#EXTINF:-1,TATLISES TV SD
+http://mugla.tvizlehd.com/live/tatlisestv.m3u8
+#EXTINF:-1,Tatlıses TV
+http://yerelmedya.tv:1935/tatlisestv/bant1/HasBahCa.m3u8
+#EXTINF:-1,TEMPO TV
+http://195.155.98.170:5858/play/a0as
+#EXTINF:-1,TMB
+http://mugla.tvizlehd.com/live/tmbtv.m3u8
+#EXTINF:-1,TMB TV
+https://mugla.tvizlehd.com/live/tmbtv.m3u8
+#EXTINF:-1,TMB TV ydk
+http://livesx.canlitv.center/tmbtv.m3u8
+#EXTINF:-1,TRT MUZIK HD
+http://195.155.98.170:5858/play/a09h
+#EXTINF:-1,TRT Muzik HD TR
+http://5.254.16.186:80/TRTMuzik/mono.m3u8
+#EXTINF:-1,TRT MUZiK SD
+http://mugla.tvizlehd.com/live/trtmuzik.m3u8
+#EXTINF:-1,ZEYNO TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8

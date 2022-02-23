@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1,24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/6605140/HasBahCa.m3u8
+#EXTINF:-1,24/7 Canal de Noticias (720p)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/HasBahCa.m3u8
+#EXTINF:-1,2A NETWORK
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
+#EXTINF:-1,ACCION
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/699.m3u8
+#EXTINF:-1,Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1,AgrotendenciaTV (480p)
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1,Amor Para Todos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1,ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8
+#EXTINF:-1,ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Argentinísima Satelital (576p)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/HasBahCa.m3u8
+#EXTINF:-1,ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ayvtv TELEVISION__Ayvnewlogo1
+https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BACKUSTV
+http://stream.backustv.ru/content/39837/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BACKUSTV Страшное
+http://stream.backustv.ru/content/39864/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Baile Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:-1,BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1,CANAL 10
+https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w507702324_b1128000.m3u8
+#EXTINF:-1,Canal 11 La Rioja (360p)
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1,CANAL 13 LA RIOJA
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/HasBahCa.m3u8
+#EXTINF:-1,Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/HasBahCa.m3u8
+#EXTINF:-1,Canal 2 Jujuy (720p) [Not 24/7]
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/HasBahCa.m3u8
+#EXTINF:-1,Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8
+#EXTINF:-1,CANAL 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/HasBahCa.m3u8
+#EXTINF:-1,Canal 26 Argentina | HD
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1,Canal 3 Rosario (576p) [Geo-blocked]
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1,CANAL 32 SPTV SAN PEDRO
+https://srv6.zcast.com.br/sptv/sptv/HasBahCa.m3u8
+#EXTINF:-1,CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/HasBahCa.m3u8
+#EXTINF:-1,Canal 4 Jujuy (720p)
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/HasBahCa.m3u8
+#EXTINF:-1,CANAL 4 TELEAIRE
+https://stmvideo2.livecastv.com/canal4/canal4/HasBahCa.m3u8
+#EXTINF:-1,CANAL 5
+https://srv3.zcast.com.br/carlosr/carlosr/HasBahCa.m3u8
+#EXTINF:-1,CANAL 54 LATINO EN DIRECTO
+http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
+#EXTINF:-1,CANAL 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1385824283_b868352.m3u8
+#EXTINF:-1,Canal 8 Catacaos TV
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CANAL COSTA.TV HD
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/chunklist_w653183388.m3u8
+#EXTINF:-1,Canal Diocesano
+https://cdn01.yowi.tv/DDDDDDDDDD/live-1000.m3u8
+#EXTINF:-1,CANAL ENCUENTRO  22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/HasBahCa.m3u8
+#EXTINF:-1,Canal Europa
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
+#EXTINF:-1,CANAL NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1913044177.m3u8
+#EXTINF:-1,Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1,Canal Provincial (San Miguel) (360p)
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1,CANAL.9 MULTIVISION
+https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
+#EXTINF:-1,canal3 los Heros paralelo 46tv
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3u8
+#EXTINF:-1,Canales EPG
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1,Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1,Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1,Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1,Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1,Canela.TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1,Catacama TV (1080p)
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/HasBahCa.m3u8
+#EXTINF:-1,CatholicTV Network Official
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1,CHIQUILINES
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/768x432_1425600/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cinco TV (480p) [Not 24/7]
+https://59537faa0729a.streamlock.net/cincotv/cincotv/HasBahCa.m3u8
+#EXTINF:-1,CINE ACCCION TV
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/HasBahCa.m3u8
+#EXTINF:-1,CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CINE REAL
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/384x216_589600/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CINE ROMANCE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:-1,Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1,CINE TERROR
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/693.m3u8
+#EXTINF:-1,CINEMA cinetv.RU
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,CINEMA+
+https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
+#EXTINF:-1,CINEMAX HD
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/HasBahCa.m3u8
+#EXTINF:-1,CL3 Cablevisión
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/HasBahCa.m3u8
+#EXTINF:-1,Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1,Crackle  Movies & TV
+https://crackle-xumo.amagi.tv/playlistX1080p.m3u8
+#EXTINF:-1,DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/HasBahCa.m3u8
+#EXTINF:-1,DUBALONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,El Rey
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+#EXTINF:-1,El Talismán
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+#EXTINF:-1,ES NE TV
+https://zypelive-lh.akamaihd.net/i/default_1@745572/index_288_av-p.m3u8?F38b1dF4=5e23d03f828a5300018c8e45&6pLKMQ3y=Sqi3Ng90&video_id=5d0000b80c4ebb590e80e184&sd=10&dw=10800&rebase=on
+#EXTINF:-1,ESNE TV HD
+https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8?F38b1dF4=5c9400123bbf421251f5efbd&6pLKMQ3y=Sqi3Ng90&video_id=5c3e42146689bc139200082a&sd=10&dw=600&rebase=on
+#EXTINF:-1,EWTN CANAL CATÓLICO
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FAN HD
+http://176.115.152.6:1234
+#EXTINF:-1,Fenix TV
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/HasBahCa.m3u8
+#EXTINF:-1,FM SUPER CLASSIC
+https://cloud2.streaminglivehd.com:1936/8070/8070/HasBahCa.m3u8
+#EXTINF:-1,GALAXY TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+#EXTINF:-1,GRAVITAS MOVIES
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:-1,HCT HD
+https://sc.id-tv.kz/NSTV_34_35.m3u8
+#EXTINF:-1,HispanTV (480p)
+https://live.presstv.ir/live/smil:live.smil/HasBahCa.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1,Informacion Periodística (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,La Voz de Tucuman (480p)
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/HasBahCa.m3u8
+#EXTINF:-1,LOCAL NOW MOVIE 90
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,LOCAL NOW PG
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1,LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,MAXIMA
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
+#EXTINF:-1,MICROVISIÓN
+https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
+#EXTINF:-1,MIRADOR  22.3
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/HasBahCa.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1,MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/HasBahCa.m3u8
+#EXTINF:-1,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,Net TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1,NOVELAS THRILLER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
+#EXTINF:-1,PANICO HD
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1,PAX TELEVISION
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/HasBahCa.m3u8
+#EXTINF:-1,Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+#EXTINF:-1,PLEX.TV
+https://www.plex.tv/wp-content/uploads/2021/03/AMC_VideoBanner_V5.mp4
+#EXTINF:-1,Pop Pegajoso
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1,RAKUTEN.TV CINEMA
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1,READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+#EXTINF:-1,Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1,Regionales Pa' Bailar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:-1,Restaurando Vidas Internacional (720p)
+http://v4.tustreaming.cl/restaurandovidastv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RETROPLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
+#EXTINF:-1,Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1,Rompe Tus Limites
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+#EXTINF:-1,RTVE PLAY
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RUN:TIME LATINO
+https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
+#EXTINF:-1,Santa María TV (360p) [Not 24/7]
+http://www.trimi.com.ar/santa_maria/streaming/mystream.m3u8
+#EXTINF:-1,SCI FI ESPAÑOL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+#EXTINF:-1,SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/HasBahCa.m3u8
+#EXTINF:-1,TELEFE HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Telefe Rosario (720p)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Telesol (TLS) (360p) [Not 24/7]
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1,teleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,THT HD
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,THT HD
+https://edge1.iptv.macc.com.ua/img/ntn_2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tierra De Amor Y Venganza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+#EXTINF:-1,TOP CINE HD
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/384x216_589600/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TU CINE HD
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV CLASSICS
+https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
+#EXTINF:-1,TV MAS
+https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w1374383399.m3u8
+#EXTINF:-1,TV ONE
+https://www.digitalsky.com.kh/uploads/videos/OneTV-Sabay_19_05_2018_2.mp4
+#EXTINF:-1,TV SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+#EXTINF:-1,TV1 KG
+http://212.2.225.30:1935/live/site.stream/HasBahCa.m3u8
+#EXTINF:-1,TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1,TVO TOCOPILLA
+http://srv3.zcast.com.br/cristian5592/cristian5592/HasBahCa.m3u8?PlaylistM3UCL
+#EXTINF:-1,TVS MARACAY
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8
+#EXTINF:-1,TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1,Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1,VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1,VerTV (VTV) (720p) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/HasBahCa.m3u8
+#EXTINF:-1,VISION.TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w58684704.m3u8?WebM3UCL
+#EXTINF:-1,VPItv (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1,X24 TUCUMAN
+https://srv1.zcast.com.br/x24hd/x24hd/HasBahCa.m3u8
+#EXTINF:-1,ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8

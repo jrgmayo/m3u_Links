@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1,ABB Web TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ankarawebtv/live
+#EXTINF:-1,ADANA MOViE TV
+http://adana01.ozelip.com:26258/adana/adana/HasBahCa.m3u8
+#EXTINF:-1,AKILLI TV
+http://mugla.tvizlehd.com/live/akillitv.m3u8
+#EXTINF:-1,Akkon TV
+https://tv170.ozelip.com:1936/akkontv/akkontv/HasBahCa.m3u8
+#EXTINF:-1,Aktif TV
+http://aktif2830.ozelip.com:30124/aktif/aktif/HasBahCa.m3u8
+#EXTINF:-1,AKTiF TV HD
+http://aktif2830.ozelip.com:30124/aktif/aktif/chunklist.m3u8
+#EXTINF:-1,Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:-1,Albayrak Ajans
+https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/HasBahCa.m3u8
+#EXTINF:-1,Altso Web TV
+https://edge1.socialsmart.tv/altsowebtv/bant1/chunks.m3u8
+#EXTINF:-1,ANADOLU DOST TV
+https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1453008182.m3u8
+#EXTINF:-1,Anka
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
+#EXTINF:-1,Askon TV
+https://5be5d840359c6.streamlock.net/askontv/askontv/HasBahCa_w247491047.m3u8
+#EXTINF:-1,Bayraklı TV
+http://tivi88.ozelip.com:2052/bayraklitv/bayraklitv/HasBahCa.m3u8
+#EXTINF:-1,Başkan TV
+https://tv170.ozelip.com:1936/baskantv/baskantv/HasBahCa.m3u8
+#EXTINF:-1,Beyaz Medya Müzik
+https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
+#EXTINF:-1,Beyaz Medya Sinema
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1,Beyaz Medya Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:-1,Bilsen Bizim TV
+http://51.254.48.123:2052/bilsem/bilsem/HasBahCa.m3u8
+#EXTINF:-1,BiZiM EV TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/HasBahCa.m3u8
+#EXTINF:-1,CEM TV
+http://mugla.tvizlehd.com/live/cemtv.m3u8
+#EXTINF:-1,Cine 5
+https://host.onlineradyotv.net:8081/cine5/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cinemidi
+https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/HasBahCa.m3u8
+#EXTINF:-1,Dadaş TV
+http://aktif2830.ozelip.com:30124/dadastv/dadastv/HasBahCa.m3u8
+#EXTINF:-1,Euro 90 Channel
+https://ssl4.radyotvonline.com/e90tv/e90tvlive/HasBahCa.m3u8
+#EXTINF:-1,Fark Türk TV
+https://tv170.ozelip.com:1936/farkturktv/farkturktv/HasBahCa.m3u8
+#EXTINF:-1,FORTUNA TV
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1,Fındık TV
+https://tv170.ozelip.com:1936/findiktv/findiktv/HasBahCa.m3u8
+#EXTINF:-1,Göpsen TV
+https://tv170.ozelip.com:1936/gopsentv/gopsentv/HasBahCa.m3u8
+#EXTINF:-1,Günaydın TV
+https://5be5d840359c6.streamlock.net/gunaydintv/gunaydintv/HasBahCa_w1069763798.m3u8
+#EXTINF:-1,Gündem TV
+https://tv170.ozelip.com:1936/gundemtv/gundemtv/HasBahCa.m3u8
+#EXTINF:-1,Güne Doğuş TV
+http://cdn1-gunedogustv.yayin.com.tr/gunedogustv/ngrp:gunedogustv/HasBahCa.m3u8
+#EXTINF:-1,HUR TV
+https://5be5d840359c6.streamlock.net/hurtv/hurtv/chunklist.m3u8
+#EXTINF:-1,iLK ZiRVE TV HD
+https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist_w1446649505.m3u8
+#EXTINF:-1,iSTANBUL TV HD
+http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
+#EXTINF:-1,KADIRGA TV
+http://mugla.tvizlehd.com/live/kadirgatv.m3u8
+#EXTINF:-1,Kanal 19
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/chunklist_w1902286510.m3u8
+#EXTINF:-1,KANAL 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/HasBahCa.m3u8
+#EXTINF:-1,KANAL AVRUPA SD
+http://mugla.tvizlehd.com/live/kanalavrupa.m3u8
+#EXTINF:-1,Kanal B
+https://mn-nl.mncdn.com/blutv_kanalb2/live_720p2000000kbps/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kanal İstanbul
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/HasBahCa_w1612362189_b1596000.m3u8
+#EXTINF:-1,Kanal İstanbul
+http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
+#EXTINF:-1,Kartal TV
+http://aktif2830.ozelip.com:30124/kartaltv/kartaltv/HasBahCa.m3u8
+#EXTINF:-1,KMD TV
+https://tv170.ozelip.com:1936/kmdtv/kmdtv/HasBahCa.m3u8
+#EXTINF:-1,Kobim TV
+https://host.onlineradyotv.net:8081/kobimtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,LiFE TV HD TR
+http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
+#EXTINF:-1,Lugat TV
+https://tv170.ozelip.com:1936/lugat/lugat/HasBahCa.m3u8
+#EXTINF:-1,Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1,MARMARA TV
+https://yayin2.marmaratv.com.tr/live/marmaratv/chunklist.m3u8
+#EXTINF:-1,MAVi KARADENiZ TV
+https://waw1.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
+#EXTINF:-1,Maximum TV
+http://hd9994.4kradyotv.com:26606/smh61/smh61/HasBahCa.m3u8
+#EXTINF:-1,Medya 24
+https://yayin2.medya24.com:1947/medya24/live/HasBahCa_w738076911.m3u8
+#EXTINF:-1,MEDYAM 14 TV
+http://mugla.tvizlehd.com/live/supertv.m3u8
+#EXTINF:-1,MGC
+http://46.31.146.187:44500/play/a030/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Milli Piyango TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw
+#EXTINF:-1,Misket TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1,MiSKET TV HD
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
+#EXTINF:-1,MODA TV FM
+http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist.m3u8
+#EXTINF:-1,MSCB KANAL 2000 ydk
+https://waw1.artiyerelmedya.net/kanal2000/bant1/chunks.m3u8
+#EXTINF:-1,Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/HasBahCa_w395051295.m3u8
+#EXTINF:-1,NOSTALJI
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NOSTALJi HD
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:-1,OSB TV
+https://broadcasttr.com:446/kayseriosb/bant1/HasBahCa_w1586814739.m3u8
+#EXTINF:-1,Otağ TV
+https://59cba4d34b678.streamlock.net/canlitv/otagtv/HasBahCa_w1843270513.m3u8
+#EXTINF:-1,OZBURUN TV SD
+http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1163224813.m3u8
+#EXTINF:-1,Sancak TV
+https://2.rtmp.org/tv219/yayin.stream/HasBahCa.m3u8
+#EXTINF:-1,Sat 7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8
+#EXTINF:-1,Ser TV
+https://tv170.ozelip.com:1936/sertv/sertv/HasBahCa.m3u8
+#EXTINF:-1,Serhat TV
+http://46.31.146.187:44500/play/a02f/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Super 7 TV
+https://tv170.ozelip.com:1936/super/super/HasBahCa.m3u8
+#EXTINF:-1,SZC
+https://mugla.tvizlehd.com/live/sozcutv.m3u8
+#EXTINF:-1,Tarım TV
+https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
+#EXTINF:-1,TC TV
+http://51.254.48.123:2052/tctv/tctv/HasBahCa.m3u8
+#EXTINF:-1,TEK RUMELi TV ydk
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:-1,TEMPO TV
+http://yerelmedya.tv:1935/tempotv/bant1/HasBahCa.m3u8
+#EXTINF:-1,TEMPO TV ydk
+http://mugla.tvizlehd.com/live/tempotv.m3u8
+#EXTINF:-1,TiVi 6 HD
+https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+#EXTINF:-1,Toprak TV
+https://59cba4d34b678.streamlock.net/canlitv/topraktv/HasBahCa.m3u8
+#EXTINF:-1,TR 6 TV
+http://live.arkumedia.com:1935/tr6tv/tr6tv/HasBahCa.m3u8
+#EXTINF:-1,TV AVRUPA
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/HasBahCa.m3u8
+#EXTINF:-1,TVO HD TR
+http://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/HasBahCa.m3u8
+#EXTINF:-1,TVO SD TR
+http://mugla.tvizlehd.com/live/tvo.m3u8
+#EXTINF:-1,Uluslararası TV
+https://tv170.ozelip.com:1936/uluslar/uluslar/HasBahCa.m3u8
+#EXTINF:-1,VATAN TV ydk
+http://livesx.canlitv.center/vatantv.m3u8
+#EXTINF:-1,Welg TV
+https://tv170.ozelip.com:1936/welgtv/welgtv/HasBahCa.m3u8
+#EXTINF:-1,Woman TV
+https://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1,WOMAN TV HD
+http://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1,Yansıma Premium
+https://hls-eu.loola.tv/hlspush/Lmcvr-Z1OoTuT.m3u8
+#EXTINF:-1,Yansıma Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:-1,YAREN TV
+https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
+#EXTINF:-1,YASAM TV
+https://yayin30.haber100.com/live/yasamtv/chunklist_w2024915114.m3u8
+#EXTINF:-1,YILDIZ EN TV
+http://mugla.tvizlehd.com/live/yildiztv.m3u8
+#EXTINF:-1,Zaza TV
+http://46.31.146.187:44500/play/a03s/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Şişli TV
+http://cwebtv1920.ozelip.com:21298/sislitv/sislitv/HasBahCa.m3u8

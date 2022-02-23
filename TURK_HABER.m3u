@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,A HABER
+http://82.194.1.4:8002/play/E42_12054H_SID10301/index.m3u8
+#EXTINF:-1,A HABER
+http://mugla.tvizlehd.com/live/ahaber.m3u8
+#EXTINF:-1,A HABER HD
+http://82.194.1.4:8002/play/E42_12054H_SID10306/index.m3u8
+#EXTINF:-1,beIN Sports Haber
+https://livesx.canlitv.center/beinsportshaber.m3u8
+#EXTINF:-1,beIN SPORTS HABER
+http://82.194.1.4:8003/play/E42_12379H_SID51421/index.m3u8
+#EXTINF:-1,beIN SPORTS HABER
+http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
+#EXTINF:-1,beIN SPORTS HABER HD
+http://82.194.1.4:8003/play/E42_12379H_SID51420/index.m3u8
+#EXTINF:-1,CNN TÜRK
+http://82.194.1.4:8002/play/E42_12034V_SID1301/index.m3u8
+#EXTINF:-1,DHA Canlı 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/HasBahCa_w630024058.m3u8
+#EXTINF:-1,DHA Canlı 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/HasBahCa_w1843782493.m3u8
+#EXTINF:-1,HABER GLOBAL FHD
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HABER GLOBAL SD
+http://mugla.tvizlehd.com/live/haberglobal.m3u8
+#EXTINF:-1,HABER TURK SD
+http://mugla.tvizlehd.com/live/haberturk.m3u8
+#EXTINF:-1,HABER TÜRK
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HABERTURK HD
+http://82.194.1.4:8003/play/E42_12209H_SID11001/index.m3u8
+#EXTINF:-1,Habertürk
+http://84.22.33.214/HaberTurk/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Habertürk
+http://84.22.33.214/HaberTurk/index.m3u8
+#EXTINF:-1,NTV HD
+http://82.194.1.4:8002/play/E42_12015H_SID10806/index.m3u8
+#EXTINF:-1,ON Medya Haber
+http://live.arkumedia.com:1935/marmaratv/marmaratv/HasBahCa.m3u8
+#EXTINF:-1,TELE 1
+http://82.194.1.4:8002/play/E42_12034V_SID1321/index.m3u8
+#EXTINF:-1,TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:-1,TGRT HABER (yedek)
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TGRT HABER SD
+http://mugla.tvizlehd.com/live/tgrthaber.m3u8
+#EXTINF:-1,TR: TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT HABER
+http://195.155.98.170:5858/play/a09k
+#EXTINF:-1,TRT Haber
+http://84.22.33.214/TRTHaber/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT Haber
+http://84.22.33.214/TRTHaber/index.m3u8
+#EXTINF:-1,TRT HABER
+http://82.194.1.4:8001/play/42E_11958V_SID10501/index.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT HABER (yedek)
+http://iptvmasterlink.dyndns.org:8080/Entry/trthaberhd_yeni/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT HABER HD
+http://195.155.98.170:5858/play/a09d
+#EXTINF:-1,TRT HABER HD
+http://82.194.1.4:8001/play/E42_11054V_SID10602/index.m3u8
+#EXTINF:-1,TRT HABER SD
+http://mugla.tvizlehd.com/live/trthaber.m3u8
+#EXTINF:-1,TRT WORLD HD
+http://82.194.1.4:8001/play/E42_11054V_SID10605/index.m3u8
+#EXTINF:-1,TURK HABER TV SD
+http://mugla.tvizlehd.com/live/thturkhaber.m3u8
+#EXTINF:-1,Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1,Uzay Haber
+https://livesx.canlitv.center/uzayhaber2.m3u8
+#EXTINF:-1,UZAY HABER
+http://mugla.tvizlehd.com/live/uzayhaber.m3u8

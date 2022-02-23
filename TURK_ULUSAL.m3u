@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1,24 TV (yedek)
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1,24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1,360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,360 TV HD TR
+http://5.254.16.186:80/360TV/mono.m3u8
+#EXTINF:-1,363 TV
+http://82.194.1.4:8002/play/E42_12034V_SID1323/index.m3u8
+#EXTINF:-1,4EYLÜL TV
+http://82.194.1.4:8002/play/E42_12034V_SID1361/index.m3u8
+#EXTINF:-1,A PARA HD
+http://livesx.canlitv.center/apara2.m3u8
+#EXTINF:-1,A PARA SD
+http://mugla.tvizlehd.com/live/apara.m3u8
+#EXTINF:-1,A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:-1,A SPOR
+http://82.194.1.4:8002/play/E42_12054H_10302/index.m3u8
+#EXTINF:-1,A SPOR HD
+http://82.194.1.4:8002/play/E42_12054H_SID10307/index.m3u8
+#EXTINF:-1,A SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1,A SPOR SD
+http://mugla.tvizlehd.com/live/aspor.m3u8
+#EXTINF:-1,A VUSLAT TV
+http://195.155.98.170:5858/play/a0b4
+#EXTINF:-1,A2
+http://84.22.33.214/A2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,A2
+http://82.194.1.4:8002/play/E42_12054H_SID10314/index.m3u8
+#EXTINF:-1,A2 TR SD
+http://mugla.tvizlehd.com/live/a2tv.m3u8
+#EXTINF:-1,A2 TV SD ydk
+http://livesx.canlitv.center/a2tv.m3u8
+#EXTINF:-1,Agro TV Türkiye
+https://yayin30.haber100.com/live/agrotv/HasBahCa_w1956205801.m3u8
+#EXTINF:-1,AKILLI TV
+http://82.194.1.4:8002/play/E42_12034V_SID1331/index.m3u8
+#EXTINF:-1,Akit TV (720p)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,AKIT TV HD
+http://82.194.1.4:8005/play/a0er/index.m3u8
+#EXTINF:-1,AKSU TV
+http://195.155.98.170:5858/play/a0ah
+#EXTINF:-1,Anadolu Ajansı
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:-1,ASTV HD TR
+http://5.254.16.186:80/ASTV/mono.m3u8
+#EXTINF:-1,atv
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1,ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1,ATV
+http://82.194.1.4:8002/play/E42_12054H_SID10300/index.m3u8
+#EXTINF:-1,ATV
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:-1,ATV HD
+http://82.194.1.4:8002/play/E42_12054H_SID10305/index.m3u8
+#EXTINF:-1,ATV SD
+http://mugla.tvizlehd.com/live/atv.m3u8
+#EXTINF:-1,BBN TURK SD
+http://mugla.tvizlehd.com/live/bbnturk.m3u8
+#EXTINF:-1,BELGESEL
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BENGU TURK TV SD
+http://mugla.tvizlehd.com/live/benguturktv.m3u8
+#EXTINF:-1,BENGÜ TÜRK
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bengütürk TV
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1,Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1,BEYAZ TV SD
+http://mugla.tvizlehd.com/live/beyaztv.m3u8
+#EXTINF:-1,BLOOMBERG HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1,BLOOMBERGHT HD
+http://82.194.1.4:8003/play/E42_12209H_SID11002/index.m3u8
+#EXTINF:-1,Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1,BUSiNESS CHANNEL TURK HD
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
+#EXTINF:-1,Can TV 24
+https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/HasBahCa_w1996358919.m3u8
+#EXTINF:-1,CIFTCI TV
+http://195.155.98.170:5858/play/a0ak
+#EXTINF:-1,CNN TURK FHD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1,CNN TURK SD
+http://mugla.tvizlehd.com/live/cnnturk.m3u8
+#EXTINF:-1,CNN TÜRK HD
+http://82.194.1.4:8001/play/a0d0/index.m3u8
+#EXTINF:-1,D MAX SD
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1,DIYANET TV
+http://82.194.1.4:8002/play/E42_12422H_SID50204/index.m3u8
+#EXTINF:-1,DMAX
+http://195.155.98.170:5858/play/a09y
+#EXTINF:-1,DMAX
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DMAX
+http://82.194.1.4:8002/play/E42_12015H_SID10802/index.m3u8
+#EXTINF:-1,DMAX HD
+http://195.155.98.170:5858/play/a0a4
+#EXTINF:-1,DMAX HD
+http://82.194.1.4:8002/play/E42_12015H_SID10815/index.m3u8
+#EXTINF:-1,DREAM TÜRK
+http://82.194.1.4:8002/play/E42_12034V_SID1307/index.m3u8
+#EXTINF:-1,EKOTURK TV SD
+http://mugla.tvizlehd.com/live/ekoturktv.m3u8
+#EXTINF:-1,FB TV
+http://mugla.tvizlehd.com/live/fbtv.m3u8
+#EXTINF:-1,FB TV ydk
+http://livesx.canlitv.center/fbtv.m3u8
+#EXTINF:-1,Finans Turk TV (360p)
+http://live.arkumedia.com:1935/finansturktv/finansturktv/HasBahCa.m3u8
+#EXTINF:-1,Finest TV
+http://media.finest.tv/hls/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FLASH TV HD
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1,FLASH TV SD
+http://mugla.tvizlehd.com/live/flashtv.m3u8
+#EXTINF:-1,FOX TV SD
+http://mugla.tvizlehd.com/live/foxtv.m3u8
+#EXTINF:-1,FUL TV
+http://82.194.1.4:8002/play/E42_12422H_SID50208/index.m3u8
+#EXTINF:-1,GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1,GS TV SD
+http://mugla.tvizlehd.com/live/gstv.m3u8
+#EXTINF:-1,Halk TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1,HALK TV
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1,HALK TV SD
+http://mugla.tvizlehd.com/live/halktv.m3u8
+#EXTINF:-1,INTER AZ
+http://195.155.98.170:5858/play/a0ag
+#EXTINF:-1,Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,KANAL 7
+http://82.194.1.4:8005/play/E42_12095H_SID11500/index.m3u8
+#EXTINF:-1,KANAL 7 SD
+http://mugla.tvizlehd.com/live/kanal7.m3u8
+#EXTINF:-1,KANAL B ydk
+http://mugla.tvizlehd.com/live/kanalb.m3u8
+#EXTINF:-1,KANAL D
+http://82.194.1.4:8001/play/42E_11977H_SID1101/index.m3u8
+#EXTINF:-1,KANAL D mpd
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1,KANAL D SD
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1,KRT TV SD
+http://mugla.tvizlehd.com/live/krttv.m3u8
+#EXTINF:-1,MELTEM TV
+http://mugla.tvizlehd.com/live/meltemtv.m3u8
+#EXTINF:-1,MERCAN TV
+http://195.155.98.170:5858/play/a0am
+#EXTINF:-1,MGC
+http://82.194.1.4:8001/play/42E_11977H_SID1145/index.m3u8
+#EXTINF:-1,NTV
+http://195.155.98.170:5858/play/a09x
+#EXTINF:-1,NTV
+http://82.194.1.4:8002/play/E42_12015H_SID10801/index.m3u8
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1,NTV (yedek)
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NTV HD
+http://195.155.98.170:5858/play/a0a0
+#EXTINF:-1,OLAY TV HD
+http://nrttn172.kesintisizyayin.com:29010/olay/olay/HasBahCa.m3u8
+#EXTINF:-1,on4 TV rtmp
+rtmp://yayin.netradyom.com/live/on4
+#EXTINF:-1,RUMELi TV
+http://mugla.tvizlehd.com/live/rumelitv.m3u8
+#EXTINF:-1,SAT7TURK
+http://195.155.98.170:5858/play/a0b2
+#EXTINF:-1,SEMERKAND
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:-1,SHOW
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SHOW HD
+http://82.194.1.4:8003/play/E42_12209H_SID11000/index.m3u8
+#EXTINF:-1,Show Max
+https://lives2.canlitv.center/showmax2.m3u8
+#EXTINF:-1,SHOW MAX HD
+http://82.194.1.4:8003/play/E42_12209H_SID11003/index.m3u8
+#EXTINF:-1,SHOW mpd
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1,SHOW TV SD
+http://mugla.tvizlehd.com/live/showtv.m3u8
+#EXTINF:-1,SHOWMAX
+http://mugla.tvizlehd.com/live/showmax.m3u8
+#EXTINF:-1,SHOWMAX HD
+http://lives2.canlitv.center/showmax2.m3u8
+#EXTINF:-1,SOZCU TV
+http://mugla.tvizlehd.com/live/sozcutv.m3u8
+#EXTINF:-1,Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1,STAR TV
+http://195.155.98.170:5858/play/a09w
+#EXTINF:-1,STAR TV
+http://82.194.1.4:8002/play/E42_12015H_SID10800/index.m3u8
+#EXTINF:-1,STAR TV FHD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STAR TV HD
+http://195.155.98.170:5858/play/a09z
+#EXTINF:-1,STAR TV HD
+http://82.194.1.4:8002/play/E42_12015H_SID10805/index.m3u8
+#EXTINF:-1,STAR TV SD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1,SUN RTV
+http://195.155.98.170:5858/play/a0a9
+#EXTINF:-1,TAY TV SD
+http://mugla.tvizlehd.com/live/taytv.m3u8
+#EXTINF:-1,TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1,TEK RUMELi TV
+http://mugla.tvizlehd.com/live/tekrumelitv.m3u8
+#EXTINF:-1,TELE 1 SD TR
+http://mugla.tvizlehd.com/live/tele1.m3u8
+#EXTINF:-1,TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1,teve2
+http://82.194.1.4:8002/play/E42_12034V_SID1303/index.m3u8
+#EXTINF:-1,teve2 HD
+http://82.194.1.4:8001/play/a0d1/index.m3u8
+#EXTINF:-1,TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/HasBahCa.m3u8
+#EXTINF:-1,TGRT Belgesel
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TGRT BELGESEL SD
+http://mugla.tvizlehd.com/live/tgrtbelgesel.m3u8
+#EXTINF:-1,TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1,tivi6
+http://yerelmedya.tv:1935/tivi6/bant1/HasBahCa.m3u8
+#EXTINF:-1,Tivi6
+http://195.155.98.170:5858/play/a0ad
+#EXTINF:-1,Tivibu Spor
+http://mugla.tvizlehd.com/live/tivibuspor.m3u8
+#EXTINF:-1,TiViBU SPOR HD
+http://livesx.canlitv.center/tivibuspor3.m3u8
+#EXTINF:-1,TJK TV SD
+http://mugla.tvizlehd.com/live/tjktv.m3u8
+#EXTINF:-1,TLC
+http://195.155.98.170:5858/play/a0a6
+#EXTINF:-1,TLC
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:-1,TLC
+http://82.194.1.4:8002/play/E42_12015H_SID10820/index.m3u8
+#EXTINF:-1,TLC HD
+http://195.155.98.170:5858/play/a0a5
+#EXTINF:-1,TLC HD
+http://82.194.1.4:8002/play/E42_12015H_SID10819/index.m3u8
+#EXTINF:-1,TLC SD
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1,TLC TR
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TMB TV
+http://82.194.1.4:8005/play/E42_12685H_SID51801/index.m3u8
+#EXTINF:-1,TON TV
+http://195.155.98.170:5858/play/a0b1
+#EXTINF:-1,TR: TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TR: TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT 1
+http://195.155.98.170:5858/play/a09j
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT 1
+http://82.194.1.4:8001/play/42E_11958V_SID10500/index.m3u8
+#EXTINF:-1,TRT 1 mpd
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1,TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT 2
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 2 HD
+http://195.155.98.170:5858/play/a09p
+#EXTINF:-1,TRT 3 Spor
+http://195.155.98.170:5858/play/a09m
+#EXTINF:-1,TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT Avaz Rossiya
+http://91.185.3.218:4000/play/2527
+#EXTINF:-1,TRT AVAZ SD
+http://mugla.tvizlehd.com/live/trtavaz.m3u8
+#EXTINF:-1,TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT BELGESEL
+http://195.155.98.170:5858/play/a09o
+#EXTINF:-1,TRT BELGESEL
+http://82.194.1.4:8001/play/42E_11958V_SID10505/index.m3u8
+#EXTINF:-1,TRT Belgesel (720p)
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://195.155.98.170:5858/play/a09f
+#EXTINF:-1,TRT BELGESEL HD
+http://82.194.1.4:8001/play/E42_11054V_SID10604/index.m3u8
+#EXTINF:-1,TRT BELGESEL SD
+http://mugla.tvizlehd.com/live/trtbelgesel.m3u8
+#EXTINF:-1,TRT KURDI HD
+http://82.194.1.4:8001/play/E42_11054V_SID10609/index.m3u8
+#EXTINF:-1,TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT MUZIK
+http://82.194.1.4:8001/play/42E_11958V_SID10507/index.m3u8
+#EXTINF:-1,TRT MUZIK HD
+http://82.194.1.4:8001/play/E42_11054V_SID10608/index.m3u8
+#EXTINF:-1,TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT SPOR HD
+http://82.194.1.4:8001/play/E42_11054V_SID10603/index.m3u8
+#EXTINF:-1,TRT SPOR SD
+http://mugla.tvizlehd.com/live/trtspor.m3u8
+#EXTINF:-1,TRT SPOR YILDIZ SD
+http://mugla.tvizlehd.com/live/trtspor2.m3u8
+#EXTINF:-1,TRT SPOR2
+http://82.194.1.4:8001/play/42E_11958V_SID10525/index.m3u8
+#EXTINF:-1,TRT TURK
+http://195.155.98.170:5858/play/a09l
+#EXTINF:-1,TRT TURK
+http://82.194.1.4:8001/play/42E_11958V_SID10502/index.m3u8
+#EXTINF:-1,TRT TURK HD
+http://82.194.1.4:8001/play/E42_11054V_SID10606/index.m3u8
+#EXTINF:-1,TRT TURK SD
+http://mugla.tvizlehd.com/live/trtturk.m3u8
+#EXTINF:-1,TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT-3 SPOR
+http://82.194.1.4:8001/play/42E_11958V_SID10503/index.m3u8
+#EXTINF:-1,TRT1 HD
+http://82.194.1.4:8001/play/E42_11054V_SID10601/index.m3u8
+#EXTINF:-1,TRT2 HD
+http://82.194.1.4:8001/play/42E_11958V_SID10506/index.m3u8
+#EXTINF:-1,TV 1
+http://82.194.1.4:8005/play/a0et/index.m3u8
+#EXTINF:-1,TV 100 SD TR
+http://mugla.tvizlehd.com/live/tv100.m3u8
+#EXTINF:-1,TV 4
+http://84.22.33.214/TV4/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV 8 mpd
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1,TV 8.5
+http://82.194.1.4:8005/play/E42_12346H_SID12901/index.m3u8
+#EXTINF:-1,TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/HasBahCa.m3u8
+#EXTINF:-1,TV EM
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1,TV NET SD
+http://mugla.tvizlehd.com/live/tvnet.m3u8
+#EXTINF:-1,tv100 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8jEXHzMTR7s
+#EXTINF:-1,tv100 (720p) [Not 24/7]
+https://livex458745.livestreamlive.xyz/tv100.m3u8
+#EXTINF:-1,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,TV4 HD Türkiye
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1,TV5 SD ydk
+http://mugla.tvizlehd.com/live/tv5.m3u8
+#EXTINF:-1,TV5 TR HD
+https://59cba4d34b678.streamlock.net/canlitv/tv5/chunklist_w1409782555.m3u8
+#EXTINF:-1,TV8
+http://82.194.1.4:8005/play/E42_12346H_SID12900/index.m3u8
+#EXTINF:-1,TV8 BUCUK SD
+http://mugla.tvizlehd.com/live/tv85.m3u8
+#EXTINF:-1,TV8 HD ydk
+http://46.31.146.187:44500/play/a040/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV8 SD
+http://mugla.tvizlehd.com/live/tv8.m3u8
+#EXTINF:-1,TVNet
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVNET
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:-1,ULKE TV SD
+http://mugla.tvizlehd.com/live/ulketv.m3u8
+#EXTINF:-1,ULUSAL KANAL SD
+http://mugla.tvizlehd.com/live/ulusal.m3u8
+#EXTINF:-1,Uçankuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,VATAN TV
+http://mugla.tvizlehd.com/live/vatantv.m3u8
+#EXTINF:-1,WORLD TURK
+http://yerelmedya.tv:1935/worldturk/bant1/HasBahCa.m3u8
+#EXTINF:-1,Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/HasBahCa.m3u8
+#EXTINF:-1,YABAN TV FHD
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:-1,YABAN TV HD
+http://yayin3.sanaltv.com:1935/live1/yabantv/HasBahCa.m3u8
+#EXTINF:-1,YABAN TV SD
+http://mugla.tvizlehd.com/live/yabantv.m3u8
