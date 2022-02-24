@@ -1,0 +1,439 @@
+#EXTM3U
+#EXTINF:-1,1HD Music
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,30A Music
+http://30a-tv.com/music.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Activa TV (ES)
+https://streamtv.mediasector.es/hls/activatv/HasBahCa.m3u8
+#EXTINF:-1,Alegria TV (ES)
+https://593b04c4c5670.streamlock.net/8192/8192/HasBahCa.m3u8
+#EXTINF:-1,Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,Balkanika MTV
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,BARAZA TV MUSIC
+https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8
+#EXTINF:-1,Biz Music HD
+https://st.biztv.uz/hls/m_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bluegrass Music 4U
+https://broadcast.mytvtogo.net/blugrassmusic/blugrassmusic/HasBahCa.m3u8
+#EXTINF:-1,California Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8
+#EXTINF:-1,Caltex Music | Irã
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1,Caltex TV (720p) [Not 24/7]
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1,Canal 38 HD (BR)
+https://rtmp.info/canal38/envivo/HasBahCa.m3u8
+#EXTINF:-1,Canal 57 Chile | HD
+https://593b04c4c5670.streamlock.net/8148/8148/HasBahCa.m3u8
+#EXTINF:-1,Canal Amordiscos TV | HD
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/HasBahCa.m3u8
+#EXTINF:-1,CAPITAL TIBU MUSICAL
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,CarolinaTV | HDTV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Channel 105 Radio105Live HDTV
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Channel 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:-1,Channel 703 BHTV | HD
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/HasBahCa.m3u8
+#EXTINF:-1,Channel ActivaTV | HD
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1,Channel AZATV | HD
+https://stmv1.zcastbr.com/azatvhd/azatvhd/HasBahCa.m3u8
+#EXTINF:-1,Channel REWIND TV | HD
+https://tls-cl.cdnz.cl/rewindtv/live/HasBahCa.m3u8
+#EXTINF:-1,City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/HasBahCa.m3u8
+#EXTINF:-1,City TV (BG)
+https://tv.city.bg/play/tshls/citytv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,Company TV (720p)
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/HasBahCa.m3u8
+#EXTINF:-1,Conecta TV HD (BR)
+http://204.12.211.210:1935/conectatv/conectatv/HasBahCa.m3u8
+#EXTINF:-1,Contemporary Christian Music 4U
+https://broadcast.mytvtogo.net/contemporarychristian/contemporarychristian/HasBahCa.m3u8
+#EXTINF:-1,Country Music 4U
+https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/HasBahCa.m3u8
+#EXTINF:-1,DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1,Deluxe Lounge HD | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | Espanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | França
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | Itália
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | Suíça
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Deluxe Lounge HD | Áustria
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Dibi TV
+http://82.76.210.127:1935/dibitv/live/playlist.m3u8
+#EXTINF:-1,Dijlah Tarab (576p) [Not 24/7]
+https://ghaasiflu.online/tarab/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DJing
+https://www.djing.com/tv/28049-04.m3u8
+#EXTINF:-1,DJing Animation
+https://www.djing.com/tv/27717-05.m3u8
+#EXTINF:-1,Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1,Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,DJing DJS HD
+https://www.djing.com/tv/k-27838-05.m3u8
+#EXTINF:-1,Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1,Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1,DJing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,DJing Karaoke
+https://www.djing.com/tv/k-28713-05.m3u8
+#EXTINF:-1,Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1,Djing TV HD
+http://www.djing.com/tv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1,DJing Wild HD
+http://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1,Downtown Beats
+https://broadcast.mytvtogo.net/downtownbeats/downtownbeats/HasBahCa.m3u8
+#EXTINF:-1,Ecnulo
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
+#EXTINF:-1,EURO DANCE HD
+http://eurodance90.catcast.tv/content/36987/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/HasBahCa.m3u8
+#EXTINF:-1,Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FASHiON TV Odessa
+http://cdn10.live-tv.od.ua:8081/ofod/ofod480p/chunks.m3u8
+#EXTINF:-1,Fashion TV RU WORLD
+https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+#EXTINF:-1,FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1,FashionTV WORLD
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF:-1,Four Ladies-Move
+http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
+#EXTINF:-1,Global Fashion Television
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+#EXTINF:-1,GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w1467262774.m3u8
+#EXTINF:-1,Gospel Music 4U
+https://broadcast.mytvtogo.net/gospelmusic4u/gospelmusic4u/HasBahCa.m3u8
+#EXTINF:-1,H!T Music Channel Hungary
+http://hitmusic.hu/hitmusic.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1,IFM TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
+#EXTINF:-1,JAWHARA TV (720p)
+https://streaming.toutech.net/live/jtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kiss Kiss TV
+https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1762317423.m3u8
+#EXTINF:-1,Kiss TV
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8
+#EXTINF:-1,KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/HasBahCa.m3u8
+#EXTINF:-1,Kuriakos Music (1080p)
+http://c2.manasat.com:1935/kmusic/kmusic3/HasBahCa.m3u8
+#EXTINF:-1,Kuriakos Music FHD
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1,La Mega Mundial (720p) [Not 24/7]
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/HasBahCa.m3u8
+#EXTINF:-1,La Mega Mundial (720p) [Not 24/7]
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/HasBahCa.m3u8
+#EXTINF:-1,Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1,M1 (1080p)
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1,M20 ITALIA
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:-1,MAGIC TV
+https://itv.streams.ovh/magictv/magictv/chunklist_w587370913.m3u8
+#EXTINF:-1,Magic TV RO
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1,MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/HasBahCa.m3u8
+#EXTINF:-1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MTV Biggest Pop (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?HasBahCa.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,MTV BIGGEST POP HD
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MTV Germany (DE) (Free from akamaihd.net!)
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MTV Spankin' New (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?HasBahCa.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,Music Channel HU
+http://www.1music.hu/1music.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Music Top
+http://200.115.193.177/live/msctphd-360/HasBahCa.m3u8
+#EXTINF:-1,Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/HasBahCa.m3u8
+#EXTINF:-1,Music+
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1,Musica Latina Para Ti
+https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/HasBahCa.m3u8
+#EXTINF:-1,MusicTOP | HDTV
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1,My Music Channel
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastmymusicchannel30a/playlist.m3u8
+#EXTINF:-1,NGRadio TV Music
+http://live.streams.ovh:1935/NGradio/NGradio/chunklist_w803356777.m3u8
+#EXTINF:-1,Nojoum TV (720p)
+https://nojoumhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,NRG91 Music
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
+#EXTINF:-1,Ocko TV (CZ)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/HasBahCa.m3u8
+#EXTINF:-1,OCKO TV EXPRESS
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1,OCKO TV GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1,OCKO TV HITY
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1,ONE MUZ
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1,Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Pluto TV CMT (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=
+#EXTINF:-1,Pluto TV Karaokê por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?HasBahCa.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,Pluto TV MTV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+#EXTINF:-1,Pluto TV MTV (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
+#EXTINF:-1,Pluto TV MTV Classic (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Shows por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?HasBahCa.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1,Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1,Radio Kiss Kiss TV (720p)
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/HasBahCa.m3u8
+#EXTINF:-1,Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/HasBahCa.m3u8
+#EXTINF:-1,Radio PROS (720p)
+http://highvolume04.streampartner.nl/radiopros/livestream/HasBahCa.m3u8
+#EXTINF:-1,Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1,Radio U TV (720p)
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RETRO TV MUSIC
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
+#EXTINF:-1,Rotana Radio Jordan (220p)
+http://188.247.86.66/RotanaRadio/OnAirStudio1/HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by (720p) [Not 24/7]
+https://sluhay.by/live/Ch045pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Aillion (720p) [Not 24/7]
+https://sluhay.by/live/Ch149pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Among Your God (720p) [Not 24/7]
+https://sluhay.by/live/Ch086pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Christ (720p) [Not 24/7]
+https://sluhay.by/live/Ch064pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by EDM (720p) [Not 24/7]
+https://sluhay.by/live/Ch091pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Lenadi (720p) [Not 24/7]
+https://sluhay.by/live/Ch052pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Live (720p) [Not 24/7]
+https://sluhay.by/live/Ch173pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Mova (720p) [Not 24/7]
+https://sluhay.by/live/Ch034pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Pop (720p) [Not 24/7]
+https://sluhay.by/live/Ch066pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Rap (720p) [Not 24/7]
+https://sluhay.by/live/Ch107pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Rock (720p) [Not 24/7]
+https://sluhay.by/live/Ch114pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sluhay.by Xtip (720p) [Not 24/7]
+https://sluhay.by/live/Ch056pub/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Spirit TV (US)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SPIRIT TV MUSIC
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Karaoke (1080p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Karaoke (Australia)
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Karaoke HD
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Pop Adult (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1,Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Qello TV HD
+https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
+#EXTINF:-1,Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Rock Alternative (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1,Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Today's Latin Pop (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1,Stingray Urban Beats (STIRR) (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1,Street Music 4U
+https://broadcast.mytvtogo.net/streetmusic/streetmusic/HasBahCa.m3u8
+#EXTINF:-1,Street Music 4U (720p)
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/HasBahCa.m3u8
+#EXTINF:-1,Techno Dance
+http://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1,Techno Warehouse (US) (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1,TeleMusica HD (BR)
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/HasBahCa.m3u8
+#EXTINF:-1,The Country Network (1080p)
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,The Retro Channel (1080p) [Not 24/7]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/HasBahCa.m3u8
+#EXTINF:-1,Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,UTV
+http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
+#EXTINF:-1,Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/HasBahCa.m3u8
+#EXTINF:-1,Vevo Hip Hop (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1,Vevo Latino (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1,VH1 Italy
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,Video Tour Channel HD (US)
+http://k4.usastreams.com/videotour/videotour/HasBahCa.m3u8
+#EXTINF:-1,VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1,Zapping Music | Chille HDTV
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1,Муз-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2..
+#EXTINF:-1,Музыка Первого (576p)
+http://91.185.3.218:4000/play/608
+#EXTINF:-1,Новое радио (1080p)
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1,ТНТ MUSIC HD
+http://83.222.205.65:8080/tntmusic/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1,Шансон ТВ (480p)
+http://ott-cdn.ucom.am/s43/index.m3u8?HasBahCa.m3u8$OPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1,Шансон ТВ (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,🇧🇷🇺🇸🎶 ●| MTV Are you the One? [Pluto]
+https://bit.ly/MTVAreyouTheOne?inspiration.m3u8
+#EXTINF:-1,🇧🇷🇺🇸🎶 ●| MTV Ridiculousness [Pluto]
+https://bit.ly/3t94rxC?inspiration.m3u8
+#EXTINF:-1,🇪🇸🎶 ●| Cadena Elite España
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+#EXTINF:-1,🇪🇸🎶 ●| Music Latina Para Ti
+https://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist_w49508185.m3u8
+#EXTINF:-1,🇫🇷🎶 ●| MCM Top
+http://185.140.187.67:8085/udp/238.2.0.45:1234
+#EXTINF:-1,🇮🇹🎶 ●| VH1ᴴᴰ
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,🇮🇹🎶 ●| Virgin Radio
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+#EXTINF:-1,🇵🇹🎶 ●| Rádio Sines
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,🎶 ●|  MTV Classic
+http://supportstreams.net:80/558585765/n4ySrfoH20/357
+#EXTINF:-1,🎶 ●| Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1,🎶 ●| Breezetv
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv_4.m3u8
+#EXTINF:-1,🎶 ●| Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1199481911.m3u8
+#EXTINF:-1,🎶 ●| EG Melody
+http://46.40.6.203/EGMelody/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| GO TV
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| MTV en Vivo [Pluto]
+https://bit.ly/mtvlive_inspiration_m3u8
+#EXTINF:-1,🎶 ●| MTV Good Vibes [Pluto]
+https://bit.ly/34BEY5L?/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| MTV Hits
+http://190.171.101.36:80/MTV/tracks-v3a1/mono.m3u8
+#EXTINF:-1,🎶 ●| MTV Love Music [Pluto]
+https://bit.ly/34xiFy2?/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| MTV Unplugged [Pluto]
+https://bit.ly/3K2CDBb?/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| Reload Radio
+http://web.onair-radio.eu:1935/video/video/HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| Rock tv
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1,🎶 ●| Stingray 80s
+https://stirr.ott-channels.stingray.com/128/master_768x432_500kbps.m3u8
+#EXTINF:-1,🎶 ●| Stingray Exitos de Momento
+https://stirr.ott-channels.stingray.com/190/master_768x432_500kbps.m3u8
+#EXTINF:-1,🎶 ●| STINGRAY QELLO
+https://stirr.ott-channels.stingray.com/qello/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1,🎶 ●| Top Latino tv
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w955335976.m3u8
+#EXTINF:-1,🎶 ●| Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,🎶 ●| VEVO
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,🎶 ●| VEVO 80's
+https://bit.ly/vevo80s
+#EXTINF:-1,🎶 ●| VEVO 90's
+https://bit.ly/vevo90s
+#EXTINF:-1,🎶 ●| Visual Radio tv
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/HasBahCa.m3u8
