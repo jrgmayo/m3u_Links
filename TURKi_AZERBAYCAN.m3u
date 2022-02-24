@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1,ATR TV KIRIM
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,AZ: ATV HD
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:ANT AZ
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:-1,AZ:APA TV AZ
+https://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1,AZ:ARB
+http://109.205.166.68/server124/arb/index.m3u8
+#EXTINF:-1,AZ:ARB
+http://82.194.1.2:8010/play/E46_11024V_SID1/index.m3u8
+#EXTINF:-1,AZ:ARB 24
+http://82.194.1.2:8010/play/E46_11024V_SID3/index.m3u8
+#EXTINF:-1,AZ:ARB 24 TV AZ
+http://85.132.81.184:8080/arb24/live1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:ARB Gunesh
+http://82.194.1.2:8010/play/E46_11024V_SID4/index.m3u8
+#EXTINF:-1,AZ:ARB Güneş
+http://livesx.canlitv.center/arbgunes.m3u8
+#EXTINF:-1,AZ:ARB HD
+http://82.194.1.4:8006/play/a0ek/index.m3u8
+#EXTINF:-1,AZ:ARB TV AZ
+http://85.132.81.184:8080/arb/live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:ARB TV AZ ydk
+http://mugla.tvizlehd.com/live/arbtv.m3u8
+#EXTINF:-1,AZ:ARB_24_HD
+http://82.194.1.4:8006/play/a0dz/index.m3u8
+#EXTINF:-1,AZ:ATV 1
+http://85.132.81.184:8080/atv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:AZ News TV
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1,AZ:Az TV
+http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:-1,AZ:AZ TV
+http://mugla.tvizlehd.com/live/aztv.m3u8
+#EXTINF:-1,AZ:Azad TV
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1,AZ:Azad_Azerbaycan
+http://82.194.1.2:8010/play/E46_11175H_SID18/index.m3u8
+#EXTINF:-1,AZ:Azarbayjan Gharbi
+https://sdm.telewebion.com/live/azarbayjangharbi/playlist.m3u8
+#EXTINF:-1,AZ:AzTV HD
+http://82.194.1.4:8006/play/aztv_hd/index.m3u8
+#EXTINF:-1,AZ:AzTV HD
+http://82.194.1.2:8010/play/E46_11175H_SID1/index.m3u8
+#EXTINF:-1,AZ:BAKU TV AZ
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8
+#EXTINF:-1,AZ:CBC Sport HD
+http://82.194.1.2:8010/play/E46_11175H_SID8/index.m3u8
+#EXTINF:-1,AZ:CBC SPORT SD
+http://mugla.tvizlehd.com/live/cbcsport.m3u8
+#EXTINF:-1,AZ:CBC TV
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1736682904.m3u8
+#EXTINF:-1,AZ:CBC TV AZ HD
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1852085117.m3u8
+#EXTINF:-1,AZ:CBC TV AZ SD
+http://mugla.tvizlehd.com/live/cbcaztv.m3u8
+#EXTINF:-1,AZ:CBC_Azerbaycan_HD
+http://82.194.1.2:8010/play/E46_11175H_SID5/index.m3u8
+#EXTINF:-1,AZ:Dunya TV
+http://82.194.1.2:8010/play/E46_11175H_SID12/index.m3u8
+#EXTINF:-1,AZ:EL TV
+http://85.132.53.162:1935/live/eltv/HasBahCa.m3u8
+#EXTINF:-1,AZ:Hadi TV AZ
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1,AZ:Ictimai TV
+http://mugla.tvizlehd.com/live/ictimaitv.m3u8
+#EXTINF:-1,AZ:Ictimai TV HD
+http://82.194.1.2:8010/play/E46_11175H_SID3/index.m3u8
+#EXTINF:-1,AZ:Idman HD
+http://82.194.1.4:8006/play/idman_hd/index.m3u8
+#EXTINF:-1,AZ:iDMAN TV AZ
+http://mugla.tvizlehd.com/live/idmantv.m3u8
+#EXTINF:-1,AZ:Idman_Azerbaycan HD
+http://82.194.1.2:8010/play/E46_11175H_SID11/index.m3u8
+#EXTINF:-1,AZ:INTER AZ
+http://yayin.netradyom.com:1935/live/interaz/HasBahCa.m3u8
+#EXTINF:-1,AZ:iNTER AZ TV
+http://yerelmedya.tv:1935/interaz/bant1/HasBahCa.m3u8
+#EXTINF:-1,AZ:itv an.T
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1,AZ:Kanal Turan
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF:-1,AZ:Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,AZ:Medeniyet_TV HD
+http://82.194.1.2:8010/play/E46_11175H_SID7/index.m3u8
+#EXTINF:-1,AZ:Medeniyyet HD
+http://82.194.1.4:8006/play/medeniyyet_hd/index.m3u8
+#EXTINF:-1,AZ:Medeniyyet TV
+http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
+#EXTINF:-1,AZ:Medeniyyet TV AZ
+http://mugla.tvizlehd.com/live/medeniyettv.m3u8
+#EXTINF:-1,AZ:MUGAN TV AZ
+https://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/chunklist_w1756628838.m3u8
+#EXTINF:-1,AZ:Muz TV Azerbaijan
+http://mugla.tvizlehd.com/live/muztv.m3u8
+#EXTINF:-1,AZ:MuzTV Azerbaycan
+http://82.194.1.2:8010/play/E46_11175H_SID1025/index.m3u8
+#EXTINF:-1,AZ:Muğan TV
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/HasBahCa.m3u8
+#EXTINF:-1,AZ:Naxçıvan TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1,AZ:Qebele TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1,AZ:QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AZ:Real TV
+http://antalya.tvizlehd.com/live/realtv.m3u8
+#EXTINF:-1,AZ:Real TV HD
+http://82.194.1.4:8006/play/real_tv_hd/index.m3u8
+#EXTINF:-1,AZ:RealTV HD
+http://82.194.1.2:8010/play/E46_11175H_SID9/index.m3u8
+#EXTINF:-1,AZ:Space HD
+http://82.194.1.2:8010/play/E46_11175H_SID10/index.m3u8
+#EXTINF:-1,AZ:Space TV
+http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTINF:-1,AZ:SPACE TV AZ
+http://mugla.tvizlehd.com/live/spacetv.m3u8
+#EXTINF:-1,AZ:STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/HasBahCa.m3u8
+#EXTINF:-1,AZ:Start TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1,AZ:Xazar TV HD
+http://82.194.1.2:8010/play/E46_11175H_SID6/index.m3u8
+#EXTINF:-1,AZ:Xezer TV
+http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:-1,AZ:Ümid TV
+http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w1777391236_b796000.m3u8
+#EXTINF:-1,AZ:İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8?HasBahCa.m3u8

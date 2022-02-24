@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,TM:Altyn Asyr
+http://217.174.225.146/legacyhls/ch001_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Aşgabat
+http://217.174.225.146/legacyhls/ch006_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Miras.
+http://217.174.225.146/legacyhls/ch003_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Olazi
+http://217.174.225.146/legacyhls/ch005_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Turkmen Owazy
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Turkmenistan TV
+http://217.174.225.146/legacyhls/ch007_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TM:Yaslyk
+http://217.174.225.146/legacyhls/ch002_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmen Altyn Asyr TV
+http://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmen Asgabat TV
+http://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmen Owazy
+http://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmen Yaslyk TV
+http://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmenistan Miras TV
+http://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Turkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?HasBahCa.m3u8
