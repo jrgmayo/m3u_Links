@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1,Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1,Budakalasz
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CroTV HD (1080p)
+http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
+#EXTINF:-1,Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/HasBahCa.m3u8
+#EXTINF:-1,Extasy HD / Leo TV HD (576p)
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1,FashionTV Czech&Slovak (450p)
+http://lb.streaming.sk/fashiontv/stream/HasBahCa.m3u8
+#EXTINF:-1,Halom TV
+http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,JOJ Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1,Komlos TV
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
+#EXTINF:-1,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1,OCKO EXPRES music
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8?offsetSeconds=0
+#EXTINF:-1,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,Ozdi Varosi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Polar TV
+https://stream.polar.cz/polar/polarlive-1/HasBahCa.m3u8
+#EXTINF:-1,Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/HasBahCa.m3u8
+#EXTINF:-1,Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,RETRO
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w791507530_b750000.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+#EXTINF:-1,RETRO MUSIC
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/HasBahCa.m3u8
+#EXTINF:-1,Retro Music Television
+http://bit.ly/2m3sY3Y
+#EXTINF:-1,Retro Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1,Retro Music Television Ⓢ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/HasBahCa.m3u8
+#EXTINF:-1,Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/HasBahCa.m3u8
+#EXTINF:-1,Retro Music TV (360p)
+http://89.185.253.55/retrotv/retrotvHQ1/HasBahCa.m3u8
+#EXTINF:-1,Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/HasBahCa.m3u8
+#EXTINF:-1,RetroMusicTV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1,RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1,TV Natura (360p) [Not 24/7]
+https://media1.tvnatura.cz/live_out/1/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VCTV
+https://stream.polar.cz/vctv/vctvlive-1/chunklist_w50387221.m3u8
+#EXTINF:-1,VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Východočeská TV (576p)
+https://stream.polar.cz/vctv/vctvlive-1/HasBahCa.m3u8
+#EXTINF:-1,Šlágr
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1,Šlágr 2
+http://92.62.234.233/slagr2.m3u
+#EXTINF:-1,Šlágr 2
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1,Šlágr Premium
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+#EXTINF:-1,🎶 ●| Retro tv 🇨🇿
+http://stream.mediawork.cz/retrotv/retrotvHQ1/HasBahCa.m3u8

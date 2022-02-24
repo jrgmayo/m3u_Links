@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1,Aurora TV
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1,Banovina hr
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,Banovina hr
+http://video.radio-banovina.hr:1935/live/myStream/HasBahCa.m3u8
+#EXTINF:-1,Banovina TV
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1,Cro TV
+http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/chunks.m3u8
+#EXTINF:-1,Diadora TV
+https://diadoratv.stream:4443/web/diadora/chunklist_w711585280.m3u8
+#EXTINF:-1,Film select
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
+#EXTINF:-1,GM Plus
+http://178.217.15.36/fineliving/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1,Jefemija TV
+rtmp://212.200.108.253/live/jefimija
+#EXTINF:-1,Kurir TV (720p)
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1,Kurir TV (RS)
+http://51.15.154.138/providus/live2805_hq/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,N1 (HR)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 Hrvastska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 HRVATSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1,N1 RS (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1,Nisville TV RS
+http://92.60.237.32:1935/live/nisville/playlist.m3u8
+#EXTINF:-1,Nisville TV RS
+http://92.60.237.32:1935/live/nisville/HasBahCa.m3u8
+#EXTINF:-1,One
+http://rtmp.one.by:1200
+#EXTINF:-1,OTV (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
+#EXTINF:-1,Red TV (RS)
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RETROV Q1
+http://89.185.253.55/retrotv/retrotvHQ1/chunklist_w1080884742.m3u8
+#EXTINF:-1,RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,RTL CR
+http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1,RTV Herceg-Bosne (BiH)
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RTV Novi Pazar (RS)
+http://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1,Sandzak TV (RS)
+https://vod1.laki.eu/sandzak/video.m3u8
+#EXTINF:-1,Super TV Media (BiH)
+https://mirtv.club/live/mirtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Televizija 5 (BiH)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1,Trend TV (HR)
+http://185.62.75.22:1935/trend/myStream/HasBahCa.m3u8
+#EXTINF:-1,TV Duga Plus (RS)
+http://109.92.29.10:1935/tvduga/tvduga/HasBahCa.m3u8
+#EXTINF:-1,TV Hram (RS)
+https://vod1.laki.eu/live/hram/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV Pi Canal Pirot (576p) [Not 24/7]
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1,TV S1 RS
+https://sradio.ipradio.rs/sradio/radiostv/HasBahCa.m3u8
+#EXTINF:-1,TVCG 1 (720p)
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/HasBahCa.m3u8
+#EXTINF:-1,TVCG 2 (720p)
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/HasBahCa.m3u8
+#EXTINF:-1,TVCG Sat (720p)
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/HasBahCa.m3u8
+#EXTINF:-1,VOIC OF AMERICA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Zapad TV
+https://stream.zapad.tv:3622/live/tvzapadlive.m3u8?HasBahCa.m3u8

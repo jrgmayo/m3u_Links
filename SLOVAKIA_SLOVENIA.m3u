@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1,ADRIA Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOLX Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Jednotka
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:-1,JOJ
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1,JOJ Family
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1,JOJ HD
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1,Joj hd 720p
+http://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1,JOJ Plus
+https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1,LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1,MMC TV
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,N1 SLOVENSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1,Nove Zamky (486p)
+http://s1.media-planet.sk/live/novezamky/HasBahCa.m3u8
+#EXTINF:-1,NR SR
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
+#EXTINF:-1,Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1,Raj TV
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1,Reduta (486p)
+http://s1.media-planet.sk/live/reduta/HasBahCa.m3u8
+#EXTINF:-1,Rik (540p) [Not 24/7]
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1,RTV SLO 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,RTV SLO 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,RTV SLO 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,RTVS
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
+#EXTINF:-1,Senzi
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1,Senzi
+http://lb.streaming.sk/senzi/stream/HasBahCa.m3u8
+#EXTINF:-1,SK-Nove Zamky m3u8
+http://s1.media-planet.sk:80/live/novezamky/HasBahCa.m3u8
+#EXTINF:-1,SLOVENIJA 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TA3 ?
+http://sktv-forwarders.7m.pl/get.php?x=TA3
+#EXTINF:-1,Televizia Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1,Televizia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/HasBahCa.m3u8
+#EXTINF:-1,Televizia OSEM (Opt-1)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/HasBahCa.m3u8
+#EXTINF:-1,TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1,TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/HasBahCa.m3u8
+#EXTINF:-1,TV Koper
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/HasBahCa.m3u8
+#EXTINF:-1,TV Maribor
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/HasBahCa.m3u8
+#EXTINF:-1,TV Nové Zámky
+rtmp://s1.media-planet.sk:80/live/novezamky
+#EXTINF:-1,TV Nové Zámky (486p)
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1,TV Povaziy
+http://213.181.128.248:8090/tvpovazie-h264.flv
+#EXTINF:-1,TV Reduta
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:-1,TV Ružinov (1080p)
+http://lb.streaming.sk/tvruzinov/stream/HasBahCa.m3u8
+#EXTINF:-1,TVDX (486p) [Not 24/7]
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1,TVDX (486p) [Not 24/7]
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/HasBahCa.m3u8
+#EXTINF:-1,Veseljak TV (1080p)
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1,WAU
+https://live.cdn.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:-1,WAU HD
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1,Wau TV
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1,ZWEI2 Music (SI) (Not until Kodi 19!)
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8?HasBahCa.m3u8

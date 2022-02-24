@@ -1,0 +1,443 @@
+#EXTM3U
+#EXTINF:-1,Augsburg TV
+https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_w1954385360_b3628000.m3u8
+#EXTINF:-1,Bachstiftung | Deutschland
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1,Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1,BLK TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/HasBahCa.m3u8
+#EXTINF:-1,BR Fernsehen
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1920p_5128.m3u8
+#EXTINF:-1,BW Family
+https://cdn.icu.de/rtplive/bwf.stream/HasBahCa.m3u8
+#EXTINF:-1,Das Erste
+https://mcdn.daserste.de/daserste/int/master_3328.m3u8
+#EXTINF:-1,DE:a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/HasBahCa.m3u8
+#EXTINF:-1,DE:Anixe HD (720p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Augsburg TV
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1,DE:Baden TV (720p)
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Baden TV Karlsruhe
+http://cdn.icu.de/rtplive/btv.stream/HasBahCa.m3u8
+#EXTINF:-1,DE:Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1,DE:Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1,DE:BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/HasBahCa.m3u8
+#EXTINF:-1,DE:BLK TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/HasBahCa.m3u8
+#EXTINF:-1,DE:BLK TV Hohenmölsen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/HasBahCa.m3u8?&ref=medienportal-sachsen-
+#EXTINF:-1,DE:BLK TV Hohenmölsen (1080p)
+http://62.113.210.250/medienasa-live/BLKonline_high/HasBahCa.m3u8
+#EXTINF:-1,DE:BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/HasBahCa.m3u8
+#EXTINF:-1,DE:Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1,DE:Campus TV Magdeburg (1080p)
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1,DE:Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+#EXTINF:-1,DE:Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Donau TV
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
+#EXTINF:-1,DE:Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,DE:DW (480p)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:-1,DE:ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1,DE:Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/elbe_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Elbekanal Schönebeck
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Elbekanal Schönebeck (576p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/HasBahCa.m3u8
+#EXTINF:-1,DE:ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,DE:eoTV HD (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/HasBahCa.m3u8
+#EXTINF:-1,DE:Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/HasBahCa.m3u8
+#EXTINF:-1,DE:Fernsehen Magdeburg
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Filstalwelle (576p)
+http://62.113.210.2/filstalwelle-live/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,DE:Filstalwelle Göppingen
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1,DE:Franken Fernsehen (1080p)
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1,DE:Franken Fernsehen Nürnberg
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Friesischer Rundfunk Friedeburg (350p) [Not 24/7]
+https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/mp4:friesischerrundfunk/HasBahCa.m3u8
+#EXTINF:-1,DE:Haldensleben TV
+https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720p.mp4/HasBahCa.m3u8
+#EXTINF:-1,DE:Hauptstadt TV (Potsdam)
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1,DE:health tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/HasBahCa.m3u8
+#EXTINF:-1,DE:hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,DE:HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:-1,DE:HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,DE:HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1,DE:Insight HD (720p)
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1,DE:Inwonder TV (720p)
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1,DE:Isar TV (1080p)
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,DE:K-TV (Fernsehen)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1,DE:Kultur MD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/kulturmd_high/HasBahCa.m3u8
+#EXTINF:-1,DE:KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/HasBahCa.m3u8
+#EXTINF:-1,DE:KulturMD Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/HasBahCa.m3u8
+#EXTINF:-1,DE:Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Light Channel (576p)
+http://streamer1.streamhost.org:1935/salive/lctvde/HasBahCa.m3u8
+#EXTINF:-1,DE:MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:MDF.1 Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:MDF.1+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1,DE:Muxx.tv (1080p) [Not 24/7]
+https://5856e1a25f71a.streamlock.net/easycast7-live/livestream/HasBahCa.m3u8
+#EXTINF:-1,DE:München TV
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:-1,DE:münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Nahe TV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1,DE:NDR Fernsehen (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR International (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1,DE:NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1,DE:NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/HasBahCa.m3u8
+#EXTINF:-1,DE:NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1,DE:NDR Weltweiter (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/HasBahCa.m3u8
+#EXTINF:-1,DE:Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,DE:Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,DE:NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream/HasBahCa.m3u8
+#EXTINF:-1,DE:nrwision Dortmund
+https://fms.nrwision.de/live/livestreamHD.stream_360p/HasBahCa.m3u8
+#EXTINF:-1,DE:Oberlausitz TV (1080p)
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/HasBahCa.m3u8
+#EXTINF:-1,DE:Oberpfalz TV Amberg
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1,DE:oeins Oldenburg
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1,DE:OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/HasBahCa.m3u8
+#EXTINF:-1,DE:OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/HasBahCa.m3u8?&ref=www.of-tv.de&seid=166119
+#EXTINF:-1,DE:Offener Kanal Dessau (1080p)
+http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1,DE:Offener Kanal Fulda
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1,DE:Offener Kanal Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1,DE:Offener Kanal Magdeburg (1080p)
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1,DE:Offener Kanal Merseburg (1080p)
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
+#EXTINF:-1,DE:OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Dessau (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Kaiserslautern (720p) [Not 24/7]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1,DE:OK Ludwigshafen (720p) [Not 24/7]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1,DE:OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Mainz
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1,DE:OK Merseburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Merseburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Merseburg-Querfurt (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:-1,DE:OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/HasBahCa.m3u8
+#EXTINF:-1,DE:OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1,DE:OK TV Südwestpfalz
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1,DE:OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1,DE:OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/HasBahCa.m3u8
+#EXTINF:-1,DE:oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1,DE:Punkteins (Oberlausitz) (1080p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/HasBahCa.m3u8
+#EXTINF:-1,DE:PUNKTum
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/punktum_high/HasBahCa.m3u8
+#EXTINF:-1,DE:PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/HasBahCa.m3u8
+#EXTINF:-1,DE:PUNKTum Fernsehen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+#EXTINF:-1,DE:Punktum Südharz (1080p)
+http://62.113.210.250/medienasa-live/punktum_high/HasBahCa.m3u8
+#EXTINF:-1,DE:QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1,DE:Radio 21 Hannover
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Radio 21 TV (720p)
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/HasBahCa.m3u8
+#EXTINF:-1,DE:Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/HasBahCa.m3u8
+#EXTINF:-1,DE:Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Ran1 Dessau-Roßlau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/rbw_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/HasBahCa.m3u8
+#EXTINF:-1,DE:Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1,DE:RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RFH Harz (1080p)
+http://62.113.210.250/medienasa-live/RFH_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RFH TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/RFH_high/HasBahCa.m3u8
+#EXTINF:-1,DE:RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/HasBahCa.m3u8
+#EXTINF:-1,DE:Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1,DE:Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Rockland TV (720p)
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Rockland TV - Mainz (720p)
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:RTL Klub (720p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1,DE:RTL+ (360p) [Not 24/7]
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1,DE:RWE Erfurt
+https://stream.keyweb.org:8085/hls/rwetv.m3u8
+#EXTINF:-1,DE:Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1,DE:Saarland Fernsehen 2 (720p)
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1,DE:Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/HasBahCa.m3u8
+#EXTINF:-1,DE:Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,DE:Sonus FM Alemania (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/HasBahCa.m3u8
+#EXTINF:-1,DE:Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DE:Studio 47 (576p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,DE:Sylt1 (404p)
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/HasBahCa.m3u8
+#EXTINF:-1,DE:Südtirol TV (720p)
+https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/HasBahCa.m3u8
+#EXTINF:-1,DE:teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/HasBahCa.m3u8
+#EXTINF:-1,DE:Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/HasBahCa.m3u8
+#EXTINF:-1,DE:TV Bayern Live
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
+#EXTINF:-1,DE:TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1,DE:TV Halle (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1,DE:TV HALLE HD (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1,DE:TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1,DE:TVA (1080p)
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1,DE:TVO (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1,DE:WDR Koeln (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/HasBahCa.m3u8
+#EXTINF:-1,DE:Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1,DE:World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1,DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamHasBahCa.m3u8
+#EXTINF:-1,DW Deutsch +
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamHasBahCa.m3u8
+#EXTINF:-1,Elbe Kanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w587933168.m3u8
+#EXTINF:-1,Elbe Kanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist.m3u8
+#EXTINF:-1,EMS TV
+http://62.113.221.6/ev1tv-live/livestream/HasBahCa.m3u8
+#EXTINF:-1,eotv
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist_w450545089.m3u8?ref=eotv.de
+#EXTINF:-1,ERF 1
+https://bcovlive-a.akamaihd.net/b14b24d7b4b74470bfe9bdd2ffb63b03/eu-central-1/6194387526001/profile_0/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,erz TV
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w572635081.m3u8
+#EXTINF:-1,Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8
+#EXTINF:-1,GoldStar TV | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-1080.m3u8
+#EXTINF:-1,HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_1080p25.m3u8
+#EXTINF:-1,HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_576_1p25.m3u8
+#EXTINF:-1,Kulturmd
+http://62.113.210.250/medienasa-live/kulturmd_high/HasBahCa.m3u8
+#EXTINF:-1,Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd10/HasBahCa.m3u8
+#EXTINF:-1,LTV
+https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
+#EXTINF:-1,Munchen TV
+https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w247607545_b3628000.m3u8
+#EXTINF:-1,n-tv Event
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nahe TV
+https://s.ok54.de/nahetv/webstream/chunks.m3u8
+#EXTINF:-1,NDR Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/HasBahCa.m3u8
+#EXTINF:-1,Nick Ⓖ
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Niederbayern TV Deggendorf - Straubing
+https://donautv.iptv-playoutcenter.de/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1,noa4
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,noa4 Nachborn
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/HasBahCa.m3u8
+#EXTINF:-1,OFTV
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/okkl/webstream_720p/chunks.m3u8
+#EXTINF:-1,OK Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8
+#EXTINF:-1,OK Mainz
+https://s.ok54.de/oktvmainz/webstream/chunks.m3u8
+#EXTINF:-1,OK Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/HasBahCa.m3u8
+#EXTINF:-1,OK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8
+#EXTINF:-1,OK Südwestpfalz
+https://s.ok54.de/okswp/test/chunks.m3u8
+#EXTINF:-1,OK Weinstrasse
+https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+#EXTINF:-1,OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/HasBahCa.m3u8
+#EXTINF:-1,OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+#EXTINF:-1,One Terra | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live.m3u8?HasBahCa.m3u8?DVR
+#EXTINF:-1,RAN 1
+http://62.113.210.250/medienasa-live/ran1_high/HasBahCa.m3u8
+#EXTINF:-1,RBW
+http://62.113.210.250/medienasa-live/rbw_high/HasBahCa.m3u8
+#EXTINF:-1,Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunks.m3u8
+#EXTINF:-1,Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunks.m3u8
+#EXTINF:-1,RFO
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/chunklist_w1534883117_b3628000.m3u8
+#EXTINF:-1,Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+#EXTINF:-1,Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
+#EXTINF:-1,Seenluft24
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/HasBahCa.m3u8
+#EXTINF:-1,Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1,SYLT 1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/chunklist_w1479839388.m3u8
+#EXTINF:-1,TIDE
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/chunklist_w597335726_b5500000.m3u8
+#EXTINF:-1,TV Berlin
+https://live2.telvi.de/hls/tvberlin_hd720.m3u8
+#EXTINF:-1,TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/chunklist_w732787111.m3u8
+#EXTINF:-1,Visit-X TV
+https://stream.visit-x.tv/vxtv/live/HasBahCa.m3u8
+#EXTINF:-1,WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
+#EXTINF:-1,Welt der Wunder
+https://7a3035467ac8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.248654862284.channel.CXJjpBZsIOzL.m3u8

@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,Alpen-WelleTV
+https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8
+#EXTINF:-1,Canal 9
+https://edge14.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w123510975.m3u8
+#EXTINF:-1,Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Canal Alpha Jura
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/HasBahCa.m3u8
+#EXTINF:-1,Canal Alpha Jura (1080p)
+https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/HasBahCa.m3u8
+#EXTINF:-1,Canal Alpha Jura (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:canalalphaju/HasBahCa.m3u8
+#EXTINF:-1,Canal Alpha Neuchatel
+https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/HasBahCa.m3u8
+#EXTINF:-1,CanalAlpha Jura bernois (Adaptative)
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/manifest.m3u8
+#EXTINF:-1,Couleur 3
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+#EXTINF:-1,Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+#EXTINF:-1,Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/HasBahCa.m3u8
+#EXTINF:-1,Die Neue Zeit (576p)
+https://www.onairport.live/die-neue-zeit-tv-live/livestream/HasBahCa.m3u8
+#EXTINF:-1,Dieu TV (1080p)
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1,eo TV
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kanal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kanal 9 auf Deutsch (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kanal 9 en Français (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kommu TV
+http://31.10.19.12:8066/live/999/0.m3u8
+#EXTINF:-1,La Tele
+https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,La Télé (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:latele/HasBahCa.m3u8
+#EXTINF:-1,La Télé (1080p)
+https://latele.vedge.infomaniak.com/livecast/latele/HasBahCa.m3u8
+#EXTINF:-1,LFM TV
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,LFM TV (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
+#EXTINF:-1,LFM TV (720p)
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
+#EXTINF:-1,LFM TV HD (1080p)
+http://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
+#EXTINF:-1,M6 (1080p)
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1,One TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1,Radio 3i (Webradio)
+https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+#EXTINF:-1,Radio Pilatus
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/HasBahCa.m3u8
+#EXTINF:-1,Radio Pilatus (1080p)
+http://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/HasBahCa.m3u8
+#EXTINF:-1,Radio Pilatus TV (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:rp_tv_1/HasBahCa.m3u8
+#EXTINF:-1,Radio Ticino
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/HasBahCa.m3u8
+#EXTINF:-1,Radio3i (720p)
+https://livestream.gruppocdt.ch/hls/radio3i_720p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rouge TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/HasBahCa.m3u8
+#EXTINF:-1,Rouge TV (720p)
+http://event.vedge.infomaniak.com/livecast/event.stream/HasBahCa.m3u8
+#EXTINF:-1,Rouge TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/HasBahCa.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://185.205.201.101:8018/play/a04i
+#EXTINF:-1,RSI LA 2 HD
+http://185.205.201.101:8018/play/a04j
+#EXTINF:-1,RTS Couleur 3 (720p)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,RTS Deux HD
+http://185.205.201.101:8018/play/a04g
+#EXTINF:-1,RTS Un HD
+http://185.205.201.101:8018/play/a04f
+#EXTINF:-1,SRF 1 HD
+http://185.205.201.101:8018/play/a04d
+#EXTINF:-1,SRF info HD
+http://185.205.201.101:8018/play/a04h
+#EXTINF:-1,SRF zwei HD
+http://185.205.201.101:8018/play/a04e
+#EXTINF:-1,SUIZA | SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1,Swiss Sport TV (720p)
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1352704044_b2628000.m3u8
+#EXTINF:-1,Swiss Sport TV (Adaptative)
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/HasBahCa.m3u8
+#EXTINF:-1,Swiss Sports
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1,Tele 1
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/EjtPy5XqRLICzo6ldkTW9w/index-s32.m3u8
+#EXTINF:-1,Tele 1 (1080p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,Tele Bielingue
+https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/manifest.m3u8
+#EXTINF:-1,Tele M1 (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/protocol/https/format/applehttp/flavorIds/1_c3sydgl5,1_a4l5it9e,1_sc0f201h/a.m3u8
+#EXTINF:-1,Tele M1 HD
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,Tele ZURI (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
+#EXTINF:-1,tele1 (1080p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/protocol/https/format/applehttp/flavorIds/1_tj9pcgrp,1_ym0klyy9,1_epgizhdj/a.m3u8
+#EXTINF:-1,TeleBarn (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
+#EXTINF:-1,Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Telebasel (432p)
+https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8
+#EXTINF:-1,TeleBielingue (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+#EXTINF:-1,TeleTicino
+https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TeleTicino (720p)
+https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+#EXTINF:-1,TeleTicino (720p) (OPT-2)
+https://livestream05.gruppocdt.ch/hls/teleticino_720p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TeleTicino (Adaptative) (OPT-2)
+https://livestream05.gruppocdt.ch/hls/teleticino.m3u8
+#EXTINF:-1,Telezüri
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8
+#EXTINF:-1,TV O
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_t5h46v64/tl/main/st/0/t/pABgewKPiCnchxEl-FUtqQ/index-s32.m3u8
+#EXTINF:-1,TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/HasBahCa.m3u8
+#EXTINF:-1,TVM3 (1080p)
+https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,TVM3 (1080p)
+https://edge.vedge.infomaniak.com/livecast/tvm3/HasBahCa.m3u8
+#EXTINF:-1,TVM3 (1080p)
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/HasBahCa.m3u8
+#EXTINF:-1,TVO (CH) (1080p) [Not 24/7]
+https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
+#EXTINF:-1,TVO (CH) (720p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8

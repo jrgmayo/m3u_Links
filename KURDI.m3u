@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Afarin
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1378122850.m3u8
+#EXTINF:-1,AVA
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_850000/chunklist.m3u8
+#EXTINF:-1,Cihan
+http://cdn.liveshell.net:1935/live/cihann/chunklist_w746356137.m3u8
+#EXTINF:-1,DIYAR TV HD
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1,KTV KURDI
+http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w373845277_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1,KURDMAX MUSIC
+https://5aa8c7549bfa9.streamlock.net/music/livestream/chunklist_w1135663764.m3u8
+#EXTINF:-1,KURDMAX SHOW HD
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/chunklist_w796090244_b1667072.m3u8
+#EXTINF:-1,KURDMAX TV
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist_w687606977_b1667072.m3u8
+#EXTINF:-1,KURDSAT
+https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_b3128000.m3u8
+#EXTINF:-1,RUDAW TV HD
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1,SPEDA TV
+http://cdn.liveshell.net:1935/live/speda084k/chunklist_w848741154.m3u8

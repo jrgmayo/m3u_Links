@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1,30A Music (720p)
+https://30a-tv.com/music.m3u8?HasBahCa.m3u8
+#EXTINF:-1,A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1,ABC 4 Pittsburg PA ·匹兹堡 宾夕法尼亚州(WTAE) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1,ABC 4 Seattle WA 西雅图 华盛顿州(KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1,ABC 5 Cleveland OH (WEWS-TV)克利夫兰市 俄亥俄州  (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 5 Oklahoma City OK 俄克拉荷马城 (KOCO) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1,ABC 7 Omaha NE 奥马哈 内布拉斯加州(KETV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1,ABC 7 Washington DC 华盛顿特区(WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1,ABC 9 Kansas City MO堪萨斯 城密苏里州 (KMBC-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1,ABC 9 Manchester NH曼彻斯特 新罕布什尔州 (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1,Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,CBS 3 Omaha NE 奥马哈 内布拉斯加州(KMTV-TV) (720p)
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1,CBS 46 Atlanta GA 佐治亚州 亚特兰大(WGCL-TV) (720p) [Not 24/7]
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+#EXTINF:-1,CBSN Live Event (720p)
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN
+http://live.cgtn.com/500/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN (432p)
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN (720p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,CGTN ARABIC
+http://livear.cgtn.com/1000a/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN Arabic (720p)
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1,CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN Documentary EN (720p)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,CGTN Documentary(中国)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN English
+http://live.cgtn.com/1000/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN ESPANOL
+http://livees.cgtn.com/500e/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN FRANCE
+http://livefr.cgtn.com/500f/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN Français (720p)
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1,CGTN RU
+http://liveru.cgtn.com/500r/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN 俄语Русский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1,CGTN(中国)
+https://live.cgtn.com/1000/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN纪录 (576p)
+http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CGTN西语
+http://livees.cgtn.com/1000e/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1,CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,CNN International (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CONtv (1080p)
+https://contv-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1,Court TV (1080p)
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Dove Channel (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Dutch Omroep West (1080p)
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/HasBahCa.m3u8
+#EXTINF:-1,ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fear This! Classics 视频频道(720p)
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1,Fear This!视频频道 (720p)
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1,Fear This!视频频道科幻 Sci-Fi (720p)
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1,FOX 13 Memphis TN (孟菲斯) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1,FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Soul (1080p)
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hi-YAH! 武术和亚洲动作电影(1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1,HNC Free (1080p)
+https://hncfree-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,IGN (1080p)
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Journy (1080p)
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&pid=5f5132df62fe160040f26bc2&ptoken=PLbo_Jw_s1xgoB_1Srgg
+#EXTINF:-1,KidsFlix (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1,Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Local Now ChopperTown (720p)
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Christmas in July (720p) [Not 24/7]
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Discover (720p)
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Drama (720p)
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Elevation (720p)
+https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Fireside (720p)
+https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Funny You Should Ask (720p)
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Horizon (720p)
+https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Inspiration (720p)
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Justice (720p)
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 2000s (720p)
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 2010s (720p)
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 2020s (720p)
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 30's and 40's (720p)
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 50's and 60's (720p)
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 70's (720p)
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 80's (720p)
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Movies of the 90's (720p)
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now Mr Box Office (720p)
+https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
+#EXTINF:-1,Local Now电视剧 Career Day (720p)
+https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
+#EXTINF:-1,MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,NBC 6 New Orleans LA 新奥尔良 路易斯安那(WDSU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1,NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC News Now Event 1 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC News Now Event 2 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC News Now Event 3 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC News Now Event 4 (720p)
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,News 12 New York (1080p)
+https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f84951fcd58b17880350243_news12-live/a49c22ce-bd31-4cba-afa5-5da8a9cc060b/1.m3u8
+#EXTINF:-1,News 18 印度古吉拉特语Gujarati (360p)
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1,News 18 印度孟加拉语Bengali (360p)
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1,News 18 印度查蒂斯加尔印地语Chhattisgarh (360p)
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1,Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pinkfong Baby Shark (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1,Reuters Now (1080p)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Ski TV (1080p)
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8

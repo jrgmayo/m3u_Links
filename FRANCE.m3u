@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1,3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/SQs/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1,AFROBIT
+http://41.223.30.250:8080/afrobit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/HasBahCa.m3u8
+#EXTINF:-1,Animaux [Pluto]
+https://bit.ly/animaux_inspiration_m3u8
+#EXTINF:-1,BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/HasBahCa.m3u8
+#EXTINF:-1,BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/HasBahCa.m3u8
+#EXTINF:-1,BFM Lyon (720p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8
+#EXTINF:-1,BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
+#EXTINF:-1,BFM TV
+https://bfmtvhds-lh.akamaihd.net/i/BFMTV_ESYTLS@664114/master.m3u8
+#EXTINF:-1,BIP TV
+http://biptv.tv:80/live/biptvstream_orig/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BIP TV (480p) [Not 24/7]
+http://biptv.tv/live/biptvstream_orig/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BOSSBROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cgtn
+http://livefr.cgtn.com/cctv-f.m3u8
+#EXTINF:-1,CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Clubbing TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
+#EXTINF:-1,Cnews (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1,Cribs Maisons De Star (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9
+#EXTINF:-1,DBM TV (1080p)
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/HasBahCa.m3u8
+#EXTINF:-1,emcitv kinshasa
+https://emci-af-hls.akamaized.net/hls/live/2012336/emciafhls/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Espace Francophone
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1,Eurosport 2
+http://212.102.60.80/Eurosport2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fashion TV (1080p)
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV (Opt-1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fashion TV (Opt-2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/HasBahCa.m3u8
+#EXTINF:-1,Fashion TV (UHD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV L'Original (1080p)
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,FashionTV Midnite Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,FashionTV Midnite Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/HasBahCa.m3u8
+#EXTINF:-1,FashionTV Mumbai (720p)
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1,FashionTV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1,FashionTV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1,FashionTV Singapore
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+#EXTINF:-1,France 24 ydk
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1,Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/HasBahCa.m3u8
+#EXTINF:-1,Instant Saga
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11c2399-2d50-4607-be2c-d35d72152bbe
+#EXTINF:-1,Instant Saga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11c2399-2d50-4607-be2c-d35d72152bbe
+#EXTINF:-1,Juste pour Rire
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1,Juste pour Rire (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+#EXTINF:-1,La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/HasBahCa.m3u8
+#EXTINF:-1,Loupe
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8d6c7877d40007791af0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c1-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b9651e5-80c9-45f6-b3a0-499e9abe049a
+#EXTINF:-1,Loupe (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8d6c7877d40007791af0/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c1-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b9651e5-80c9-45f6-b3a0-499e9abe049a
+#EXTINF:-1,M6 INT FHD
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+#EXTINF:-1,MANA TV FR 1
+http://c2.manasat.com:1935/eglise-online/frances1/HasBahCa.m3u8
+#EXTINF:-1,MANA TV FR 2
+http://c2.manasat.com:1935/eglise-online/frances2/HasBahCa.m3u8
+#EXTINF:-1,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/HasBahCa.m3u8
+#EXTINF:-1,Motorvision TV (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?HasBahCa.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+#EXTINF:-1,MyTV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NW Info 2
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NW Magazine
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Plex TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/HasBahCa.m3u8
+#EXTINF:-1,Pluto TV Les Nouveaux Detectives
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Pluto TV MADE TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?HasBahCa.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,REPENTANCE TV
+http://connectiktv.ddns.net:5000/repantence/repantence/chunklist_w2129736577.m3u8
+#EXTINF:-1,RT FRANCE
+https://rt-fra.gcdn.co/live/rtfrance/playlist_2500Kb.m3u8
+#EXTINF:-1,Sofy TV (720p)
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sophia TV
+https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/HasBahCa.m3u8
+#EXTINF:-1,Tastemade France (1080p)
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1,TV5 Monde Infoᴴᴰ
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1,TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/HasBahCa.m3u8
+#EXTINF:-1,TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TébéSud
+https://edge-live-ger1.ovstream.com/hls/10/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/HasBahCa.m3u8
+#EXTINF:-1,Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Vision 4 (OPT-2)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4-avc1_1500000=5-mp4a_65200_qad=1.m3u8
+#EXTINF:-1,viàOccitanie (540p)
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+#EXTINF:-1,viàVosges (576p) [Not 24/7]
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VoxAfrica
+https://1927901613.rsc.cdn77.org/1927901613/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Wildside TV (720p)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8

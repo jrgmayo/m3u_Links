@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1,3AW 693 AM Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC
+https://c.mjh.nz/101002410241/
+#EXTINF:-1,ABC Adelaide AU
+https://c.mjh.nz/101002510251/
+#EXTINF:-1,ABC Darwin AU
+https://c.mjh.nz/101002810281/
+#EXTINF:-1,ABC Hobart AU
+https://c.mjh.nz/101002710271/
+#EXTINF:-1,ABC KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:-1,ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1,ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1,ABC Melbourne AU
+https://c.mjh.nz/101002310231/
+#EXTINF:-1,ABC News
+https://c.mjh.nz/101002210220/
+#EXTINF:-1,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News in 90 Seconds
+https://i.mjh.nz/au/Brisbane/tv.abc_news_90
+#EXTINF:-1,ABC Perth AU
+https://c.mjh.nz/3201026102E1/
+#EXTINF:-1,ABC Sydney AU
+https://c.mjh.nz/101002210221/
+#EXTINF:-1,ABC TV (720p)
+https://c.mjh.nz/101002210221
+#EXTINF:-1,Al Jazeera
+https://i.mjh.nz/au/Brisbane/tv.46.m3u8
+#EXTINF:-1,ausbiz TV
+https://i.mjh.nz/au/Adelaide/tv.7ausbiz.m3u8
+#EXTINF:-1,Ausbiz TV (720p)
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ausbiz TV (720p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+#EXTINF:-1,Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Australia Channel News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360v3.m3u8
+#EXTINF:-1,Bloomberg Australia
+https://i.mjh.nz/au/Adelaide/tv.bloomberg.m3u8
+#EXTINF:-1,Bloomberg TV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bloomberg TV Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bloomberg TV Australia (720p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
+#EXTINF:-1,Breeze TV (720p)
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+#EXTINF:-1,C31 Melbourne (480p)
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1,Channel 44 (480p)
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Channel News Asia (CNA)
+https://i.mjh.nz/au/Adelaide/tv.cna.m3u8
+#EXTINF:-1,CNA (1080p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+#EXTINF:-1,EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1,Expo Channel (360p)
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1,Fuel TV (1080p)
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Fuel TV (720p)
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Insight TV (720p)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Introuble TV (1080p)
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Inwild TV (720p)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Inwonder TV (720p)
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/HasBahCa.m3u8
+#EXTINF:-1,Naturescape (Australia)
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NZ:Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:-1,NZ:BREEZE TV
+https://i.mjh.nz/nz/tv.68.m3u8
+#EXTINF:-1,NZ:Firstlight
+https://i.mjh.nz/nz/tv.39.m3u8
+#EXTINF:-1,NZ:Juice TV
+https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1,NZ:Māori Television
+https://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:-1,NZ:Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1,NZ:Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NZ:Redbull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1,NZ:Te Reo
+https://i.mjh.nz/nz/tv.20.m3u8
+#EXTINF:-1,NZ:The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+#EXTINF:-1,Real Stories (720p)
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Red Bull TV (1080p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+#EXTINF:-1,Redbull TV
+https://i.mjh.nz/au/Adelaide/tv.redbull.tv.m3u8
+#EXTINF:-1,Rialto (1080p)
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ryan and Friends (1080p)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Edge (720p)
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1,TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1,VENN (1080p)
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wonder (Australia)
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8

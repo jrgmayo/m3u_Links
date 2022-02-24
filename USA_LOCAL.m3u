@@ -1,0 +1,869 @@
+#EXTM3U
+#EXTINF:-1,10.1 NBC Baltimore (WCAU-DT1( | HD 1080p
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+#EXTINF:-1,10.2 COZY TV New Jersey | HD 432p
+https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
+#EXTINF:-1,11 ABC Louisville KY (WHAS) (1080p)
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,11 NBC (WPXI) Pittsburgh PA | HD 720p
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,11.1 NBC Baltimore (WBAL-TV( | HD
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+#EXTINF:-1,12.1 PBS Philadelphia (WHYY) | HD 1080p
+https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
+#EXTINF:-1,12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
+https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
+#EXTINF:-1,13 ABC Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,13 ABC Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1,13 ABC Norfolk VA (WVEC) (1080p)
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,15 ABC Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1,16 ABC Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,16.1 NEWS Jackson MS (WAPT-TV) | HD
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1,16.1 Weathernation Kansas City KS (KCKS-LD6) | HD 480p
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,16.1 Weathernation TV | HD 720p
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:-1,194 Worcester MA (WCCA-TV) | HD
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1,2.1 CBS New York WCBS | HD 432p
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+#EXTINF:-1,2.1 NBC-WESH Orlando FL (WESH-TV) | HD 720p
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+#EXTINF:-1,2.2 GRIT New Jersey | HD 432p
+https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
+#EXTINF:-1,2.5 Retro TV New Jersey (WDPN-DT5) | HD 432p
+https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
+#EXTINF:-1,21.1 PBS New York NY (WLIW) | HD 1080p
+https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
+#EXTINF:-1,21.2 PBS CreateTV New York NY (WLIW-DT2) | HD 1080p
+https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
+#EXTINF:-1,21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
+https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
+#EXTINF:-1,21.4 PBS All Arts New York NY (WLIW-DT4) | HD 1080p
+https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
+#EXTINF:-1,3 ATLANTA Channel tv USA HD
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1,39 PBS Allentown PA (WLVT) | HD (720p)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1,39 PBS Extra Philadelphia PA (WPPT) | HD (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1,3News Now (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,4.1 TCT Skillman NJ WACP-DT1 | HD
+https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
+#EXTINF:-1,4.2 ACE Atlantic City NJ WACP-DT2 | HD 480P
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+#EXTINF:-1,4.4 ShopLC Toms Rivers NJ WACP-DT4 | HD 480P
+https://v-pi.theus6tv.tk/hls/4.4/playlist.m3u8
+#EXTINF:-1,4.5 JTV HD Jewelry New Jersey NJ WACP-DT5 | HD 480P
+https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
+#EXTINF:-1,4.6 FAM The Family Channel WACP-DT6 | HD 480p
+https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
+#EXTINF:-1,45.1 Daystar Spring House PA | HD 720p
+https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
+#EXTINF:-1,5.1 ABC / NEWS Boston MT (WCVB-TV) | HD 720p
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1,68.1 PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1,7 ABC (WWSB) Sarasota.Florida. HD
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,7 News (WHDH) Boston MA | HD
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,7.4 HSN New York NY | HD
+https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+#EXTINF:-1,ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 5 Right Now | Great Falls | Helena MT (KFBB-TV) (720p) [Not 24/7]
+https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/d041b5d9-5786-497e-83fc-dc60c9d17d28/1.m3u8
+#EXTINF:-1,ABC 7 Denver (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1,ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC 9 Charlotte NC (WSOC-TV) (720p)
+https://wsoc-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec767ccf811b28ab4b5178_wsoc-live/fc31136d-53d2-40ce-bf5c-968151104189/0.m3u8
+#EXTINF:-1,ABC 9 Orlando FL (WFTV-TV) (720p)
+https://wftv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6c88697fde61b473b215_wftv-live/02d33bc1-916f-49a6-b410-0cf80a00f52b/0.m3u8
+#EXTINF:-1,ABC News Australiaᴴᴰ
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
+#EXTINF:-1,ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ABC-FOX 18 Butte MT (KWYB-TV) (720p) [Not 24/7]
+https://kwyb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9af3601a42f4980067072_kwyb-live/44bb663d-febe-44d9-9064-018ae5ccb94d/1.m3u8
+#EXTINF:-1,ACCDN
+https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Akaku 53 (Hawaii) (1080p)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1,Akaku 54 (Hawaii) (1080p)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1,Akaku 55 (Hawaii) (1080p)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1,AKC TV - Meet the Breeds
+https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
+#EXTINF:-1,Alabama: Birmingham (STIRR) (720p)
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Alabama: Mobile (STIRR) (720p)
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Albany | CBS 6 WRGB (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1,America vs. Addiction
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,American Classics (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Arkansas: Little Rock (STIRR) (720p)
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/HasBahCa.m3u8
+#EXTINF:-1,Atlanta Channel (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/HasBahCa.m3u8
+#EXTINF:-1,AWE Encore (720p) [Geo-blocked]
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1,Beach TV CSULB (720p) [Not 24/7]
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1,Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Florida & Alabama (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Myrtle Beach & The Grand Strand (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Myrtle Beach & The Grand Strand (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/HasBahCa.m3u8
+#EXTINF:-1,Beach TV Panama City (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/HasBahCa.m3u8
+#EXTINF:-1,Bek Sports East | HD
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1,Bek Sports West | HD
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1,Big Life
+https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Blaze TV (720p)
+https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Boston 25 News (WFXT) (720p)
+https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Boston 25 News Now (WFXT) (720p)
+https://wfxt-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6e73bf2fa637c1113392_wfxt-live/b8c36e4f-5455-4038-a56a-526acd528ead/0.m3u8
+#EXTINF:-1,Bowie TV (360p)
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Bowie TV (360p)
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/HasBahCa.m3u8
+#EXTINF:-1,BspokeTV
+https://dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BUTV10 (Boston University) (1080p)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,California: Bakersfield (STIRR) (720p)
+https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,California: Chico-Redding (STIRR) (720p)
+https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,California: Fresno-Visalia
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,California: Los Angeles
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Canal 110 Garage TV HDTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1,Canal 110 Garage TV HDTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/HasBahCa.m3u8
+#EXTINF:-1,CBS 10 Columbus OH (WBNS-TV) (1080p)
+https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 10 Tampa FL (WTSP) (1080p)
+https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 11 Houston TX (KHOU) (1080p)
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 11 Toledo OH (WTOL) (1080p)
+https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 13 Macon GA (WMAZ-TV) (1080p)
+https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 19 Columbia SC (WLTX) (1080p)
+https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 19 Tyler TX (KYTX) (1080p)
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 2 Greensboro NC (WFMY) (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 2 Spokane WA (KREM) (1080p)
+https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 4 New Orleans LA (WWL-TV) (1080p)
+https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 47 | FOX 30 Jacksonville FL (WJAX-TV) (720p)
+https://wjax-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec72001057fa6e4b3ebcd2_wjax-live/6f5aef42-21d9-4551-887e-eb18a7945066/0.m3u8
+#EXTINF:-1,CBS 5 Ft Smith AR (KFSM-TV) (1080p)
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 5 San Antonio TX (KENS) (1080p)
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 7 Dayton OH (WHIO-TV) (720p)
+https://whio-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6ffdf7633b2e077bda44_whio-live/6301d11e-05d0-4487-8d2e-09d3927d0d70/0.m3u8
+#EXTINF:-1,CBS 7 Seattle WA (KIRO-TV) (720p)
+https://kiro-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ec6a57697fde61b473b214_kiro-live/cb075082-6363-4e06-b769-fd508bbe8b6c/0.m3u8
+#EXTINF:-1,CBS 8 San Diego CA (KFMB-TV) (1080p)
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS 9 Washington DC (WUSA) (1080p)
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS News Los Angeles (720p)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1,CBS News | CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.CHI.OTT
+#EXTINF:-1,CBS News | CBSN Dallas-Ft.W.
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.DALLAS.OTT
+#EXTINF:-1,CBS News | CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.DENVER.OTT
+#EXTINF:-1,CBS News | CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.PITTS.OTT
+#EXTINF:-1,CBS THV11 Little Rock AR (KTHV) (1080p)
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBS46 (WGCL-TV) (720p)
+https://live.field59.com/wgcl/ngrp:wgcl1_all/HasBahCa.m3u8
+#EXTINF:-1,CBSN 11 Dallas / Fort Worth TX (KTVT) (720p)
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN 2 Los Angeles CA (KCBS-TV) (720p)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Dallas (720p)
+http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Los Angeles (720p)
+http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Minnesota (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1,CBSN New York (720p)
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Philly (720p)
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?HasBahCa.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1,CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSN Sacramento (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CBSNews Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CC-TV (720p)
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
+#EXTINF:-1,CCX Media North Brooklyn Park MN (1080p)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,Channel 23 Clark Vancouver TV (CVTV) (1080p) [Not 24/7]
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+#EXTINF:-1,Channel 9 Orlando FL (WFTV) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CHARGE (STIRR) (720p)
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Charge! USA | HD
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,Charge! | HD
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,Charge! | HD
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
+#EXTINF:-1,Charge! | HD
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/HasBahCa.m3u8
+#EXTINF:-1,Cheddar News USA HDTV
+https://live.chdrstatic.com/cheddar/primary/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Chicken Soup For The Soul
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cinehouse (STIRR) (720p)
+https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CineLife (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Comedy Dynamics (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,COMET (STIRR) (720p)
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Comet | HD
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1,CONtv
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CRACKLE PlexTV | HD
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,CRACKLE XumoTV | HD
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,CT-N Court Feed (360p)
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+#EXTINF:-1,CT-N Live Stream 2 (360p) [Not 24/7]
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1,CT-N TV Conneticut (720p)
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1,Deal or No Deal (STIRR) (720p)
+https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Dick Cavett
+https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Docurama (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Dove
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.1 Buzzr
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.2 NewsNet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.3 Ace TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.5 America's Voice
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.7 Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EPG | TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Filmrise Classic TV (STIRR) (720p)
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Filmrise Free Movies (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Florida: Gainesville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Florida: Pensacola (STIRR) (720p)
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Florida: West Palm Beach (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 10 Phoenix AZ (KZAS) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+#EXTINF:-1,FOX 11 Los Angeles CA (KTTV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1,FOX 13 Tampa Bay FL (WTVT) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+#EXTINF:-1,Fox 15 West Texas Abilene TX (KXVA) (1080p)
+https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 2 Detroit MI (WJBK) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+#EXTINF:-1,FOX 2 San Francisco CA (KTVU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1,FOX 23 Tulsa OK (KOKI-TV) (720p)
+https://d1qauyesiiplpj.cloudfront.net/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60a6c3588e35957ea840bb02_koki-live-1/e13a6437-9c85-428e-a079-a88f84dbbd7a/0.m3u8
+#EXTINF:-1,Fox 23 Tulsa OK (KOKI-TV) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 26 Houston TX (KRIV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
+#EXTINF:-1,FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
+#EXTINF:-1,FOX 32 Chicago IL (WFLD) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+#EXTINF:-1,FOX 35 Orlando FL (WOFL) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+#EXTINF:-1,FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+#EXTINF:-1,Fox 43 Harrisburg PA (WPMT) (1080p)
+https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+#EXTINF:-1,FOX 5 New York NY (WNYW) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1,FOX 5 Washington DC (WTTG) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+#EXTINF:-1,Fox 54.1 Huntsville AL (WZDX) (1080p)
+https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 6 Milwaukee WI (WITI) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
+#EXTINF:-1,Fox 61 Hartford CT (WTIC-TV) (1080p)
+https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,FOX 7 Austin TX (KTBC) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+#EXTINF:-1,FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+#EXTINF:-1,FOX Q13 Seattle WA (KCPQ) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+#EXTINF:-1,Frank Speech - Overcomers.TV - USA
+https://frnksocial.mmdlive.lldns.net/frnksocial/a5e6157524ce49e3a0653d5841619ac3/manifest.m3u8
+#EXTINF:-1,Georgia: Albany (STIRR) (720p)
+https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Georgia: Macon (STIRR) (720p)
+https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,GET TV | HD
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+#EXTINF:-1,Glendale 11 (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Glendale 11 AZ (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,Gravitas (STIRR) (720p)
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,GRIT | HD
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
+#EXTINF:-1,GRIT | HD
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/HasBahCa.m3u8
+#EXTINF:-1,Groovy TV | HD
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1,Gusto (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Hallmark Movies & More | HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1,Hsn (720p) [Geo-blocked]
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,HTV 1 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1,HTV 2 - Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/HasBahCa.m3u8
+#EXTINF:-1,HTV 2 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1,HTV Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1,Idaho: Boise (STIRR) (720p)
+https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Idaho: Lewiston
+https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Illinois: Quincy
+https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Illinois: Springfield #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Imagen Multicast (480p) [Not 24/7]
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+#EXTINF:-1,Indiana: South Bend
+https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ion 8 Christiansted VI (WSVI-TV) (300p)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,ION Plus | HD
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Iowa: Cedar Rapids (STIRR) (720p)
+https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Iowa: Ottumwa (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,It's Showtime at the Apollo
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Johnny Carson TV
+https://dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,KBSV/AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,KCCI-TV News Des Moines IA (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
+#EXTINF:-1,KCRA-TV News Sacramento CA (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1,KCRT-TV 28 Richmond CA (KCRT) (360p)
+http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/HasBahCa.m3u8
+#EXTINF:-1,KCRT-TV 28 Richmond CA (KCRT) (360p)
+http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/playlist.m3u8
+#EXTINF:-1,KHBS-TV News Fort Smith AR (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1,KOAT-TV News Albuquerque NM (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
+#EXTINF:-1,KSBW-TV News Salinas CA (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+#EXTINF:-1,KTLA 5 Los Angeles CA (144p)
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1,KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1,Lake Havasu City 4 (240p) [Not 24/7]
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8
+#EXTINF:-1,Leominster TV Educational (1080p)
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:-1,Leominster TV Government (1080p)
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1,Leominster TV Public (1080p)
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:-1,LeSEA Broadcasting Network (USA)
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Lex TV (720p)
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1,Maine: Portland (STIRR) (720p)
+https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Maryland: Baltimore (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MavTV (STIRR)
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1,MavTv (STIRR) (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Miami City TV (360p) [Not 24/7]
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1,Michigan: Bay City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Michigan: Cadillac (STIRR) (720p)
+https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Midnight Pulp (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Millennium TV 24 (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
+#EXTINF:-1,Millennium TV USA (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1,Missouri: Columbia (720p)
+https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Montana: Missoula (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Motorvisison TV | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1,Mystery Science Theater 3000 (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NASATV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC 25 Tri-Cities Richland WA (KNDU) (720p) [Not 24/7]
+https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/8a5c1c57-d616-4677-929f-ee80ebbea564/1.m3u8
+#EXTINF:-1,NBC 26 Green Bay WI (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1,NBC 6 College Station TX (KAGS) (1080p)
+https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBC 6 Spokane WA (KHQTV) (360p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8
+#EXTINF:-1,Nebraska: Hastings (STIRR) (720p)
+https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nevada: Las Vegas
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nevada: Reno (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,New Orleans Television (NOTV) (720p)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/HasBahCa.m3u8
+#EXTINF:-1,New Orleans Television (NOTV) (720p)
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/HasBahCa.m3u8
+#EXTINF:-1,New York: Albany (STIRR) (720p)
+https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,New York: Rochester
+https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,New York: Syracuse (STIRR) (720p)
+https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,News 12 New York
+https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,North Carolina: Greenville - Asheville (STIRR) (720p)
+https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,North Carolina: Greenville - New Bern (STIRR) (720p)
+https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,North Carolina: Raleigh - Durham (STIRR) (720p)
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Northeast Live - India
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/HasBahCa.m3u8
+#EXTINF:-1,Nosey
+https://dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nothing Scripted (720p)
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1,Ohio: Cincinnati (STIRR) (720p)
+https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ohio: Columbus #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ohio: Columbus #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ohio: Dayton (STIRR) (720p)
+https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ohio: Toledo (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Oklahoma: Oklahoma City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Oklahoma: Tulsa (STIRR) (720p)
+https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Olelo 54 (720p) [Not 24/7]
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/playlist.m3u8
+#EXTINF:-1,Olelo 55 (720p) [Not 24/7]
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/playlist.m3u8
+#EXTINF:-1,One America News (720p)
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1,ONTV4U
+https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Orange TV (720p)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1,Oregon: Eugene - Springfield #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Oregon: Eugene - Springfield #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Oregon: Medford (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Oregon: Portland (STIRR) (720p)
+https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Outside TV (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,PA (WFMZ-DT1) | HD 720p
+https://v-pi.theus6tv.tk/hls/69.1/playlist.m3u8
+#EXTINF:-1,Panarmenian TV (KNET-CD 25.2) (360p) [Not 24/7]
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/HasBahCa.m3u8
+#EXTINF:-1,Panarmenian TV (KNET-CD 25.2) (360p) [Not 24/7]
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
+#EXTINF:-1,PBS 39 Allentown PA (WLVT) (720p)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/HasBahCa.m3u8
+#EXTINF:-1,PBS 39 Extra Philadelphia PA (WPPT) (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/HasBahCa.m3u8
+#EXTINF:-1,PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1,PBS Kids Eastern/Central (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1,PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,PBS Kids Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#EXTINF:-1,PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1,PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1,PBS World Channel | HD (480p)
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1,PBS | World Channel (480p)
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
+#EXTINF:-1,PCC-TV - Pinellas County Florida (480p)
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/HasBahCa.m3u8
+#EXTINF:-1,PCC-TV Pinellas County FL (480p)
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1,Pennsylvania: Harrisburg (STIRR) (720p)
+https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pennsylvania: Johnstown - Altoona (STIRR) (720p)
+https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pennsylvania: Pittsburgh (STIRR) (720p)
+https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pennsylvania: Wilkes Barre - Scranton (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,People Are Awesome
+https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,People TV (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,PIX11 (New York) (720p)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1,Popstar! TV (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Positiv TV (720p) [Geo-blocked]
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,PursuitUp (STIRR) (720p)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Radio y Televisión Martí (1080p)
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RCG TV HDTV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,RetroCrush (STIRR) (720p)
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Revry
+https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rhode Island: Providence (STIRR) (720p)
+https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ring of Honor (STIRR) (720p)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Seattle Channel (720p) [Not 24/7]
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
+#EXTINF:-1,SET Televisión Canal 26.2 | HD
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1,SET Televisión Canal 26.2 | HD
+http://189.240.210.28:1935/live/setpuebla/HasBahCa.m3u8
+#EXTINF:-1,Shop LC
+https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SOAR (STIRR) (720p)
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,South Carolina: Charleston
+https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,South Carolina: Columbia
+https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,South Carolina: Florence (STIRR) (720p)
+https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Space 1999 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Space Channel | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+#EXTINF:-1,Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stadium (STIRR) (720p)
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Stingray Classic Rock
+https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Everything 80s
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Flashback 70s
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hit List
+https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hot Country
+https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Pop Adult
+https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Rock Alternative
+https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Today's Latin Pop
+https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Urban Beats
+https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR - NASA TV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR CITY (720p)
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR Classic TV
+https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR Horror Movies (720p)
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR Movies (720p)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR P.D.
+https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR Reality TV
+https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,STIRR Westerns (720p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Swerve Sports
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Telemundo Telenovelas HDTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Tempe 11 AZ (720p) [Not 24/7]
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8
+#EXTINF:-1,Tennessee: Chattanooga (STIRR) (720p)
+https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: Abilene (STIRR) (720p)
+https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: Austin (STIRR) (720p)
+https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: Beaumont (STIRR) (720p)
+https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: Beaumont - Port Arthur (STIRR) (720p)
+https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: El Paso #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: El Paso #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Texas: San Antonio (STIRR) (720p)
+https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,The Archive
+https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,The Bob Ross Channel (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,The Design Network TV (720p)
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The First (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,The Ohio Channel (WOSU-DT3) (720p)
+https://5ebe6889de541.streamlock.net/live/stream_10/HasBahCa.m3u8
+#EXTINF:-1,The Ohio Channel (WOSU-DT3) (720p)
+https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
+#EXTINF:-1,The Rockville Channel (720p) [Not 24/7]
+http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/HasBahCa.m3u8
+#EXTINF:-1,The Rockville Channel (720p) [Not 24/7]
+http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/playlist.m3u8
+#EXTINF:-1,The Southeastern Channel (540p)
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,The Tim Conway Show
+https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TSTV (720p)
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV33 Detroit Live (WHPR) (720p) [Not 24/7]
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1,UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/HasBahCa.m3u8
+#EXTINF:-1,USA CA | Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1,USA Today
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Utah: Salt Lake City (STIRR) (720p)
+https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Village of Hastings-On-Hudson NY (WHOH-TV) (360p)
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,Virginia: Lynchburg - Roanoke
+https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Virginia: Norfolk - Portsmouth (STIRR) (720p)
+https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Virginia: Tri-Cities (STIRR) (720p)
+https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Washington: Seattle (STIRR) (720p)
+https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Washington: Yakima - Pasco #1 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Washington: Yakima - Pasco #2 (STIRR) (720p)
+https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Watch it Kids TV | HD 720p`
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1,Watch it Scream TV | HD 720p
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+#EXTINF:-1,WayPoint TV | HD 720p
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1,West Virginia: Charleston - Huntington (STIRR) (720p)
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Western 4U TV | HD 720p
+https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
+#EXTINF:-1,Whistle TV (STIRR) (720p)
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,White Plains Community Media | HD 720p
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1,Winthrop Community Access TV (WCAT 15) (360p) [Not 24/7]
+https://edu-wcat.azureedge.net/live/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Winthrop Community Access TV (WCAT 22) (480p)
+https://frontdoor.wcat-tv.org:8686/live/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Winthrop Community Access TV (WCAT 3) (480p)
+https://frontdoor.wcat-tv.org:8787/live/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Wipeout Xtra (STIRR) (720p)
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Wired (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1,Wisconsin: Green Bay (STIRR) (720p)
+https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Wisconsin: Milwaukee (STIRR) (720p)
+https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,WISN-TV News Milwaukee WI (576p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1,WJCL-TV News Savannah GA (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1,WLKY-TV News Louisville KY (576p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+#EXTINF:-1,WLNG Radio (410p) [Not 24/7]
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1,WLS TV News (720p)
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+#EXTINF:-1,WMOR-TV News Lakeland FL (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1,WMTW-TV News Portland ME (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1,World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1,World Poker Tour
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8?HasBahCa.m3u8
+#EXTINF:-1,World Poker Tour (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
+#EXTINF:-1,WPBF-TV News West Palm Beach FL (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:-1,WPEC CBS12 News (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1,WPTZ-TV News Plattsburgh NY (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1,WPVI-TV News (720p)
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1,WRNN-DT1 (ShopLC) (720p)
+https://v-ny.theus6tv.tk/hls/48.1/playlist.m3u8
+#EXTINF:-1,WRNN-DT2 (Circle) (432p)
+https://v-ny.theus6tv.tk/hls/48.2/playlist.m3u8
+#EXTINF:-1,WSVI TV - Virgin Islands USA
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,WTGS FOX 28 Savannah GA (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1,WTVD TV News (720p)
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
+#EXTINF:-1,Wu Tang Collection (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1,WXII-TV News Winston-Salem NC (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8

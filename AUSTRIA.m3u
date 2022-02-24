@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,Antenne Vorarlberg (Webradio)
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Antenne Vorarlberg (Webradio)
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/HasBahCa.m3u8
+#EXTINF:-1,AT:FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,AT:KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1,AT:KTV Austria
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1,AT:SchauTV
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
+#EXTINF:-1,AT:Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AT:TRP 1
+rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
+#EXTINF:-1,Bachstiftung | Áustria
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5fe179b6-6aca-11eb-908d-533d39655269/0/master.m3u8?HasBahCa.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1,dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Dorf TV (576p)
+https://stream.openplayout.org/hls/dorftv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,eo TV (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1,eo TV (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd5/HasBahCa.m3u8
+#EXTINF:-1,Hitradio Ö3 (Webradio)
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1,Krone.TV (360p)
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:-1,Kronehit (1080p)
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Ländle Tv
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1,oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1,oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/HasBahCa.m3u8
+#EXTINF:-1,oe24 TV (360p)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1,oe24 TV (360p)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/HasBahCa.m3u8
+#EXTINF:-1,oe24.TV (360p)
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1,oe24.TV (360p)
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/HasBahCa.m3u8
+#EXTINF:-1,ORF 3 (720p)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1,ORF Sport + (540p)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1,P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,R9 TV
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1,R9 TV
+https://ms01.w24.at/R9/smil:liveeventR9.smil/HasBahCa.m3u8
+#EXTINF:-1,RTV (AT)
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1,SAT.1 HD
+http://89.249.49.78:8000/play/a0jz
+#EXTINF:-1,SchauTV (720p)
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:-1,Teins TV (1080p)
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:-1,Teins TV (1080p)
+https://live1.markenfunk.com/t1/live/HasBahCa.m3u8
+#EXTINF:-1,W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8

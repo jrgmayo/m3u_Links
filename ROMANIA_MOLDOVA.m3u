@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1,Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1,Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1,Agro TV RO
+http://5.254.16.186:80/AgroTV/mono.m3u8
+#EXTINF:-1,AgroTV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/HasBahCa.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1,Aleph Business
+https://stream-aleph.m.ro/Aleph/Alephbiz.stream/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/HasBahCa.m3u8
+#EXTINF:-1,Aleph Smart TV
+https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Alfa Omega TV (540p) [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/HasBahCa.m3u8
+#EXTINF:-1,Alfa Omega TV (Opt-1)
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/HasBahCa.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,Alfa Omega TV [Not 24/7]
+https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
+#EXTINF:-1,Alpeh Business
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz.stream_all/HasBahCa.m3u8
+#EXTINF:-1,Angelus TV
+https://transmisiuni.ro/media/oracatolica/oracatolica/playlist.m3u8
+#EXTINF:-1,AntenaSport (720p)
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1,AntenaSport (720p)
+https://stream1.antenaplay.ro/dfs/farasecrete5/HasBahCa.m3u8
+#EXTINF:-1,Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1,B1 (720p)
+https://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1,Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1,Bucuresti TV
+http://89.38.8.130:39459
+#EXTINF:-1,Columna TV (576p)
+rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF:-1,Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
+#EXTINF:-1,Credo TV HD RO
+http://5.254.16.186:80/CredoTV/mono.m3u8
+#EXTINF:-1,Dibi TV
+http://82.76.210.127:1935/dibitv/live/playlist.m3u8
+#EXTINF:-1,Dibi TV
+http://82.76.210.127:1935/dibitv/live/HasBahCa.m3u8
+#EXTINF:-1,Digi 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+#EXTINF:-1,EST TV
+http://89.38.8.130:39435/
+#EXTINF:-1,Est TV (Neamt) (576p)
+http://89.38.8.130:39435
+#EXTINF:-1,EXPLORIS
+http://89.38.8.130:39449/
+#EXTINF:-1,Inedit TV
+http://edge8.imcr.ro:1359/live/myStream/HasBahCa.m3u8
+#EXTINF:-1,LookSport
+https://stream1.1616.ro:1945/look/livestream/chunklist_w1064961763.m3u8
+#EXTINF:-1,LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w2082157965.m3u8
+#EXTINF:-1,LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w1187299929.m3u8
+#EXTINF:-1,LookSport+
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w926669352.m3u8
+#EXTINF:-1,MEDIA REGIONAL
+http://83.103.150.198:8080
+#EXTINF:-1,MERIDIONAL BAND HD
+http://191.37.223.131:8000/play/a00k/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MeteoTV.TV
+http://80.86.106.207:8000/play/1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Moldova 1 HD
+http://87.248.191.169:80
+#EXTINF:-1,Moldova 2 HD
+http://live.trm.md:1935/live/MoldovaDoi2/HasBahCa.m3u8
+#EXTINF:-1,Nasul TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist_w1929281862.m3u8
+#EXTINF:-1,Nasul TV HD RO
+http://5.254.16.186:80/NasulTV/mono.m3u8
+#EXTINF:-1,Naşul TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/HasBahCa.m3u8
+#EXTINF:-1,Prima TV
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w583626786.m3u8
+#EXTINF:-1,Prima TV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/HasBahCa.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1,Profit
+https://stream1.profit.ro:1945/profit/livestream/HasBahCa.m3u8
+#EXTINF:-1,Profit TV
+http://stream1.profit.ro:1935/profit/livestream/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Profit.ro (404p)
+https://stream1.1616.ro:1945/profit/livestream/HasBahCa.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+#EXTINF:-1,Qub TV
+https://live.djemba.ro/live/qubtvlive/chunklist_w1045349084.m3u8
+#EXTINF:-1,Realitatea FM (Studio) (576p)
+https://live.realitatea.net/livertmp/plus/HasBahCa.m3u8
+#EXTINF:-1,Realitatea Sportiva
+https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+#EXTINF:-1,REDE AMAZONICA RO HD
+http://191.37.223.131:8000/play/a00g/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,REDE TV RO JI-PARAN.
+http://191.37.223.131:8000/play/a00f/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,SIC TV JI-PARANA HD
+http://191.37.223.131:8000/play/a00h/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Speranta TV
+http://us200.streamkit.tv/edge/_definst_/%20sperantatv_1200/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Speranta TV (596p)
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:-1,Speranta TV (720p)
+http://us200.streamkit.tv/edge/sperantatv_1200/HasBahCa.m3u8
+#EXTINF:-1,Speranta TV HD RO
+http://5.254.16.186:80/SperantaTV/mono.m3u8
+#EXTINF:-1,SperantaTV
+https://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Super TV Arges
+http://iptv.supertv.ro:8000/play/a001/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV ALLAMANDA HD
+http://191.37.223.131:8000/play/a00d/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV GAZETA RO HD
+http://191.37.223.131:8000/play/a00e/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV Sat
+http://89.38.8.130:39443/
+#EXTINF:-1,TV SE
+http://89.38.8.130:39419/
+#EXTINF:-1,TV SE (576p)
+http://89.38.8.130:39419
+#EXTINF:-1,TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1,TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8
+#EXTINF:-1,TVR 1 (720p) [Geo-blocked]
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/HasBahCa.m3u8
+#EXTINF:-1,TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist_b6240000.m3u8
+#EXTINF:-1,TVR 2 (720p) [Geo-blocked]
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/chunklist_b2144000.m3u8
+#EXTINF:-1,TVR 3 (720p) [Geo-blocked]
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR Cluj (720p) [Geo-blocked]
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR Craiova (720p) [Not 24/7]
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR Iași (720p) [Geo-blocked]
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
+#EXTINF:-1,TVR International (720p) [Not 24/7]
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/HasBahCa.m3u8
+#EXTINF:-1,TVR MOLDOVA
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b6096000.m3u8
+#EXTINF:-1,TVR Timisoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVR-1 RO
+http://5.254.16.186:80/TVR1/mono.m3u8
+#EXTINF:-1,TVSat (576p)
+http://89.38.8.130:39443
+#EXTINF:-1,TVSE
+http://89.38.8.130:39422/
+#EXTINF:-1,UTV
+http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
+#EXTINF:-1,VP TV
+http://89.38.8.130:39437/
+#EXTINF:-1,ZTV.TV
+http://65.21.245.48:8000/play/1/index.m3u8?HasBahCa.m3u8

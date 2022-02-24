@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1,4Fun Kids
+http://5.254.16.186/4FunKids/mono.m3u8
+#EXTINF:-1,4Fun TV PL
+http://5.254.16.186:80/4FunTV/mono.m3u8
+#EXTINF:-1,92 News
+http://5.254.16.186/92news/mono.m3u8
+#EXTINF:-1,Al Jazeera Balkans HD
+http://185.205.201.101:8023/play/a06i
+#EXTINF:-1,Amari TV
+http://5.254.16.186/AmariTV/mono.m3u8
+#EXTINF:-1,ART Vizija
+rtmp://92.60.237.39/live/test
+#EXTINF:-1,ATV
+http://94.250.61.6:8800/play/a00e
+#EXTINF:-1,B1 HD
+http://185.205.201.101:8023/play/a06n
+#EXTINF:-1,b92
+http://185.24.35.229:8080/b92/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,BN Music HD
+http://185.205.201.101:8023/play/a06h
+#EXTINF:-1,C News
+http://5.254.16.186/CNews/mono.m3u8
+#EXTINF:-1,Cineastar ka EGE
+http://94.250.61.6:8800/play/a00d
+#EXTINF:-1,cinestar action
+http://94.250.61.6:8800/play/cinestaract
+#EXTINF:-1,Djak TV
+http://5.254.16.186/DjakTV/mono.m3u8
+#EXTINF:-1,Duga Plus
+http://185.205.201.101:8023/play/a06l
+#EXTINF:-1,ETB1
+http://5.254.16.186/ETB1/mono.m3u8
+#EXTINF:-1,Fight Network HD
+http://5.254.16.186:80/FightNetwork/mono.m3u8
+#EXTINF:-1,France-24 FR
+http://5.254.16.186:80/France24/mono.m3u8
+#EXTINF:-1,FTV ka Ege
+http://94.250.61.6:8800/play/a002
+#EXTINF:-1,Happy TV
+http://185.24.35.229:8080/happy/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,K1
+http://5.254.16.186/K1/mono.m3u8
+#EXTINF:-1,Kuriakos TV
+http://5.254.16.186/KuriakosTV/mono.m3u8
+#EXTINF:-1,LOV I RIBOLOV ka ege
+http://94.250.61.6:8800/play/a004
+#EXTINF:-1,M/B92
+http://94.250.61.6:8800/play/a001
+#EXTINF:-1,M/HAPPY
+http://94.250.61.6:8800/play/a009
+#EXTINF:-1,M/PRVA
+http://94.250.61.6:8800/play/a007
+#EXTINF:-1,M/RTS 1
+http://94.250.61.6:8800/play/a00a
+#EXTINF:-1,M/RTS 2
+http://94.250.61.6:8800/play/a00b
+#EXTINF:-1,NDR
+http://5.254.16.186/NDR/mono.m3u8
+#EXTINF:-1,Nuta TV
+http://5.254.16.186/NutaTV/mono.m3u8
+#EXTINF:-1,Pannon TV
+https://stream.unrealhosting.hu/hls/pannonrtv/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pink
+http://185.24.35.229:8080/pink/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,Prva
+http://185.24.35.229:8080/prva/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,Prva Plus
+http://185.24.35.229:8080/prvaplus/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,PRVA Plus HD RS
+http://5.254.16.186:80/K1/mono.m3u8
+#EXTINF:-1,Prva World
+http://185.24.35.229:8080/prvaworld/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,RadioTV S
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w1590879283.m3u8
+#EXTINF:-1,Red TV
+http://185.24.35.229:8080/redtv/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,RTP3
+http://5.254.16.186/RTP3/mono.m3u8
+#EXTINF:-1,RTS 1
+http://185.24.35.229:8080/rts/index.m3u8?HasBahCa.m3u8?token=test
+#EXTINF:-1,RTV City Ub (576p)
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1,RTV Novi Pazar (576p)
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1,Sandzak TV
+http://46.240.128.178:4444/STVHD
+#EXTINF:-1,Sehara Online
+http://ip2.xxlservices.com:8081/seharatv/live/chunks.m3u8
+#EXTINF:-1,Super Sat TV
+http://185.205.201.101:8023/play/a06k
+#EXTINF:-1,TSD
+https://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1,TV 101
+http://185.205.201.101:8023/play/a06m
+#EXTINF:-1,TV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV AS
+http://5.254.16.186/TVAS/mono.m3u8
+#EXTINF:-1,TV Duga+
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w407662181.m3u8
+#EXTINF:-1,TV Galicia
+http://5.254.16.186/TVGalicia/mono.m3u8
+#EXTINF:-1,TV Hram
+https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Istok
+http://5.254.16.186/TVIstok/mono.m3u8

@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,1HD (Music)
+http://spb1.peers.tv/streaming/firstmuz/16/hd/HasBahCa.m3u8
+#EXTINF:-1,1Music Channel Hungary
+http://www.1music.hu/1music.m3u8?HasBahCa.m3u8
+#EXTINF:-1,1Music Channel Hungary
+http://1music.hu/1music.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AMC HU
+http://78.109.104.240:8000/play/a0ct/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Apostol TV (576p) [Not 24/7]
+https://live.apostoltv.hu/online/smil:gazdagret.smil/HasBahCa.m3u8
+#EXTINF:-1,ATV (160p)
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/HasBahCa.m3u8
+#EXTINF:-1,ATV (360p)
+https://stream.atv.hu/atvlive/atvstream_2_aac/HasBahCa.m3u8
+#EXTINF:-1,ATV HUNGARY
+http://stream.atv.hu/atvlive/atvstream_2_aac/HasBahCa.m3u8
+#EXTINF:-1,BALATON TV
+http://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1,Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1,BONUM TV
+http://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1,Boomerang HU
+http://78.109.104.240:8000/play/a0d5/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,BUDAKALASZ TV
+http://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cartoon Network
+http://78.109.104.240:8000/play/a0cq/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,CNN
+http://78.109.104.240:8000/play/a0cb/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Cool TV
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1,COOL TV
+http://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8
+#EXTINF:-1,DIGI 24
+http://78.109.104.240:8000/play/a080/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Disney Channel
+http://78.109.104.240:8000/play/a0d0/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DTV (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1,Etno
+http://78.109.104.240:8000/play/a088/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://78.109.104.240:8000/play/a0cz/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Film+
+https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:-1,Hatoscsatorna
+rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
+#EXTINF:-1,Hatoscsatorna (360p)
+https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1,HBO 3 HU
+http://78.109.104.240:8000/play/a0dc/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HBO HU
+http://78.109.104.240:8000/play/a0d8/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HBO2 HU
+http://78.109.104.240:8000/play/a0d2/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,HirTV
+http://78.109.104.240:8000/play/a0br/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Izaura TV
+http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1,KOMLOS TV
+http://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Life TV
+http://78.109.104.240:8000/play/a0d3/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/HasBahCa.m3u8
+#EXTINF:-1,m1
+http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,m2 / Petofi
+http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,M4 Sport
+http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,m5
+http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MUSIC + (720p) [Not 24/7]
+https://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1,Nat Geo
+http://78.109.104.240:8000/play/a0cs/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://78.109.104.240:8000/play/a0d6/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,OZDI VAROSI TV
+http://stream.unrealhosting.hu:7982/live.m3u8
+#EXTINF:-1,Pannon RTV
+http://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF:-1,Pannon RTV (648p)
+https://stream.unrealhosting.hu:4102/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ProTV International
+http://78.109.104.240:8000/play/a084/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Realitatea Plus
+http://78.109.104.240:8000/play/a0bj/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RTL 2 HU
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1,RTL GOLD
+http://78.109.104.240:8000/play/a0cg/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RTL GOLD
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1,RTL II
+https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1,RTL KLUB
+https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1,RTL+
+http://78.109.104.240:8000/play/a0ce/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RTL2
+http://78.109.104.240:8000/play/a0cd/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sorozat Plus
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1,Sorozat+
+http://78.109.104.240:8000/play/a0cf/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Taraf
+http://78.109.104.240:8000/play/a086/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TiSZA TV
+http://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1,Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1,TV Paprika
+http://78.109.104.240:8000/play/a0bv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV2 Sef
+http://78.109.104.240:8000/play/a0cr/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV4
+http://78.109.104.240:8000/play/a0cw/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV5MONDE
+http://78.109.104.240:8000/play/a0cc/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1,TV7 BEKESCSABA
+http://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1,VTV
+http://stream.unrealhosting.hu:7962/live.m3u8
+#EXTINF:-1,VTV Füzesabony (720p) [Not 24/7]
+https://stream.unrealhosting.hu:7962/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ózdi Városi TV (720p) [Not 24/7]
+https://stream.unrealhosting.hu:7982/live.m3u8?HasBahCa.m3u8

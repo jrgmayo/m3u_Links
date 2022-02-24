@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,RTL 2 Tele Letzeburg (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1,RTL Tele Letzeburg (Webradio) (1080p)
+https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1,RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+#EXTINF:-1,RTL Télé Lëtzebuerg (720p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1,RTL Zwee
+https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8
+#EXTINF:-1,RTL Zwee (720p)
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8

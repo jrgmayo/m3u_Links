@@ -1,0 +1,553 @@
+#EXTM3U
+#EXTINF:-1,.red
+http://82.194.1.2:8011/play/a0ej/index.m3u8
+#EXTINF:-1,.red (clone)
+http://82.194.1.2:8011/play/a0ek/index.m3u8
+#EXTINF:-1,2X2
+http://82.194.1.2:8001/play/E36_11977R_SID1826/index.m3u8
+#EXTINF:-1,365 дней ТВ
+http://82.194.1.2:8004/play/E36_12322R_SID101/index.m3u8
+#EXTINF:-1,8 канал
+http://82.194.1.2:8001/play/E36_11977R_SID1824/index.m3u8
+#EXTINF:-1,A1
+http://82.194.1.2:8004/play/E36_12284R_SID827/index.m3u8
+#EXTINF:-1,A2
+http://82.194.1.2:8004/play/E36_12284R_SID828/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://82.194.1.2:8004/play/E36_12284R_SID829/index.m3u8
+#EXTINF:-1,Amedia Premium
+http://82.194.1.2:8004/play/E36_12284R_SID830/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://82.194.1.2:8002/play/E36_11861R_SID203/index.m3u8
+#EXTINF:-1,Ani
+http://82.194.1.2:8003/play/E36_12437R_SID411/index.m3u8
+#EXTINF:-1,Animal Planet
+http://82.194.1.2:8004/play/E36_12284R_SID801/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://82.194.1.2:8008/play/E36_12015R_SID2202/index.m3u8
+#EXTINF:-1,AVTO24
+http://82.194.1.2:8000/play/E36_11785R_SID1328/index.m3u8
+#EXTINF:-1,AVTO24[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1328/index.m3u8
+#EXTINF:-1,AVTO24[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1328/index.m3u8
+#EXTINF:-1,Barely legal
+http://82.194.1.2:8003/play/E36_12437R_SID429/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://82.194.1.2:8003/play/E36_12437R_SID426/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://82.194.1.2:8004/play/E36_12322R_SID126/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://82.194.1.2:8002/play/E36_11861R_SID207/index.m3u8
+#EXTINF:-1,Boomerang
+http://82.194.1.2:8004/play/E36_12284R_SID821/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://82.194.1.2:8001/play/E36_11977R_SID1821/index.m3u8
+#EXTINF:-1,BRIDGE TV DELUXE
+http://82.194.1.2:8008/play/E36_12015R_SID2206/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://82.194.1.2:8001/play/E36_11977R_SID1822/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://82.194.1.2:8004/play/E36_12284R_SID802/index.m3u8
+#EXTINF:-1,CTC Kids HD
+http://82.194.1.2:8002/play/E36_11861R_SID204/index.m3u8
+#EXTINF:-1,CTC Love
+http://82.194.1.2:8011/play/E36_12341L_SID1106/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://82.194.1.2:8004/play/E36_12284R_SID803/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://82.194.1.2:8011/play/E36_12399R_SID12105/index.m3u8
+#EXTINF:-1,Discovery Science
+http://82.194.1.2:8011/play/E36_12341L_SID1110/index.m3u8
+#EXTINF:-1,Doktor
+http://82.194.1.2:8000/play/E36_11785R_SID1310/index.m3u8
+#EXTINF:-1,Doktor[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1310/index.m3u8
+#EXTINF:-1,Doktor[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1310/index.m3u8
+#EXTINF:-1,E TV
+http://82.194.1.2:8003/play/E36_12437R_SID423/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://82.194.1.2:8000/play/E36_11785R_SID1329/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://82.194.1.2:8002/play/E36_11861R_SID201/index.m3u8
+#EXTINF:-1,Eurosport 1[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1329/index.m3u8
+#EXTINF:-1,Eurosport 1[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1329/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://82.194.1.2:8001/play/E36_11938R_SID17107/index.m3u8
+#EXTINF:-1,FAN
+http://82.194.1.2:8003/play/E36_12437R_SID401/index.m3u8
+#EXTINF:-1,Food Network
+http://82.194.1.2:8003/play/E36_12437R_SID416/index.m3u8
+#EXTINF:-1,FOX HD
+http://82.194.1.2:8001/play/E36_11938R_SID17101/index.m3u8
+#EXTINF:-1,Fox Life
+http://82.194.1.2:8004/play/E36_12284R_SID806/index.m3u8
+#EXTINF:-1,FRANCE 24
+http://82.194.1.2:8009/play/E36_12265L_SID1016/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://82.194.1.2:8001/play/E36_11977R_SID1819/index.m3u8
+#EXTINF:-1,HDL
+http://82.194.1.2:8011/play/E36_12399R_SID12103/index.m3u8
+#EXTINF:-1,HGTV
+http://82.194.1.2:8003/play/E36_12437R_SID404/index.m3u8
+#EXTINF:-1,Hollywood
+http://82.194.1.2:8004/play/E36_12284R_SID831/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://82.194.1.2:8001/play/E36_11938R_SID17108/index.m3u8
+#EXTINF:-1,HTB +2
+http://82.194.1.2:8001/play/E36_11977R_SID1802/index.m3u8
+#EXTINF:-1,HTB HD
+http://82.194.1.2:8008/play/E36_12015R_SID2201/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://82.194.1.2:8004/play/E36_12284R_SID807/index.m3u8
+#EXTINF:-1,JimJam
+http://82.194.1.2:8004/play/E36_12284R_SID825/index.m3u8
+#EXTINF:-1,Kanal Disney
+http://82.194.1.2:8000/play/E36_11785R_SID1312/index.m3u8
+#EXTINF:-1,Kanal Disney[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1312/index.m3u8
+#EXTINF:-1,Kanal Disney[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1312/index.m3u8
+#EXTINF:-1,KINOUJAS
+http://82.194.1.2:8000/play/E36_11785R_SID1309/index.m3u8
+#EXTINF:-1,KINOUJAS[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1309/index.m3u8
+#EXTINF:-1,KINOUJAS[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1309/index.m3u8
+#EXTINF:-1,LEOMAX24
+http://82.194.1.2:8009/play/E36_12265L_SID1012/index.m3u8
+#EXTINF:-1,M-1 Global
+http://82.194.1.2:8000/play/E36_11785R_SID1325/index.m3u8
+#EXTINF:-1,M-1 Global[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1325/index.m3u8
+#EXTINF:-1,M-1 Global[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1325/index.m3u8
+#EXTINF:-1,MATC! ARENA
+http://82.194.1.2:8000/play/E36_11785R_SID1301/index.m3u8
+#EXTINF:-1,MATC! ARENA[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1301/index.m3u8
+#EXTINF:-1,MATCH PREMIER
+http://82.194.1.2:8000/play/E36_11785R_SID1314/index.m3u8
+#EXTINF:-1,MATCH PREMIER HD
+http://82.194.1.2:8000/play/E36_11823R_SID1403/index.m3u8
+#EXTINF:-1,MATCH PREMIER HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID1403/index.m3u8
+#EXTINF:-1,MATCH PREMIER[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1314/index.m3u8
+#EXTINF:-1,MATCH PREMIER[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1314/index.m3u8
+#EXTINF:-1,MATCH! BOETS
+http://82.194.1.2:8000/play/E36_11785R_SID1302/index.m3u8
+#EXTINF:-1,MATCH! BOETS[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1302/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 1
+http://82.194.1.2:8000/play/E36_11785R_SID1305/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 1 HD
+http://82.194.1.2:8000/play/E36_11823R_SID14105/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 1 HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID14105/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 1[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1305/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 1[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1305/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 2
+http://82.194.1.2:8000/play/E36_11785R_SID1306/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 2 HD
+http://82.194.1.2:8000/play/E36_11823R_SID1401/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 2 HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID1401/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 2[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1306/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 2[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1306/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 3
+http://82.194.1.2:8000/play/E36_11785R_SID1307/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 3 HD
+http://82.194.1.2:8000/play/E36_11823R_SID1402/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 3 HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID1402/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 3[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1307/index.m3u8
+#EXTINF:-1,MATCH! FUTBOL 3[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1307/index.m3u8
+#EXTINF:-1,MATCH! IGRA
+http://82.194.1.2:8000/play/E36_11785R_SID1303/index.m3u8
+#EXTINF:-1,MATCH! IGRA[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1303/index.m3u8
+#EXTINF:-1,MATCH! IGRA[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1303/index.m3u8
+#EXTINF:-1,MATCH! STRANA
+http://82.194.1.2:8000/play/E36_11785R_SID1304/index.m3u8
+#EXTINF:-1,MATCH! STRANA[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1304/index.m3u8
+#EXTINF:-1,MCM Top
+http://82.194.1.2:8001/play/E36_11977R_SID1809/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://82.194.1.2:8001/play/E36_11938R_SID17106/index.m3u8
+#EXTINF:-1,Mir Basketbola
+http://82.194.1.2:8000/play/E36_11785R_SID1326/index.m3u8
+#EXTINF:-1,Mir Basketbola[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1326/index.m3u8
+#EXTINF:-1,Mir Basketbola[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1326/index.m3u8
+#EXTINF:-1,MTV
+http://82.194.1.2:8004/play/E36_12284R_SID809/index.m3u8
+#EXTINF:-1,MTV 00s
+http://82.194.1.2:8004/play/E36_12284R_SID817/index.m3u8
+#EXTINF:-1,MTV 80s
+http://82.194.1.2:8004/play/E36_12284R_SID816/index.m3u8
+#EXTINF:-1,MTV 90s
+http://82.194.1.2:8004/play/E36_12284R_SID812/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://82.194.1.2:8000/play/E36_11823R_SID1404/index.m3u8
+#EXTINF:-1,MTV Live HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID1404/index.m3u8
+#EXTINF:-1,MUZ
+http://82.194.1.2:8000/play/E36_11785R_SID1313/index.m3u8
+#EXTINF:-1,MUZ[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1313/index.m3u8
+#EXTINF:-1,MUZ[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1313/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://82.194.1.2:8002/play/E36_11861R_SID208/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://82.194.1.2:8002/play/E36_11861R_SID202/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://82.194.1.2:8004/play/E36_12284R_SID814/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://82.194.1.2:8004/play/E36_12284R_SID826/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://82.194.1.2:8000/play/E36_11823R_SID14106/index.m3u8
+#EXTINF:-1,Nickelodeon HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID14106/index.m3u8
+#EXTINF:-1,NickToons
+http://82.194.1.2:8000/play/E36_11785R_SID1327/index.m3u8
+#EXTINF:-1,NickToons[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1327/index.m3u8
+#EXTINF:-1,NickToons[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1327/index.m3u8
+#EXTINF:-1,NTV
+http://82.194.1.2:8000/play/E36_11785R_SID1315/index.m3u8
+#EXTINF:-1,NTV[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1315/index.m3u8
+#EXTINF:-1,NTV[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1315/index.m3u8
+#EXTINF:-1,O!
+http://82.194.1.2:8004/play/E36_12284R_SID808/index.m3u8
+#EXTINF:-1,O-la-la
+http://82.194.1.2:8003/play/E36_12437R_SID432/index.m3u8
+#EXTINF:-1,PEH TB +2
+http://82.194.1.2:8003/play/E36_12437R_SID402/index.m3u8
+#EXTINF:-1,Perviy kanal HD
+http://82.194.1.2:8000/play/E36_11823R_SID1408/index.m3u8
+#EXTINF:-1,Perviy kanal HD[ALTR]
+http://82.194.1.2:8015/play/E36_11823R_SID1408/index.m3u8
+#EXTINF:-1,Playboy TV
+http://82.194.1.2:8003/play/E36_12437R_SID427/index.m3u8
+#EXTINF:-1,Radost moya
+http://82.194.1.2:8000/play/E36_11785R_SID1330/index.m3u8
+#EXTINF:-1,Radost moya[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1330/index.m3u8
+#EXTINF:-1,Radost moya[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1330/index.m3u8
+#EXTINF:-1,RBK-TV
+http://82.194.1.2:8000/play/E36_11785R_SID1317/index.m3u8
+#EXTINF:-1,RBK-TV[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1317/index.m3u8
+#EXTINF:-1,RT (английский)
+http://82.194.1.2:8001/play/E36_11977R_SID1815/index.m3u8
+#EXTINF:-1,RTG HD
+http://82.194.1.2:8011/play/E36_12399R_SID12108/index.m3u8
+#EXTINF:-1,RU.TV
+http://82.194.1.2:8001/play/E36_11977R_SID1812/index.m3u8
+#EXTINF:-1,Shop&Show
+http://82.194.1.2:8000/play/E36_11785R_SID1323/index.m3u8
+#EXTINF:-1,Shop&Show[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1323/index.m3u8
+#EXTINF:-1,Shop&Show[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1323/index.m3u8
+#EXTINF:-1,Shopping Live
+http://82.194.1.2:8009/play/E36_12265L_SID1011/index.m3u8
+#EXTINF:-1,SHOT TV
+http://82.194.1.2:8004/play/E36_12322R_SID121/index.m3u8
+#EXTINF:-1,Subbota!
+http://82.194.1.2:8000/play/E36_11785R_SID1321/index.m3u8
+#EXTINF:-1,Subbota![ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1321/index.m3u8
+#EXTINF:-1,Subbota![osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1321/index.m3u8
+#EXTINF:-1,Telekanal 360
+http://82.194.1.2:8000/play/E36_11785R_SID1316/index.m3u8
+#EXTINF:-1,Telekanal 360[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1316/index.m3u8
+#EXTINF:-1,Telekanal 360[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1316/index.m3u8
+#EXTINF:-1,Telekanal KXL
+http://82.194.1.2:8000/play/E36_11785R_SID1318/index.m3u8
+#EXTINF:-1,Telekanal KXL[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1318/index.m3u8
+#EXTINF:-1,Telekanal KXL[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1318/index.m3u8
+#EXTINF:-1,THT HD
+http://82.194.1.2:8008/play/E36_12015R_SID2207/index.m3u8
+#EXTINF:-1,TiJi
+http://82.194.1.2:8001/play/E36_11977R_SID1834/index.m3u8
+#EXTINF:-1,TLC
+http://82.194.1.2:8004/play/E36_12284R_SID815/index.m3u8
+#EXTINF:-1,TLC HD
+http://82.194.1.2:8002/play/E36_11861R_SID205/index.m3u8
+#EXTINF:-1,TNT
+http://82.194.1.2:8000/play/E36_11785R_SID1319/index.m3u8
+#EXTINF:-1,TNT MUSIC
+http://82.194.1.2:8000/play/E36_11785R_SID1324/index.m3u8
+#EXTINF:-1,TNT MUSIC[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1324/index.m3u8
+#EXTINF:-1,TNT MUSIC[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1324/index.m3u8
+#EXTINF:-1,TNT[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1319/index.m3u8
+#EXTINF:-1,TNT[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1319/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://82.194.1.2:8002/play/E36_11861R_SID206/index.m3u8
+#EXTINF:-1,Travel+Adventure
+http://82.194.1.2:8001/play/E36_11977R_SID1814/index.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://82.194.1.2:8001/play/E36_11938R_SID17105/index.m3u8
+#EXTINF:-1,VIP Comedy
+http://82.194.1.2:8001/play/E36_11938R_SID17102/index.m3u8
+#EXTINF:-1,VIP Megahit
+http://82.194.1.2:8001/play/E36_11938R_SID17103/index.m3u8
+#EXTINF:-1,VIP Premiere
+http://82.194.1.2:8001/play/E36_11938R_SID17104/index.m3u8
+#EXTINF:-1,World Fashion
+http://82.194.1.2:8000/play/E36_11785R_SID1322/index.m3u8
+#EXTINF:-1,World Fashion[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1322/index.m3u8
+#EXTINF:-1,World Fashion[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1322/index.m3u8
+#EXTINF:-1,YU-TV
+http://82.194.1.2:8000/play/E36_11785R_SID1320/index.m3u8
+#EXTINF:-1,YU-TV[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1320/index.m3u8
+#EXTINF:-1,YU-TV[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1320/index.m3u8
+#EXTINF:-1,Zee TV
+http://82.194.1.2:8003/play/E36_12437R_SID405/index.m3u8
+#EXTINF:-1,Zvezda
+http://82.194.1.2:8000/play/E36_11785R_SID1311/index.m3u8
+#EXTINF:-1,Zvezda[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1311/index.m3u8
+#EXTINF:-1,Zvezda[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1311/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://82.194.1.2:8004/play/E36_12322R_SID102/index.m3u8
+#EXTINF:-1,БелРос
+http://82.194.1.2:8001/play/E36_11977R_SID1807/index.m3u8
+#EXTINF:-1,БОБЁР
+http://82.194.1.2:8004/play/E36_12284R_SID818/index.m3u8
+#EXTINF:-1,БОКС ТВ
+http://82.194.1.2:8003/play/E36_12437R_SID422/index.m3u8
+#EXTINF:-1,В гостях у сказки
+http://82.194.1.2:8003/play/E36_12437R_SID425/index.m3u8
+#EXTINF:-1,Время: далекое и близкое
+http://82.194.1.2:8004/play/E36_12284R_SID819/index.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://82.194.1.2:8003/play/E36_12437R_SID431/index.m3u8
+#EXTINF:-1,Дикий
+http://82.194.1.2:8004/play/E36_12322R_SID125/index.m3u8
+#EXTINF:-1,Дом Кино
+http://82.194.1.2:8004/play/E36_12284R_SID820/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://82.194.1.2:8008/play/E36_12015R_SID2205/index.m3u8
+#EXTINF:-1,Домашний
+http://82.194.1.2:8011/play/E36_12341L_SID1102/index.m3u8
+#EXTINF:-1,Дорама
+http://82.194.1.2:8003/play/E36_12437R_SID430/index.m3u8
+#EXTINF:-1,ЕвроКино
+http://82.194.1.2:8001/play/E36_11977R_SID1813/index.m3u8
+#EXTINF:-1,Европа Плюс ТВ
+http://82.194.1.2:8004/play/E36_12322R_SID103/index.m3u8
+#EXTINF:-1,ЖАРА
+http://82.194.1.2:8004/play/E36_12322R_SID123/index.m3u8
+#EXTINF:-1,ЖИВИ!
+http://82.194.1.2:8003/play/E36_12437R_SID418/index.m3u8
+#EXTINF:-1,Звезда +2
+http://82.194.1.2:8003/play/E36_12437R_SID410/index.m3u8
+#EXTINF:-1,Известия
+http://82.194.1.2:8009/play/E36_12265L_SID101/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://82.194.1.2:8004/play/E36_12284R_SID811/index.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://82.194.1.2:8004/play/E36_12322R_SID104/index.m3u8
+#EXTINF:-1,История
+http://82.194.1.2:8001/play/E36_11977R_SID1816/index.m3u8
+#EXTINF:-1,Карусель
+http://82.194.1.2:8004/play/E36_12284R_SID822/index.m3u8
+#EXTINF:-1,Карусель +3
+http://82.194.1.2:8003/play/E36_12437R_SID403/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://82.194.1.2:8004/play/E36_12322R_SID124/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://82.194.1.2:8011/play/E36_12341L_SID1114/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://82.194.1.2:8004/play/E36_12322R_SID108/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://82.194.1.2:8004/play/E36_12322R_SID105/index.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://82.194.1.2:8011/play/E36_12399R_SID12101/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://82.194.1.2:8004/play/E36_12322R_SID106/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://82.194.1.2:8004/play/E36_12322R_SID119/index.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+http://82.194.1.2:8004/play/E36_12322R_SID113/index.m3u8
+#EXTINF:-1,КИНОХИТ
+http://82.194.1.2:8004/play/E36_12322R_SID107/index.m3u8
+#EXTINF:-1,Комедия
+http://82.194.1.2:8011/play/E36_12341L_SID1115/index.m3u8
+#EXTINF:-1,КОННЫЙ МИР HD
+http://82.194.1.2:8008/play/E36_12015R_SID2203/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://82.194.1.2:8004/play/E36_12322R_SID109/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://82.194.1.2:8004/play/E36_12322R_SID110/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://82.194.1.2:8011/play/E36_12341L_SID1103/index.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://82.194.1.2:8004/play/E36_12322R_SID111/index.m3u8
+#EXTINF:-1,Малыш
+http://82.194.1.2:8004/play/E36_12322R_SID122/index.m3u8
+#EXTINF:-1,МАТЧ!
+http://82.194.1.2:8009/play/E36_12265L_SID1002/index.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://82.194.1.2:8008/play/E36_12015R_SID2204/index.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://82.194.1.2:8011/play/E36_12399R_SID12104/index.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://82.194.1.2:8011/play/E36_12399R_SID12102/index.m3u8
+#EXTINF:-1,МИР
+http://82.194.1.2:8009/play/E36_12265L_SID1010/index.m3u8
+#EXTINF:-1,МИР 24
+http://82.194.1.2:8001/play/E36_11977R_SID1823/index.m3u8
+#EXTINF:-1,Мир сериала
+http://82.194.1.2:8011/play/E36_12341L_SID1107/index.m3u8
+#EXTINF:-1,Морской
+http://82.194.1.2:8003/play/E36_12437R_SID414/index.m3u8
+#EXTINF:-1,Москва 24
+http://82.194.1.2:8001/play/E36_11977R_SID1827/index.m3u8
+#EXTINF:-1,Москва Доверие
+http://82.194.1.2:8003/play/E36_12437R_SID417/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая Коллекция
+http://82.194.1.2:8011/play/E36_12341L_SID1118/index.m3u8
+#EXTINF:-1,Моя Планета
+http://82.194.1.2:8001/play/E36_11977R_SID1829/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://82.194.1.2:8004/play/E36_12322R_SID114/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://82.194.1.2:8004/play/E36_12284R_SID823/index.m3u8
+#EXTINF:-1,Мульт
+http://82.194.1.2:8003/play/E36_12437R_SID407/index.m3u8
+#EXTINF:-1,Мультиландия
+http://82.194.1.2:8003/play/E36_12437R_SID428/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://82.194.1.2:8003/play/E36_12437R_SID420/index.m3u8
+#EXTINF:-1,Наука
+http://82.194.1.2:8001/play/E36_11977R_SID1818/index.m3u8
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://82.194.1.2:8004/play/E36_12322R_SID116/index.m3u8
+#EXTINF:-1,Ностальгия
+http://82.194.1.2:8004/play/E36_12322R_SID117/index.m3u8
+#EXTINF:-1,НСТ
+http://82.194.1.2:8004/play/E36_12284R_SID804/index.m3u8
+#EXTINF:-1,НТВ Право
+http://82.194.1.2:8003/play/E36_12437R_SID406/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://82.194.1.2:8003/play/E36_12437R_SID408/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://82.194.1.2:8003/play/E36_12437R_SID415/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://82.194.1.2:8003/play/E36_12437R_SID412/index.m3u8
+#EXTINF:-1,ОТР
+http://82.194.1.2:8000/play/E36_11785R_SID1308/index.m3u8
+#EXTINF:-1,ОТР[ALTR]
+http://82.194.1.2:8015/play/E36_11785R_SID1308/index.m3u8
+#EXTINF:-1,ОТР[osc_tv_srg]
+http://82.194.1.2:8016/play/E36_11785R_SID1308/index.m3u8
+#EXTINF:-1,Первый канал
+http://82.194.1.2:8011/play/E36_12341L_SID1101/index.m3u8
+#EXTINF:-1,Первый канал +2
+http://82.194.1.2:8001/play/E36_11977R_SID1801/index.m3u8
+#EXTINF:-1,ПОБЕДА
+http://82.194.1.2:8009/play/E36_12265L_SID1015/index.m3u8
+#EXTINF:-1,Продвижение
+http://82.194.1.2:8001/play/E36_11977R_SID1830/index.m3u8
+#EXTINF:-1,ПЯТНИЦА
+http://82.194.1.2:8009/play/E36_12265L_SID1009/index.m3u8
+#EXTINF:-1,Пятый канал
+http://82.194.1.2:8009/play/E36_12265L_SID1003/index.m3u8
+#EXTINF:-1,Пятый канал +2
+http://82.194.1.2:8003/play/E36_12437R_SID413/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://82.194.1.2:8009/play/E36_12265L_SID1004/index.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://82.194.1.2:8004/play/E36_12322R_SID115/index.m3u8
+#EXTINF:-1,Россия 1
+http://82.194.1.2:8009/play/E36_12265L_SID1001/index.m3u8
+#EXTINF:-1,Россия 1 +2
+http://82.194.1.2:8011/play/E36_12341L_SID1116/index.m3u8
+#EXTINF:-1,Россия 1 HD
+http://82.194.1.2:8008/play/E36_12015R_SID2208/index.m3u8
+#EXTINF:-1,Россия 24
+http://82.194.1.2:8009/play/E36_12265L_SID1006/index.m3u8
+#EXTINF:-1,Россия К
+http://82.194.1.2:8009/play/E36_12265L_SID1005/index.m3u8
+#EXTINF:-1,Русская ночь
+http://82.194.1.2:8004/play/E36_12322R_SID120/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://82.194.1.2:8003/play/E36_12437R_SID421/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://82.194.1.2:8004/play/E36_12284R_SID810/index.m3u8
+#EXTINF:-1,Русский роман
+http://82.194.1.2:8003/play/E36_12437R_SID424/index.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://82.194.1.2:8001/play/E36_11977R_SID1825/index.m3u8
+#EXTINF:-1,Сарафан
+http://82.194.1.2:8003/play/E36_12437R_SID419/index.m3u8
+#EXTINF:-1,СПАС
+http://82.194.1.2:8009/play/E36_12265L_SID1007/index.m3u8
+#EXTINF:-1,СТС
+http://82.194.1.2:8011/play/E36_12341L_SID1105/index.m3u8
+#EXTINF:-1,Танцуй!
+http://82.194.1.2:8001/play/E36_11977R_SID1806/index.m3u8
+#EXTINF:-1,ТВ-3
+http://82.194.1.2:8009/play/E36_12265L_SID1008/index.m3u8
+#EXTINF:-1,ТВЦ
+http://82.194.1.2:8001/play/E36_11977R_SID1805/index.m3u8
+#EXTINF:-1,ТВЦ +2
+http://82.194.1.2:8001/play/E36_11977R_SID1803/index.m3u8
+#EXTINF:-1,Телеканал КХЛ HD
+http://82.194.1.2:8011/play/E36_12399R_SID12106/index.m3u8
+#EXTINF:-1,ТЕЛЕКАФЕ
+http://82.194.1.2:8004/play/E36_12284R_SID824/index.m3u8
+#EXTINF:-1,ТНВ-Планета
+http://82.194.1.2:8011/play/E36_12341L_SID1108/index.m3u8
+#EXTINF:-1,ТНТ +2
+http://82.194.1.2:8001/play/E36_11977R_SID1804/index.m3u8
+#EXTINF:-1,ТНТ4
+http://82.194.1.2:8001/play/E36_11977R_SID1820/index.m3u8
+#EXTINF:-1,Уникум
+http://82.194.1.2:8011/play/E36_12341L_SID1112/index.m3u8
+#EXTINF:-1,Че
+http://82.194.1.2:8011/play/E36_12341L_SID1109/index.m3u8
+#EXTINF:-1,Ювелирочка
+http://82.194.1.2:8001/play/E36_11977R_SID1817/index.m3u8
+#EXTINF:-1,ЯКлон 2X2
+http://82.194.1.2:8001/play/a0f1/index.m3u8
+#EXTINF:-1,ЯКлон BRIDGE TV (clone)
+http://82.194.1.2:8001/play/a0f3/index.m3u8
+#EXTINF:-1,ЯКлон FOX HD
+http://82.194.1.2:8001/play/a0f2/index.m3u8
