@@ -1,0 +1,111 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Cieszyn
+http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Cracow 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Darlowo
+https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Gdansk
+http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Hotel Stok
+http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Karpacz
+http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Krupowki
+https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Lipowa
+http://91.224.104.112:8181/lipowa/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Myslenice
+http://hoktastream1.webcamera.pl/myslenice_cam_27ccab/myslenice_cam_27ccab.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Olsztyn
+http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Sarbinowo
+http://hoktastream1.webcamera.pl/sarbinowo_cam_bd6ec8/sarbinowo_cam_bd6ec8.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Sea beach
+http://hls1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Sopot
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - TV Cam
+https://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Ujsoly
+http://91.224.104.112:80/ujsoly/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Widok
+http://91.224.104.112:80/wgwidok/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland - Wroclaw
+http://hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 10
+http://live.kamera24.pl/medykain/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 11
+http://live.kamera24.pl/korczowaout/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 12
+http://live.kamera24.pl/korczowain/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 13
+http://79.139.51.165/stella/kamera1.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 14
+http://79.139.51.165/stella/kamera2.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 2
+https://s1.worldcam.live:8082/opocznozalew/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 3
+https://s1.worldcam.live:8082/rabien/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 5
+https://s1.worldcam.live:8082/budkalegowa2/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 6
+https://s1.worldcam.live:8082/karmnik/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 8
+http://live.kamera24.pl/umolawa/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland 9
+http://live.kamera24.pl/medykaout/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland:Dziwnow
+http://hoktastream1.webcamera.pl/dziwnowum_cam_d0ed48/dziwnowum_cam_d0ed48.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Poland:Rysianka
+http://91.224.104.112:80/rysianka1/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polar Bear Family
+https://outbound-production.explore.org/stream-production-191/.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polar Bears - Wapusk
+https://outbound-production.explore.org/stream-production-75/.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen -
+https://hls8.webcamera.pl/skywind_cam_cd171f/skywind_cam_cd171f.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Bukowina Tatrza
+https://hls7.webcamera.pl/skywind_cam_1f9295/skywind_cam_1f9295.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Czarna G?ra - Sienna - g?rna stacja
+https://hls12.webcamera.pl/czarnagora_cam_a068a7/czarnagora_cam_a068a7.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Czarna G?ra Sienna Stacja Narciarska SKI
+https://hls12.webcamera.pl/czarnagora_cam_48108d/czarnagora_cam_48108d.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Elbl
+http://stream.elblag.net:18080/kim/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Elbl
+http://stream.elblag.net:18080/kim2/index.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Gda
+https://hls11.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Gda
+http://kamery.airport.gdansk.pl:1935/EPGD/app29.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Gdynia - Skwer Ko
+http://hls8.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Gdynia pla
+https://hls8.webcamera.pl/gdynia_cam_b80d1e/gdynia_cam_b80d1e.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Gliwice rynek
+https://hls13.webcamera.pl/gliwice_cam_c28bda/gliwice_cam_c28bda.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Katowice Spodek
+http://hls12.webcamera.pl/katowice_cam_2bcad5/katowice_cam_2bcad5.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Kazimierz Dolny
+https://hls7.webcamera.pl/nocowanie_cam_0c89d6/nocowanie_cam_0c89d6.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Ko
+http://hls12.webcamera.pl/kolobrzeg_cam_c26ccc/kolobrzeg_cam_c26ccc.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Mrze
+https://hls15.webcamera.pl/mrzezyno_cam_905068/mrzezyno_cam_905068.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - My
+https://hls1.webcamera.pl/myslenice_cam_cbe333/myslenice_cam_cbe333.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Najstarszy d
+https://hls8.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Niechorze pla
+https://hls8.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Pola
+https://hls8.webcamera.pl/polanczyk_cam_d1e2d8/polanczyk_cam_d1e2d8.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Pysz?w Lodowisko
+https://hls1.webcamera.pl/pszow2_cam_4b93fa/pszow2_cam_4b93fa.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Rusi
+https://hls12.webcamera.pl/rusinski_cam_3580b7/rusinski_cam_3580b7.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Zakopane - Kasprowy Hala G
+https://hls8.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_POLSKI" $ExtFilter="webcam",Polen - Zakopane Guba
+https://hls7.webcamera.pl/pkl_cam_f4e890/pkl_cam_f4e890.stream/playlist.m3u8

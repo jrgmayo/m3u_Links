@@ -1,0 +1,437 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Acquario
+http://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Africam 1
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Africam 2
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Africam 3
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Africam 4
+https://outbound-production.explore.org/stream-production-49/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Argentina (AR)
+http://200.50.248.57:8080/Camara1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",B?sum Familienlagune
+https://ch-fra-n2.livespotting.com/vpu/tw0xvqm0/bc49630p_720.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Berdyansk Hall (UA)
+https://stream.bmr.gov.ua/hls/511.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Bishkek - Kyrgyzstan (KG)
+http://iptv.saima.kg/hls-cam/berengold.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Angra Dos Reis Airport
+https://inst-bdqdj-srs-fullhd.camerite.services/record/3770ef20-7331-11e8-ba78-479994691bb9.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Rio de Janeiro/Galeão Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKQAsFBh59t4IixJDJYz-Q/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Sao Paulo Guarulhos International Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNZCKDhAVtbh7sddChTxI7w/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Surf
+http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Surf
+http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil - Varginha Airport 2
+http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil: Rio (Copacabana Beach)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Brazil: Rio (Copacabana Beach)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Camino
+http://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Canada - Saint-Jean Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/apphcyjn
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Canada - Victoria International Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfi1E_tEBXZeeHsFpSG2dLw/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Canada: Charlottetown
+http://media.gpei.ca/islandcam/guild.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Canada: Toronto (Niagara Falls 1)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Camping Rožnov
+http://31.47.96.14:80/hls/camp.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Dolní Bečva
+http://31.47.96.14:80/hls/DBecva.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Horní Bečva - Rališka
+http://31.47.96.14:80/hls/raliska.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Horní Bečva - Rališka_Horní stanice
+http://31.47.96.14:80/hls/raliska2.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Hutisko-Solanec
+http://31.47.96.14:80/hls/hutisko.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Hutisko-Solanec_Kostel
+http://31.47.96.14:80/hls/kostelhutisko_hd.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera na Radhošti - Kaple
+http://31.47.96.14:80/hls/radhostkaple.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera na Radhošti - východ
+http://31.47.96.14:80/hls/radhostvychod.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Pustevny - rozcestí
+http://31.47.96.14:80/hls/pustevny.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Valašská Bystřice - Búřov
+http://31.47.96.14:80/hls/burov.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Vidče
+http://31.47.96.14:80/hls/vidce.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Zašová
+http://31.47.96.14:80/hls/zasova.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Kamera Zubří
+http://31.47.96.14:80/hls/zubri.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Valasske Mezirici (CZ)
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Valasske Mezirici (CZ)
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Дикие кони
+http://live.idnes.cz/slow/milovice/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Дикие кони
+http://live.idnes.cz/slow/milovice_720p/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Ж/д вокзал Вршовице
+http://live.idnes.cz/slow/vrsovice/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Ж/д вокзал Вршовице
+http://live.idnes.cz/slow/vrsovice_720p/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Ж/д вокзал Смихов
+http://live.idnes.cz/slow/vytopna/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Ж/д королевство
+http://live.idnes.cz/slow/kralovstvizeleznic/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Кормушка
+http://live.idnes.cz/slow/krmitkousa_720p/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Прага
+http://live.idnes.cz/slow/amc/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",CZ Чехия - Прага
+http://live.idnes.cz/slow/amc_720p/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Czech - Jablunkov
+http://stream.silesnet.net/webcams/jablunkov.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Czech - Ratibor
+https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Czechia - Prague Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCF7gGGK5faKRXZExCSp1Vyw/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Czechia - Prague Airport
+https://vwrjffrka3.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/t0g0gg.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Decorah - Eagles
+https://outbound-production.explore.org/stream-production-216/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",DK - Hedeland Skicenter
+https://cdn-003.whatsupcams.com/hls/dk_hedeland01.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",DK - Hvide Sande West
+http://stream.waves4you.com:1935/w4y/ngrp:HSW.stream_all/chunklist_w693964615_b1300000.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",DK - Storeb?lt
+https://stream.sob.m-dn.net/live/sb1/720p/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",DK - Storeb?lt
+https://stream.sob.m-dn.net/live/sb2/720p/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Downtown Wilmington (US)
+http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Downtown Wilmington (US)
+http://169.47.9.197:1935/live/dw.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Eagles
+https://outbound-production.explore.org/stream-production-320/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Ehukai Beach
+https://outbound-production.explore.org/stream-production-4/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",EXYUG-Zrenjanin
+http://109.94.224.254/video1.mjpg
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Bourg-Ceyzeriat Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UClSvJfNXQ9G9Ked8nv6CAJw/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Chambley Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lesailesmosellanes
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Windsurf Breizh 22 - Beg-Leguer HD
+http://www.windsurfbreizh22.com/webcamHD/webcam-beg/video.php
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Windsurf Breizh 22 - Breta?a - Plestin HD
+http://www.windsurfbreizh22.com/webcamHD/webcam-plestin/video.php
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Windsurf Breizh 22 - Goaz-Trez HD
+http://www.windsurfbreizh22.com/webcamHD/webcam-g13/video.php
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Windsurf Breizh 22 - Rosaires HD
+http://www.windsurfbreizh22.com/webcamHD/webcam-rosaires/video.php
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",France - Windsurf Breizh 22 - Tresmeur HD
+http://www.windsurfbreizh22.com/webcamHD/webcam1/video.php
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Fruit Feeder
+https://outbound-production.explore.org/stream-production-127/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Greece - Corfu International Airport
+https://corfulive.gr/laveranda/laveranda.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Green Parrot Bar (US)
+http://wse1.resortcams.com/live/greenparrot2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Homosassa Springs
+https://outbound-production.explore.org/stream-production-319/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Honey Bees
+https://outbound-production.explore.org/stream-production-207/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hotel Bania (PL)
+http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hummingbird Feeder
+https://outbound-production.explore.org/stream-production-189/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hummingbird Nest
+https://outbound-production.explore.org/stream-production-188/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hummingbird Trees
+https://outbound-production.explore.org/stream-production-209/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hungary - Aquapark
+https://stream.hungarospa.hu/hls/axis3/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hungary - Beach
+https://stream.hungarospa.hu/hls/axis0/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hungary - Beach 2
+https://stream.hungarospa.hu/hls/axis2/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hungary - Dunaujvaros
+https://stream.idokep.hu/live/lhdv/s_orig.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Hungary - Spa
+https://stream.hungarospa.hu/hls/axis1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Ilfracombe (UK)
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Island Escape
+http://a.jsrdn.com/broadcast/41e3e6703e/+0000/mid/c.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Asiago Airfield
+https://www.terasweb.live/terasstream/aeroportoasiagofinepista.stream/chunklist_w646256133.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Asiago Airfield
+https://www.terasweb.live/terasstream/aeroportoasiagoiniziopista.stream/chunklist_w1049955251.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Calcinate Del Pesce Airfield
+https://streaming.acao.it/hls/cam1/1080/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Calcinate Del Pesce Airfield
+https://streaming.acao.it/hls/cam2/1080/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Calcinate Del Pesce Airfield
+https://streaming.acao.it/hls/cam_ptz/1080/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Chiusdino Airfield
+https://kadath.ivotv.it/reteivo/aviocam1/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Italy - Chiusdino Airfield
+https://kadath.ivotv.it/reteivo/aviocam2/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Aomori Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdNYphHZdRYjpys_gwofUNQ/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Naha Airport
+https://live.qab.co.jp/live/livenahacity.smil/chunklist_w895135792_b2000000.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Naha Okinawa Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCWzx-v_6kdTKi3oXhWOK1FA/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Narita International Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvJZPd6aw2lb54M4E-vtwjw/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Okayama Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAzaZfwgfjYVRGn4S60xM6Q/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Osaka Itami Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Tokyo Narita Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwO5xVV7ARD6asrMDX9CwA/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Japan - Yonago Airport
+http://210.156.16.242:1935/live/11-yumeminato/chunklist_w1915353590.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Jelsa - Croatia (HR)
+https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Kelp Forest
+https://outbound-production.explore.org/stream-production-70/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Key West Green Parrot Bar
+http://wse1.resortcams.com/live/greenparrot1-audio.stream/chunklist_w2069811398.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Key West Green Parrot Bar Stage Cam
+http://wse1.resortcams.com:80/live/greenparrot2.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Key West Green Parrot Bar Stage Cam
+http://wse1.resortcams.com:80/live/greenparrot2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KG:Бишкек - Перекресток пр.Чуй и ул.Ибраимова
+http://iptv.saima.kg/hls-cam/chui-ibraimova.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KG:Бишкек - Площадь Ала-тоо
+http://iptv.saima.kg/hls-cam/alatoo.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Берег Каспия 14 мкрн
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Берег Каспия 15 мкрн
+http://cam.x-com.kz:8081/caspy15/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Берег Каспия 4
+http://cam.x-com.kz:8081/caspy4/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Берег Каспия 5
+http://cam.x-com.kz:8081/caspy5/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Верхние районы
+http://cam.x-com.kz:8081/yntymak/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Драмтеатр
+http://cam.x-com.kz:8081/dramteatr/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",KZ Актау - Нижние районы
+http://cam.x-com.kz:8081/downtown/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Ladov? medvede v zoo
+http://live.idnes.cz/slow/zoobrno_720p/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Malibu
+https://outbound-production.explore.org/stream-production-183/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Netherlands - Amsterdam Schiphol Airport
+https://stream.inmoves.nl/rtplive/IB_99.stream/chunklist_w305955386.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Netherlands - Amsterdam Schiphol Airport
+https://stream.inmoves.nl/rtplive/IB_94.stream/chunklist_w1540689291.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Binnenvaart
+https://5b8d2cbe62ad6.streamlock.net/live/wilhelmina3.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Blokzijl 1
+https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Blokzijl 2
+https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Delfzijl 2
+https://584b389d712f9.streamlock.net/live2/delfzijl2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Harderwijk 1
+http://mtxstr001.matrixdata.nl/live/station.stream/chunklist_w1654956922.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Harderwijk 2
+http://mtxstr001.matrixdata.nl/live/vuurtoren.stream/chunklist_w2084393416.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Loosdrecht 1
+http://flash-11.streaming.in2ip.nl:1935/in2ip/_definst_/mp4:starbytes-cam5.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Loosdrecht 2
+http://flash-11.streaming.in2ip.nl:1935/in2ip/_definst_/mp4:starbytes-cam3.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Loosdrecht 2
+http://flash-11.streaming.in2ip.nl:1935/in2ip/_definst_/mp4:starbytes-cam1.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 1
+http://streaming3.netcam.nl:1935/rtplive/paulmartens100930.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 10
+https://5cee0d703d908.streamlock.net/rtplive/paulmartens103752.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 2
+http://streaming3.netcam.nl:1935/rtplive/paulmartens101453.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 3
+http://streaming3.netcam.nl:1935/rtplive/paulmartens101456.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 7
+http://cdn22d.streampartner.nl/berartvd/berartvd.stream/chunklist_w1217637226.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Rotterdam 9
+https://5cee0d703d908.streamlock.net/rtplive/paulmartens103751.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 1
+http://live.streamink.nl:80/live/sys1.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 2
+http://live.streamink.nl:80/live/sys11.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 3
+http://stream1.streamink.nl:80/live/sys5.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 4
+http://stream1.streamink.nl:80/live/sys4.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 5
+http://stream1.streamink.nl:80/live/sys19.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 7
+http://live.streamink.nl:80/live/sys2.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 8
+http://stream1.streamink.nl:80/live/sys7.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Scheveningen 9
+http://live.streamink.nl:80/live/sys3.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Vlissingen
+http://cdn15.streampartner.nl/interact1037_2/interact1037_2.stream/chunklist_w2093434315.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Wijk
+http://aloha.streamink.nl/aloha/aloha.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",NL - Wijk
+http://aloha.streamink.nl/aloha/aloha.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Northern Lights
+https://outbound-production.explore.org/stream-production-77/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Norway - Mehamn Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUGQpicQSQOIAG6B_i4uSbQ/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Norway: Finse (Hotel Finse 1222)
+https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Orcas
+https://outbound-production.explore.org/stream-production-95/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Ostseebad Binz
+https://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Panda
+https://outbound-production.explore.org/stream-production-33/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Penguin Beach
+https://outbound-production.explore.org/stream-production-14/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Penguins
+https://outbound-production.explore.org/stream-production-13/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",PL Kolobrzeg (PL)
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",PL Krakow (PL)
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Pre?ov Sun Park
+https://stream.kukaj.se/stream/8b/video.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",R?gen Wiek
+https://ch-fra-n2.livespotting.com/vpu/zqqmmlcf/xf8ypbfa_720.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",RELAX: Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",RELAX: Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Romania Church (RO)
+http://media.ercis.ro:9999/cmareis/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Rosies Pan
+https://outbound-production.explore.org/stream-production-108/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Santa Monica
+https://outbound-production.explore.org/stream-production-65/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scharbeutz Ferienwohnung Meersehen
+https://ch-fra-n2.livespotting.com/vpu/azcqykit/qovrg03j_720.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Обезьяны
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Обезьяны
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Панда
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Панда
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Пингвины
+https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Тигр
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Scotland - Тигр
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Shark Aquarium
+https://outbound-production.explore.org/stream-production-12/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Slovakia - Poprad-Tatry Airport
+https://hoktastream1.webcamera.pl/willawidokowa_cam_eefa62/willawidokowa_cam_eefa62.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Slovenia - Portorož Airport
+https://cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Slowenien - Bled
+https://cdn-001.whatsupcams.com/hls/si_bled1.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Sochi (RU)
+http://sochi.camera:8080/cam_185/index.m3u8?token=null
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Spain - Malaga Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd3-NYoslM4KN99HFV4d9GA/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Sweden - Molde Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5_UEwpA9D5p5TjbfI5Ys6w/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Thunderstorms
+http://a.jsrdn.com/broadcast/18b42f9aef/+0000/mid/c.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Tropical Aquarium
+https://outbound-production.explore.org/stream-production-10/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Tropical Fish
+https://outbound-production.explore.org/stream-production-16/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Bishops Lydeard Station
+http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Blue Anchor Station
+http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Dawlish
+https://camsecure.co/HLS/dawlish.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Harlyn
+https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Ilfracombe 1
+http://camsecure.co/HLS/ilfracombe1.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Salcombe
+https://camsecure.co/HLS/salcombeyc.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Torquay
+https://camsecure.co/HLS/boatq.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Westward
+https://camsecure.co/HLS/westho.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Williton Station
+http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Аквариум
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_aquarium.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK - Пингвины
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK rail - Bishops Lydeard station
+https://maybach.railcam.co.uk/BishopsLydeard_59234/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK rail - Crewe Cam 1 - Chester Lines
+https://maybach.railcam.co.uk/Crewe1_69241/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK rail - Crewe Cam 3 - Chester Lines
+https://paxman.railcam.co.uk/Crewe3_13496/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK rail - Orton Mere
+https://maybach.railcam.co.uk/NVR-Orton-Mere_39273/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",UK rail - Swanage Station
+https://maybach.railcam.co.uk/Swanage_43965/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Underwater Coral
+https://outbound-production.explore.org/stream-production-105/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Underwater Manatee
+https://outbound-production.explore.org/stream-production-162/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Barrow Walney Island Airport
+https://camsecure.uk/HLS/owenbayliss.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Breighton Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCq5xCEeQyc4_9BS3Wuv7CjQ/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Brighton City Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w/live
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Gibraltar
+https://camsecure.uk/HLS/meteo.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Jersey Airport
+https://edge01.london.nginx.hdontap.com/hosb3/watersplash_visitjersey.stream/chunklist_w1596340837.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Leicester Airport
+https://camsecure.co/HLS/leicesterair.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Manchester City Airport
+https://camsecure.co/HLS/cityair.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Manchester City Airport
+https://camsecure.co/HLS/cityair2.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Manchester City Airport
+https://camsecure.co/HLS/cityair4.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Oban Airport
+https://camsecure.co/HLS/bts.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Redhill Airport
+https://camsecure.co/HLS/cubair.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Retford Gamston Airport
+https://camsecure.uk/HLS/mintsecurity3.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Sumburgh Airport
+https://uk-lon-edge-02.zetcast.net/SumburghAirport_abr/SumburghAirportABR/SumburghAirport_abr/SumburghAirport_720p/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",United Kingdom - Sumburgh Airport
+https://uk-lon-edge-02.zetcast.net/SumburghAirport2_abr/SumburghAirport2ABR/SumburghAirport2_abr/SumburghAirport2_720p/chunks.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Waimea Bay
+https://outbound-production.explore.org/stream-production-5/.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Wangerooge Strand
+https://ch-fra-n2.livespotting.com/vpu/g6106xv4/hbh26r3r_720.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Warnem?nde Am Strom
+https://ch-fra-n2.livespotting.com/vpu/oq57fxnt/mciwlhsf_720.m3u8
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Webcamhotelalexander
+https://hotelalexander.it-wms.com/clip_current_720p.mp4
+#EXTINF:-1 group-title="webcam_int" $ExtFilter="webcam",Zinnowitz
+http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/.m3u8

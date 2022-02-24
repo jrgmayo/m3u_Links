@@ -1,0 +1,169 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Alagoa - Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Almograve - New
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Carcavelos - Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Caxias
+https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Costa de Caparica - CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Costa de Caparica - S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Figueira da Foz - Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Lisboa - Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Madeira - Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Madeira - Ponta Pequena - Paul
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Forte S. Miguel Arcanjo - Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Peniche - Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Peniche - Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",PL KASPROWYrynek Podg??i
+http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Porto - Carneiro
+https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Porto - Homem do Leme
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Portugal - Santuário de Fátima
+http://streamer-a03.videos.sapo.pt:1935/live/santuario.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia Canide Norte - Sul
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Torre
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia da Vieira
+https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia do Guincho - Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia Grande - Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia Grande - Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",PT Santu?ode F?ma (Capelinha das Apari?s)
+http://213.13.26.11:1935/live/santuario.stream/index.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Santa Cruz - Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Vila Nova de Milfontes - Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Vila Nova de Milfontes - Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Vila Praia de Âncora
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
+#EXTINF:-1 group-title="webcam_Portugal" $ExtFilter="webcam",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8

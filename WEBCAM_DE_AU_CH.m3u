@@ -1,0 +1,129 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",***HasBahCa IPTV***WEBCAM DE+AU+CH***
+http://hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Jerzens Tirol airport
+http://83.218.163.132:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Maria Enzersdorf Niederosterreich
+http://78.142.149.231:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Murau teiermark
+http://87.243.152.28:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Rauriser Marktplatz
+http://195.70.107.151:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Salzburg
+http://195.70.117.61:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Salzburg
+http://85.199.1.39:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",AU Salzburg
+http://91.113.179.211:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Austria (AT)
+https://cdn.livespotting.com/vpu/y6tzfe2i/j76qemhq.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Austria - Krems Langenlois Airfield
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqTXVVS_hARDBgxzbYd37mA/live
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Austria - Spitzerberg Airfield
+https://spitzerberg.at/webcam/stream.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Austria 2
+http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Austria 2
+http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",CH Aarau Aargau
+http://89.186.193.101:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",CH Lausanne Vaud
+http://145.232.235.226:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",CH Zurich
+http://129.132.117.46:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",CH Zurich
+http://80.75.119.250:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",CH Zurich CH
+http://213.200.245.146:83/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Beilngries Bayern
+http://185.18.129.86:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Berlin
+http://130.149.32.46:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE BFE Oldenburg
+http://212.6.91.123/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Bonn Nordrhein-Westfalen Campus Poppelsdorf
+http://131.220.172.253:8081/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Chemnitz Sachsen
+http://77.235.182.8:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Stadtwerke Emsdetten GmbH
+http://91.190.227.198/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE University of Halle
+http://141.48.169.7/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",DE Weiden Thuringen
+http://195.243.58.195:80/mjpg/video.mjpg
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Düsseldorf Airport Cam1
+http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Düsseldorf Airport Cam2
+http://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Düsseldorf Airport Cam4
+http://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Düsseldorf Airport Cam5
+http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Binz
+http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Cologne Bonn Airport
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Cologne Bonn Airport
+https://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Cologne Bonn Airport
+https://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Dortmund Airport
+https://stream-5gw.1000eyes.de/cupertino/doF4F2A4.stream/chunklist_w1622205303.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf 1
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf 1
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf 2
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf 2
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf 3
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf Airport
+https://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/chunklist_w1156644621.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf Airport
+https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/chunklist_w755876405.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf Airport
+https://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/chunklist_w625774359.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf Airport
+https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/chunklist_w1876655153.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Düsseldorf Airport
+https://stream-5gw.1000eyes.de/cupertino/dused0c.stream/chunklist_w2066635736.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Frankfurt am main - Gdaask widok na Mot
+http://ls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Hamburg Airport
+https://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/chunklist_w1481263230.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Hamburg Airport
+https://stream-5gw.1000eyes.de/cupertino/hamDDD79C.stream/chunklist_w1499773673.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Hamburg Airport
+https://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/chunklist_w872462835.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Hamburg Airport
+https://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/chunklist_w97481094.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Wyk Auf Fohr Airfield
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSDARkfMeps8sDFCOSQAqGg/live
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Germany - Zinnowitz
+http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Gr?mitz
+http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Hamburg (DE)
+https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Juist (DE)
+https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Kiel Schleuse
+https://ch-fra-n2.livespotting.com/vpu/sttko2er/f1q161no_720.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Klagenfurt Neuer Platz
+http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Köln Airport Cam2
+http://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Köln Airport Cam3
+http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Landshut Burg
+http://tdt.shmhost.net/burg/livestream.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Landshut Heiliggeistkirche
+http://tdt.shmhost.net/geist/livestream.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Lindau Bodensee
+https://ch-fra-n2.livespotting.com/vpu/hmepsu74/6j7t62rc_720.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Switzerland (CH)
+https://cdn.livespotting.com/vpu/jsxhx3vx/9chmjag2.m3u8
+#EXTINF:-1 group-title="webcam_DE+AU+CH" $ExtFilter="webcam",Zell am See
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8

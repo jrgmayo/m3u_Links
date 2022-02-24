@@ -1,0 +1,193 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Anchorage International Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/StreamTimeLive//live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Atlanta Hartsfield-Jackson Airport
+https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt2-rtmp-v3/live_720p30.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Atlanta Hartsfield-Jackson Airport
+https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt3-rtmp-v3/live_720p30.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Burlington Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC82P9YQe3GsWDQSGKzBj_5w/live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - California Big Bear City
+https://edge01.london.nginx.hdontap.com/hosb3/bbad_ptz.stream/chunklist_w1009695347.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Clermont County Airport
+https://cdn-unified-hls.streamspot.com/ingest1/12d473a118/chunklist.m3u8?origin=2
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Clermont County Airport
+https://cdn-unified-hls.streamspot.com/ingest1/sportya1c8/chunklist.m3u8?origin=2
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Clermont County Airport
+https://cdn-unified-hls.streamspot.com/ingest1/05e6f5d6fa/chunklist.m3u8?origin=2
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Clermont County Airport
+https://cdn-unified-hls.streamspot.com/ingest1/sporty6ba9/chunklist.m3u8?origin=2
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Clermont County Airport
+https://cdn-unified-hls.streamspot.com/ingest1/68822b86e5/chunklist.m3u8?origin=2
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Dallas Love Field Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdiPSngCBBo_6DBbj7oWNow/live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Dallas-Fort Worth Airport
+https://kxaslive-f.akamaihd.net/i/KXAS_SC7@791092/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Eagle County Airport
+https://wowzaprod122-i.akamaihd.net/hls/live/515878/27ef35a4/27ef35a4_1_1152/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Friday Harbor Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCM0qV6ZHBkjxBokQepECyFg/live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195934-1/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Independence State Airport
+https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Mountain Air
+https://wowza.skyrunner.net/mtnair/ch0.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Mountain Air
+https://wowza.skyrunner.net/mtnair/ch2.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Mountain Air
+https://wowza.skyrunner.net/mtnair/ch3.stream/playlist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - NAS North Island Air Base
+https://595b9deb3d6ac.streamlock.net/rtplive/sandiego.stream/chunklist_w756110790.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - New Castle County Airport
+http://8.43.23.19:1935/live/ILGRearPL1.stream/chunklist_w642166793.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - New Castle County Airport
+http://8.43.23.19:1935/live/ILGRearPL2.stream/chunklist_w464179371.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - New Castle County Airport
+http://8.43.23.19:1935/live/ILGFrontPL1.stream/chunklist_w281547713.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - New Castle County Airport
+http://8.43.23.19:1935/live/ILGFrontPL2.stream/chunklist_w1472209186.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Palm Springs Air Museum
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjWe8BwpE1VdWNuNI9ILAKQ/live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Roanoke Regional Airport
+https://d1tj3emjaoxhx8.cloudfront.net/out/v1/92c6e429920c423fbe81bbe64af45a23/index_2.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - The Port Camas-Washougal
+https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.stream/chunklist_w1025270435.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Truckee Tahoe Airport
+https://edge01.london.nginx.hdontap.com/hosb3/ktrk_abr_ttv.stream/chunklist_w248214565.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Whiteside County Airport
+https://pve.saukvalleyweather.com:8080/Hn2m0R8BaZAFQLyr1clAbqeaxlVoNS/hls/svwx/rf1/s.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",United States - Zamperini Field Airport
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/SlingPilotAcademy/live
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Dead Dog Saloon MarshWalk
+http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Dead Dog Saloon Stage
+http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Estes Park
+http://cdn.estesparkwebcams.com/prospect3/index.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Folly Beach
+http://5a5f765a4fcc2.streamlock.net:1935/live/fb.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Folly Beach
+http://169.47.9.197:1935/live/fb.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Freedom boat club
+http://wse1.resortcams.com/live-nDVR/freedomboatclub.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Green Parrot Bar 2
+http://55507e0501d25.streamlock.net/live/greenparrot2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Greeneville
+http://wse1.resortcams.com/live/greeneville.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Hawaii
+https://edge01.kirillovka.ks.ua/hawaii1/index.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Hogs Breath Saloon
+https://55507e0501d25.streamlock.net/live-audio/hogsbreath3.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Kure Beach Street Cam
+http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Las Vegas
+http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamSouth.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Las Vegas 2
+http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Las Vegas 3
+http://cams.lasvegas.net:1935/live/LVNetOrleansWest.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Las Vegas 4
+http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamNorth.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Manasquan
+http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Minnesota
+https://55507e0501d25.streamlock.net/live/spiritmtn.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Myrtle Beach Cam
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Myrtle Beach Cam 2
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Myrtle Beach Cam 3
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Santa Monica
+https://edge08.nginx.hdontap.com/hosb3/manhattanpier_swellmagnet.stream/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Schooners Beach Cam
+http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Schooners Beach Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Schooners Hill Bar Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Schooners Sunset Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Southport
+http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Southport 2
+http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Surf city
+http://5a5f765a4fcc2.streamlock.net:1935/live/sciga.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - West Jefferson
+http://wse1.resortcams.com/live/westjefferson.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Wrightsville Beach
+http://169.47.9.197:1935/live/wb.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Yosemite Falls
+https://56cdb389b57ec.streamlock.net/live/yosfalls.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA - Кормушка
+http://live.idnes.cz/slow/krmitkousa/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA Upper saddle river - phoenix - scmpcm1 - Video webcam
+http://archives.earthcam.com/archives5/ecnetwork/us/az/phoenix/scmpcm1/timelapse/timelapse.mp4
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA Upper saddle river - phoenix - scmpcm2 - Video webcam
+http://archives.earthcam.com/archives5/ecnetwork/us/az/phoenix/scmpcm2/timelapse/timelapse.mp4
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA Upper saddle river - Video - New York - elevator-cam
+http://archives.earthcam.com/archives5/ecnetwork/us/ny/nyc/nyu-langone/elevator-cam/timelapse/timelapse.mp4
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA Upper saddle river - Video - Tx - Richardson - webcam
+http://archives.earthcam.com/archives5/ecnetwork/us/tx/richardson/MRMC/timelapse/timelapse.mp4
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA Upper saddle river - Video - Tx- Houston - footbal-stadium
+http://archives.earthcam.com/archives5/ecnetwork/us/tx/houston/uh/footbal-stadium/east-view/timelapse/timelapse.mp4
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA: Amur Tiger
+http://live.zoosociety.org:1935/live/tiger.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA: Jaguar
+http://live.zoosociety.org:1935/live/outdoorjaguar.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA: Jaguar 2
+http://live.zoosociety.org:1935/live/jaguars.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA: Lion
+http://live.zoosociety.org:1935/live/lion.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",USA: Penguin
+http://live.zoosociety.org:1935/live/penguincam.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Бабуин
+http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Бегемоты
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Белый медведь
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Землекоп 1
+https://nzp-ms06.si.edu/live_edge_nmr/nmr_1080_all.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Землекоп 2
+https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/chunklist_b850000.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Клетка
+https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Коала
+http://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Кондор
+http://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Лев
+http://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/chunklist_b5500000_sleng.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Обезьяна
+http://ape.hls.camzonecdn.com/CamzoneStreams/ape/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда
+http://nzp-ms06.si.edu/live_edge_panda/panda02/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда
+http://nzp-ms05.si.edu/live_edge_panda/smil:panda03_all.smil/chunklist_b2464000.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда
+http://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда 2
+http://nzp-ms06.si.edu/live_edge_panda/panda03/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда 2
+http://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/chunklist_b2464000.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Панда 3
+https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Пингвины
+http://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Слон
+http://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Слон 2
+http://nzp-ms04.si.edu/live_edge_elephant/elephant01/chunklist.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Сова
+http://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Тигр
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/HasBahCa.m3u8
+#EXTINF:-1 group-title="webcam_USA" $ExtFilter="webcam",США - Утконос
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m3u8
