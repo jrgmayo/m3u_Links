@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1,A7 TV
+http://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?HasBahCa.m3u8?wowzasessionid=831085941&cn=aseventv
+#EXTINF:-1,AlFajer MOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
+#EXTINF:-1,Animax Asia (Vietnam)
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1,Bali TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#EXTINF:-1,Berita Satu News English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:-1,Berita Satu News World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1,București TV
+http://89.38.8.130:39459/
+#EXTINF:-1,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1,Fastway News
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+#EXTINF:-1,Film +
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1,Gem TV Asia
+http://210.210.155.35/uq2663/h/h19/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1,Infinit TV
+http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+#EXTINF:-1,Intermedia
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1,K CINE
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1,Kanal 10 Asia (540p) [Not 24/7]
+https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
+#EXTINF:-1,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/HasBahCa.m3u8
+#EXTINF:-1,MAHA Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1,MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com/live-edge/smil:metro.smil/HasBahCa.m3u8
+#EXTINF:-1,MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1,MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/HasBahCa.m3u8
+#EXTINF:-1,MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1,MTA 1
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTINF:-1,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+#EXTINF:-1,Nest TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,Nova TV
+http://novapress.ro:1935/live/nova/chunklist_w1766504351.m3u8
+#EXTINF:-1,Prime Time Drama (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
+#EXTINF:-1,Raajje TV Maldivler
+https://stream.raajje.mv/live/rtv_live/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1,RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1,Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w52779246.m3u8
+#EXTINF:-1,Santhora TV - SHORTFILM (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w405490395.m3u8
+#EXTINF:-1,SMNI (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?HasBahCa.m3u8?wowzasessionid=693701106
+#EXTINF:-1,Tehzeeb TV India
+http://14.199.164.20:4001/play/a0p5/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV Plus Suceava
+http://85.186.146.34:8080/
+#EXTINF:-1,TVR Cluj
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1,TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1,TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1,TVR Timișoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1,TVR Tirgu Mures
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1,TVS Cipher Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Classic Movies (478p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Drive In Movie (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Family Channel (480p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Film Noir Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Front Page Detective (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Hollywood History (358p)
+https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+#EXTINF:-1,TVS Horror Network (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Inspirational Network (360p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Mainstreet (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Nostalgia (360p)
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Nostalgia Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Pet Parade Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Pinball Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Quiz Show Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Rare Collectibles (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Select Network (368p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Silo Discount Network (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Tally Ho (472p)
+https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Tavern (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Television Network (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Today Home Entertainment Network (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Travel Network (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TVS Western Movie (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,VP TV
+http://89.38.8.130:39437
+#EXTINF:-1,VTV Maldivler
+https://vtvstream.vnews.mv/vtvlive/vmedia/chunklist_w801816914.m3u8
+#EXTINF:-1,WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8

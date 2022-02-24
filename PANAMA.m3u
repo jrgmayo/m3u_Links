@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,C 10
+http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8g.m3u8
+#EXTINF:-1,C 10
+http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
+#EXTINF:-1,Panama
+https://video.wixstatic.com/video/210de2_badd11be3d3d410e85be3ba308bb9306/1080p/mp4/file.mp4
+#EXTINF:-1,RPC
+https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
+#EXTINF:-1,TCS HD
+https://secure-video.tcsgo.com/tcshd/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TCS HD
+https://secure-video.tcsgo.com/tcshd/index360p30_20200822T210827.m3u8
+#EXTINF:-1,TTV TRIBUNA
+https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
+#EXTINF:-1,TVMAS
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1,TVN HD
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1,TVN PAN
+https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
+#EXTINF:-1,WOW TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/HasBahCa.m3u8

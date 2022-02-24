@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1,ADN Radio (1080p)
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
+#EXTINF:-1,Antofagasta TV (720p)
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+#EXTINF:-1,Antofagasta TV (ATV) (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1,ARABTV (720p)
+https://livefocamundo.com:8081/arabtv/playlist.m3u8
+#EXTINF:-1,Campus TV (Talca) (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1,Canal 9 Bío Bío Televisión (240p) [Not 24/7]
+https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1,Canal 9 Bío Bío Televisión (720p) [Not 24/7]
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1,Canal Diputados
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Canal Diputados (720p)
+http://camara.03.cl.cdnz.cl/camara19/live/HasBahCa.m3u8
+#EXTINF:-1,Canal ISB (Iglesia San Bernardo) (720p)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1,Canal SCÑ (San Carlos Ñuble) (720p)
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/HasBahCa.m3u8
+#EXTINF:-1,Canal TUTV (Quillota) (720p)
+https://paneltv.net:3978/hybrid/play.m3u8
+#EXTINF:-1,Carolina TV (720p)
+https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Carolina TV (720p) [Not 24/7]
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,CEAC TV (Santiago) (480p)
+https://hd.chileservidores.cl:1936/ceactv/ceactv/HasBahCa.m3u8
+#EXTINF:-1,CHILE:Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1,Cloudserver Kids90 (432p)
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/HasBahCa.m3u8
+#EXTINF:-1,Cloudserver Latam (CSTV) (360p)
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/HasBahCa.m3u8
+#EXTINF:-1,Contivisión (720p)
+https://unlimited6-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:-1,Décima TV (Ancud) (720p)
+http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1,EKIZ TV (Rancagua) (360p)
+https://stmv.panel.mivideo.pro/ekiztv/ekiztv/HasBahCa.m3u8
+#EXTINF:-1,El Pingüino TV (360p) [Not 24/7]
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:-1,El Pingüino TV (720p) [Not 24/7]
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1,ESTACION TV HD
+http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
+#EXTINF:-1,Estación TV (720p)
+http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1,Estación TV (Chillán) (720p)
+https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:-1,Evavisión Pachanga (Corporación Eva) (720p)
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
+#EXTINF:-1,FMTV FRECUENCIA MUSICAL
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1259694217.m3u8
+#EXTINF:-1,FMTV SUPER CLASIC
+https://cloud2.streaminglivehd.com:1936/8070/8070/HasBahCa.m3u8?PlaylistM3UCL
+#EXTINF:-1,Holvoet TV (Copiapó) (720p)
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,Holvoet TV HD (Chille)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1,ITV Patagonia (720p)
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
+#EXTINF:-1,LA RED HD
+https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,LA RED HD
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1,MAXIMA (720p) [Not 24/7]
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/HasBahCa.m3u8
+#EXTINF:-1,Mundo de la Música (720p)
+https://videostreaming.cloudserverlatam.com/8078/8078/HasBahCa.m3u8
+#EXTINF:-1,MÁS+.TV Chile (720p) [Not 24/7]
+https://593b04c4c5670.streamlock.net/8008/8008/HasBahCa.m3u8
+#EXTINF:-1,Pauta
+https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1,Pauta (480p)
+https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1,Pintana TV (720p)
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1,Planetatv Kids (640p)
+https://mediacpstreamchile.com:1936/8152/8152/HasBahCa.m3u8
+#EXTINF:-1,Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/HasBahCa.m3u8
+#EXTINF:-1,Radio El Sembrador (1080p)
+https://5eff35271151c.streamlock.net:1936/8064/8064/HasBahCa.m3u8
+#EXTINF:-1,Radio Uniem (720p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8110/8110/HasBahCa.m3u8
+#EXTINF:-1,RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/HasBahCa.m3u8
+#EXTINF:-1,REC.TV ONLINE
+https://video.misistemareseller.com/Jonnytv/Jonnytv/chunklist_w2002059900.m3u8
+#EXTINF:-1,Retro Plus (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/HasBahCa.m3u8
+#EXTINF:-1,Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/HasBahCa.m3u8
+#EXTINF:-1,Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/HasBahCa.m3u8
+#EXTINF:-1,Rocco TV (Coyhaique) (240p) [Not 24/7]
+http://evo.eltelon.com:1935/live/rocco-tv/HasBahCa.m3u8
+#EXTINF:-1,RTV Región Televisión Ñuble
+https://live.tvcontrolcp.com:1936/guzman/guzman/chunklist_w1380894878.m3u8
+#EXTINF:-1,RTV Región Televisión Ñuble
+https://live.tvcontrolcp.com:1936/guzman/guzman/chunklist_w1380894878.m3u8?WebM3UCL
+#EXTINF:-1,Ruidos FM (360p)
+https://593b04c4c5670.streamlock.net/8038/8038/HasBahCa.m3u8
+#EXTINF:-1,Stgo.TV (720p)
+https://stv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1,Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Teletrak (720p) [Not 24/7]
+https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
+#EXTINF:-1,Turf Móvil (720p)
+https://janus.tvturf.cl/playlist/stream.m3u8
+#EXTINF:-1,TV Pop (720p)
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1,TV POP HD
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1,TV Quinta Región (360p)
+https://stmv1.zcastbr.com/danielg/smil:transcoder.smil/HasBahCa.m3u8
+#EXTINF:-1,TV+ OSORNO
+https://hd.chileservidores.cl:1936/osorno2/live/HasBahCa.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV+MÁS CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w420735941.m3u8
+#EXTINF:-1,TV5 Linares (720p)
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1,TVO (San Vicente) (270p)
+https://pantera1-100gb-cl-movistar.dps.live/tvo/tvo.smil/playlist.m3u8
+#EXTINF:-1,TVR (720p) [Not 24/7]
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1,U Los Lagos TV (1080p)
+http://tv.ulagos.cl/web/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,UCV3 TV (720p)
+http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,UNIKA.TV
+https://video.misistemareseller.com/unikatv/unikatv/chunklist_w823962789.m3u8
+#EXTINF:-1,Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1,VC Online (546p)
+https://593b04c4c5670.streamlock.net/8068/8068/HasBahCa.m3u8
+#EXTINF:-1,VTV Valle de Aconcagua (720p)
+http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1,Wapp (1080p)
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1,Ñuble RTV (Chillán) (720p) [Not 24/7]
+https://live.tvcontrolcp.com:1936/guzman/guzman/HasBahCa.m3u8

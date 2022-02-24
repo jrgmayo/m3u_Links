@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,ANIBOX
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
+#EXTINF:-1,BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1,BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1,BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1,BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1,BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1,Fuji TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1,GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1,GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/HasBahCa.m3u8
+#EXTINF:-1,GTN Typhome (English Subs) (720p) [Not 24/7]
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+#EXTINF:-1,Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1,New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1,NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1,NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,NHK E
+http://203.162.235.41:16901
+#EXTINF:-1,NHK General TV (540p) [Not 24/7]
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1,NHK World (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,NHK华语视界 (720p)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1,NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1,NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1,QVC Ⓢ
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1,Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1,Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tokyo MX1
+https://movie.mcas.jp/switcher/mcas1_2/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,シネフィルWOWOW
+http://203.162.235.41:16916
+#EXTINF:-1,テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1,日テレ
+http://203.162.235.41:16905
+#EXTINF:-1,日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?HasBahCa.m3u8

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Alsacias TV (ATV | Canal 28) (1080p)
+https://emisoras.hn:8081/atv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Aviva TV (1080p)
+https://video.misistemareseller.com/atvhonduras/atvhonduras/HasBahCa.m3u8
+#EXTINF:-1,AZA TV (720p)
+https://stmv1.zcastbr.com/azatvhd/azatvhd/HasBahCa.m3u8
+#EXTINF:-1,Campus TV (360p) [Not 24/7]
+http://st2.worldkast.com/8004/8004/HasBahCa.m3u8
+#EXTINF:-1,Canal 6 (720p)
+https://ott.streann.com/loadbalancer/services/public/channels/5ba026492cdc1a7124d02fb7/playlist.m3u8
+#EXTINF:-1,Canal SiTV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w917441862.m3u8
+#EXTINF:-1,Catavisión (332p) [Not 24/7]
+https://stmv1.zcastbr.com/catavision/catavision/HasBahCa.m3u8
+#EXTINF:-1,Ebenezer TV (360p)
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/chunklist_w156791259_b850000_slen.m3u8
+#EXTINF:-1,JBN (480p)
+https://emisoras.hn:8081/jbn/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Kerusso TV (720p)
+https://emisoras.hn:8081/kerussotv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MetroTV (720p)
+https://emisoras.hn:8081/metrotv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Roatán Hable Claro (RHC) (720p)
+https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/HasBahCa.m3u8
+#EXTINF:-1,Sercano TV (720p)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/HasBahCa.m3u8
+#EXTINF:-1,SITV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w25056969.m3u8
+#EXTINF:-1,STV Sobrenatural
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1,TeleProgreso (720p)
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/HasBahCa.m3u8
+#EXTINF:-1,TEN 10 hD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/HasBahCa.m3u8
+#EXTINF:-1,TV Copán (720p)
+https://emisoras.hn:8081/tvcopan/index.m3u8?HasBahCa.m3u8

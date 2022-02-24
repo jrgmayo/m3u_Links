@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1,Ariana TV (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1,Ariana TV (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/HasBahCa.m3u8
+#EXTINF:-1,Ariana TV US (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1,Ariana TV US (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/HasBahCa.m3u8
+#EXTINF:-1,Ariana TV US (Delayed stream) (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1,Ariana TV US (Delayed stream) (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/HasBahCa.m3u8
+#EXTINF:-1,ATN Europe
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1,ATN News (360p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/HasBahCa.m3u8
+#EXTINF:-1,Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1,Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/HasBahCa.m3u8
+#EXTINF:-1,Hewad TV (576p) [Not 24/7]
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1,Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1,Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/HasBahCa.m3u8
+#EXTINF:-1,Kayhan TV HD
+http://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1161490152.m3u8
+#EXTINF:-1,Lemar TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1,Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Pamir TV (1080p)
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1,Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1,Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1,Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/HasBahCa.m3u8
+#EXTINF:-1,Radio Farda TV
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Solh TV (576p)
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1,Tapesh
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Thrill (480p) [Geo-blocked]
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Tolo News
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1,Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1,WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1,WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/HasBahCa.m3u8
+#EXTINF:-1,Watan-E-Maa TV
+http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8

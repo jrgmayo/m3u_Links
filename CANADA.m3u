@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1,Amazing Discoveries TV (720p)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/HasBahCa.m3u8
+#EXTINF:-1,Azstar TV (1080p) [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,Azstar TV (1080p) [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/HasBahCa.m3u8
+#EXTINF:-1,BBC Toronto Gaunda Punjab (720p) [Not 24/7]
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1,Canada One (720p)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1,Canal de l'Assemblée nationale (544p) [Not 24/7]
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
+#EXTINF:-1,Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1,CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1,CPAC (1080p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1,CTV (720p)
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1,Dukh Nivaran (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Eawaz TV (720p) [Not 24/7]
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1,EMCI TV (1080p)
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Global British Columbia (720p)
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1,Global News Calgary
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Global News Edmonton (720p)
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+#EXTINF:-1,Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1,Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:-1,Global News Lethbridge (720p)
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
+#EXTINF:-1,Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1,Global News National (720p)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1,Global News Okanagan (720p)
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+#EXTINF:-1,Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1,Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1,Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1,Global News Toronto (720p)
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:-1,Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1,ICI Montreal
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,ICI Tele HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+#EXTINF:-1,ICI Tele HD (720p)
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,IIPC TV (480p)
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1,IIPC TV (480p)
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/HasBahCa.m3u8
+#EXTINF:-1,Insight TV (720p)
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,Inwonder (720p)
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1,Legislative Assembly of Ontario (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1,NACTV (720p) [Not 24/7]
+http://stream.pivotalelements.com/nactv/stream.m3u8
+#EXTINF:-1,NETV Toronto (720p) [Not 24/7]
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1,NETV Toronto (720p) [Not 24/7]
+https://live.streams.ovh/NetvToronto/NetvToronto/HasBahCa.m3u8
+#EXTINF:-1,Noovo
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1,NTV (Newfoundland) (720p) [Not 24/7]
+https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/HasBahCa.m3u8
+#EXTINF:-1,Ontario Parliamentary Network (FR) (720p)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1,Outside TV (720p)
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+#EXTINF:-1,Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/HasBahCa.m3u8
+#EXTINF:-1,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Prime Asia TV (720p)
+http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,QVTV (720p)
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1,QVTV (720p)
+https://qvmstream.tulix.tv/720p/720p/HasBahCa.m3u8
+#EXTINF:-1,Salt + Light Television
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:-1,Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/HasBahCa.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1,Stingray Classica (1080p)
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray djazz (1080p)
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1,Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1,Stingray Greatest Hits (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Hit List (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Holiday Hits (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Stingray Urban Beat (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TAG TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1,Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1,Tele Quebec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Toronto 360 TV (720p)
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,TSC (720p)
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1,TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/HasBahCa.m3u8
+#EXTINF:-1,TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Uvagut TV (720p)
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:-1,Weatherspy (720p)
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8

@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1,Arirang (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Arirang (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/HasBahCa.m3u8
+#EXTINF:-1,Arirang (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Arirang Korea (아리랑 TV)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,BBS Buddhist Broadcasting (1080p) [Not 24/7]
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1,BBS Buddhist Broadcasting (1080p) [Not 24/7]
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/HasBahCa.m3u8
+#EXTINF:-1,BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://dq6jn3uge31mm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BloombergQuicktake-kr-prod/index.m3u8?HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Bloomberg TV+ UHD
+https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8?HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1,ch.핑크퐁
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ch.%ED%95%91%ED%81%AC%ED%90%81&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&coppa=1&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,Channel 67 (1080p)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/iptvm3uplaylists.m3u8
+#EXTINF:-1,CJB청주방송 (SBS 淸州) (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1,CTS기독교TV (720p)
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1,EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/HasBahCa.m3u8
+#EXTINF:-1,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/HasBahCa.m3u8
+#EXTINF:-1,EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,EBS Kids(S)
+rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+#EXTINF:-1,EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/HasBahCa.m3u8
+#EXTINF:-1,EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/HasBahCa.m3u8
+#EXTINF:-1,GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Gugbang TV (404p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1,Gugbang TV (404p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/HasBahCa.m3u8
+#EXTINF:-1,KBC 광주방송 (SBS 光州) (1080p)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1,KBC 광주방송 (SBS 光州) (1080p)
+http://119.200.131.11:1935/KBCTV/tv/HasBahCa.m3u8
+#EXTINF:-1,KBS WORLD
+http://itskoi.dothome.co.kr/kbs.php?id=14
+#EXTINF:-1,KBS World (576p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,KBS World (576p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/HasBahCa.m3u8
+#EXTINF:-1,MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1,NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/live_720p/HasBahCa.m3u8
+#EXTINF:-1,NEW MOVIES
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,NTD TV
+http://174.127.67.246/live400/playlist.m3u8
+#EXTINF:-1,NTV NEWS 24
+http://www.news24.jp/livestream/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,radiom2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+#EXTINF:-1,SBS KNN (450p) [Not 24/7]
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1,SBS KNN (450p) [Not 24/7]
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/HasBahCa.m3u8
+#EXTINF:-1,TBS FLEX
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=tbsflex&channel_id=newid_023&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b5261d98-6282a756-e1877a85-b831bd60&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,TJB 대전방송 (SBS 大田) (720p) [Not 24/7]
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,tVN HD
+http://gg.gg/tVN720p
+#EXTINF:-1,TVWorkNet (480p)
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1,TVWorkNet (480p)
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/HasBahCa.m3u8
+#EXTINF:-1,게임 연구소
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EA%B2%8C%EC%9E%84%EC%97%B0%EA%B5%AC%EC%86%8C&channel_id=newid_026&apikey=b97c7a7d0c82424bb607e141ef215779&auth=1806919a-8fba7469-7c0f864a-55096e5f&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,국악방송 (1080p)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,국악방송 (1080p)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/HasBahCa.m3u8
+#EXTINF:-1,그녀의 사생활
+https://6585c175d4ff4874a4dc0d90098d6859.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HerPrivateLife-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000247E
+#EXTINF:-1,그녀의 사생활
+https://6585c175d4ff4874a4dc0d90098d6859.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HerPrivateLife-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000247E
+#EXTINF:-1,금요일금요일밤에
+https://2065bc916ca04029acd1f8069a7b5c50.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/FridayJoyPackage-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000182C
+#EXTINF:-1,금요일금요일밤에
+https://2065bc916ca04029acd1f8069a7b5c50.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/FridayJoyPackage-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000182C
+#EXTINF:-1,대구 MBC (MBC Daegu) (480p) [Not 24/7]
+https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1,대구 MBC (MBC Daegu) (480p) [Not 24/7]
+https://5e04aba713813.streamlock.net/live/livetv/HasBahCa.m3u8
+#EXTINF:-1,루카
+https://112a4d87b8624349a8e1873b02e09619.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LUCAL-TheBeginning-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700009UR
+#EXTINF:-1,루카
+https://112a4d87b8624349a8e1873b02e09619.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LUCAL-TheBeginning-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700009UR
+#EXTINF:-1,마우스
+https://882d2693dd3744a28003dde6fac9edb7.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Mouse-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000217X
+#EXTINF:-1,마우스
+https://882d2693dd3744a28003dde6fac9edb7.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Mouse-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000217X
+#EXTINF:-1,맛있는 녀석들
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%A7%9B%EC%9E%88%EB%8A%94%EB%85%80%EC%84%9D%EB%93%A4&channel_id=newid_028&apikey=b97c7a7d0c82424bb607e141ef215779&auth=a166d748-5570979a-f6fa4ab3-8fc38dac&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,모터그래프
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%AA%A8%ED%84%B0%EA%B7%B8%EB%9E%98%ED%94%84&channel_id=newid_014&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b3f70191-8fd9a6d5-f957d0ad-556abce3&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,미니특공대TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%AF%B8%EB%8B%88%ED%8A%B9%EA%B3%B5%EB%8C%80tv&channel_id=newid_025&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7ce6ea64-d4adc57c-be58d030-0e1edf4a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&coppa=1&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,밥블레스유 1(1-25회)
+https://55dbc902347044ac87ca2b8f024ab099.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MayFoodBlessYou-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700019YU
+#EXTINF:-1,밥블레스유 1(1-25회)
+https://55dbc902347044ac87ca2b8f024ab099.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MayFoodBlessYou-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700019YU
+#EXTINF:-1,백일의낭군님
+https://5f5b32b0d4f74d6d95dd205e8b850c9a.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/100DaysMyPrince-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700017WI
+#EXTINF:-1,백일의낭군님
+https://5f5b32b0d4f74d6d95dd205e8b850c9a.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/100DaysMyPrince-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700017WI
+#EXTINF:-1,빌리어즈TV 레전드
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%B9%8C%EB%A6%AC%EC%96%B4%EC%A6%88tv%EB%A0%88%EC%A0%84%EB%93%9C&channel_id=newid_027&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8d76450f-b948e49a-8b1249a3-63fbfeac&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,셀레브
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%85%80%EB%A0%88%EB%B8%8C&channel_id=newid_015&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2687d504-b92b3626-0e4a1f44-63982c10&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,스포TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%8A%A4%ED%8F%ACtv&channel_id=newid_021&apikey=b97c7a7d0c82424bb607e141ef215779&auth=44b6b2f3-0f6786b0-d4cde316-d5d49c86&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,식객 허영만의 백반기행
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%8B%9D%EA%B0%9D%ED%97%88%EC%98%81%EB%A7%8C%EC%9D%98%EB%B0%B1%EB%B0%98%EA%B8%B0%ED%96%89&channel_id=newid_029&apikey=b97c7a7d0c82424bb607e141ef215779&auth=341603dd-63820769-01e7855a-b9311d5f&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1,신박한정리 (25-36회)
+https://30460ddbe0f4413da3da50189c601751.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/TheHouseDetox25to36-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700025P4
+#EXTINF:-1,신박한정리 (25-36회)
+https://30460ddbe0f4413da3da50189c601751.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/TheHouseDetox25to36-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700025P4
+#EXTINF:-1,신서유기7
+https://d607fff2f4c645cebe18d3f12db198ee.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/NewJourneyToTheWest7-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB500031C8
+#EXTINF:-1,신서유기7
+https://d607fff2f4c645cebe18d3f12db198ee.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/NewJourneyToTheWest7-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB500031C8
+#EXTINF:-1,쌉니다 천리마마트
+https://16e966900fd840838073da9709eacc9d.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/PegasusMarket-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700022KR
+#EXTINF:-1,쌉니다 천리마마트
+https://16e966900fd840838073da9709eacc9d.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/PegasusMarket-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700022KR
+#EXTINF:-1,어바웃타임
+https://892a1160537b450abcb5bd1bdf8ce2ae.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AboutTime-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700016L1
+#EXTINF:-1,어바웃타임
+https://892a1160537b450abcb5bd1bdf8ce2ae.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AboutTime-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700016L1
+#EXTINF:-1,어비스
+https://432e8fc47cdf40f9823d50dd3f7b898a.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Abyss-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700015DM
+#EXTINF:-1,어비스
+https://432e8fc47cdf40f9823d50dd3f7b898a.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Abyss-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700015DM
+#EXTINF:-1,연합뉴스TV
+https://ducg38fv680xm.cloudfront.net/yeonhap-hevc.m3u8
+#EXTINF:-1,영앤드라마
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%98%81%EC%95%A4%EB%93%9C%EB%9D%BC%EB%A7%88&channel_id=newid_024&apikey=b97c7a7d0c82424bb607e141ef215779&auth=e9963ef1-e25f558f-49451fd9-38ec4fb9&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,우리의식탁
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%9A%B0%EB%A6%AC%EC%9D%98%EC%8B%9D%ED%83%81&channel_id=newid_016&apikey=b97c7a7d0c82424bb607e141ef215779&auth=4267aefa-e23c8733-cc1d493e-388f9d05&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1,유퀴즈온더블럭(1-12회)
+https://a3ce64d901944ab6bb5858d6d62694e5.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/YouQuizOnTheBlock-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000207T
+#EXTINF:-1,유퀴즈온더블럭(1-12회)
+https://a3ce64d901944ab6bb5858d6d62694e5.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/YouQuizOnTheBlock-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB27000207T
+#EXTINF:-1,응답하라 1994
+https://f2b78964b99141e6ad1b87c8342cb374.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Reply1994-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBA13000478L
+#EXTINF:-1,응답하라 1994
+https://f2b78964b99141e6ad1b87c8342cb374.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Reply1994-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBA13000478L
+#EXTINF:-1,춘천MBC (MBC Chuncheon) (1080p) [Not 24/7]
+https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
+#EXTINF:-1,춘천MBC (MBC Chuncheon) (1080p) [Not 24/7]
+https://5c74939c891dc.streamlock.net/live/TV/HasBahCa.m3u8
+#EXTINF:-1,치즈인더트랩
+https://384677f2999947a3ba8f51a29339c080.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CheeseInTheTrap-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700004WR
+#EXTINF:-1,치즈인더트랩
+https://384677f2999947a3ba8f51a29339c080.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CheeseInTheTrap-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700004WR
+#EXTINF:-1,플레이어 시즌1
+https://fc9345bb0c4347b2a7ec3a6904f9a52e.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Player-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700013RP
+#EXTINF:-1,플레이어 시즌1
+https://fc9345bb0c4347b2a7ec3a6904f9a52e.mediatailor.ap-northeast-1.amazonaws.com/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Player-prod/HasBahCa.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBB2700013RP
+#EXTINF:-1,한국선거방송 (720p)
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1,현대홈쇼핑
+https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
+#EXTINF:-1,현대홈쇼핑
+https://livestreaming.hyundaihmall.com/cjpstp/live.stream/HasBahCa.m3u8
+#EXTINF:-1,현대홈쇼핑+Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1,현대홈쇼핑+Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/HasBahCa.m3u8

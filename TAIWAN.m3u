@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,GOOD TV CH1 綜合台 (720p)
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1,GOOD TV CH10 烤箱讀書會 短版 (720p)
+https://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1,GOOD TV CH108
+https://live.streamingfast.net/osmflivech108.m3u8
+#EXTINF:-1,GOOD TV CH11
+https://live.streamingfast.net/osmflivech11.m3u8
+#EXTINF:-1,Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1,Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/HasBahCa.m3u8
+#EXTINF:-1,原住民電視 (720p)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1,台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,唯心電視 (480p)
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1,壹新聞 HD
+http://stream.nexttv.com.tw/n001/hd/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,寰宇新聞台
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1,東森新聞 HD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,東森財經新聞 HD
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,民視 HD
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1,民視台灣台 HD
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1,民視影劇
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1,民視旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1,民視第一台 HD
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1,民視綜藝
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1,立法院IVOD直播交通委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播內政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播司法及法制委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播外交及國防委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播教育及文化委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播朝野協商 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播社會福利及衛生環境委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播經濟委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播財政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,立法院IVOD直播院會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8?HasBahCa.m3u8

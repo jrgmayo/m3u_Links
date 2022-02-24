@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:-1,24H
+https://streams.wilmaa.com/m3u8/get?channelId=canal24horas&profile=8
+#EXTINF:-1,3+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_plus_hd&profile=8
+#EXTINF:-1,3sat HD
+https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd&profile=8
+#EXTINF:-1,4+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=4_plus_hd&profile=8
+#EXTINF:-1,4Seven
+https://streams.wilmaa.com/m3u8/get?channelId=4seven_uk&profile=8
+#EXTINF:-1,5+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=5_plus_hd&profile=8
+#EXTINF:-1,5SELECT
+https://streams.wilmaa.com/m3u8/get?channelId=my5_uk&profile=8
+#EXTINF:-1,5Spike
+https://streams.wilmaa.com/m3u8/get?channelId=5spike_uk&profile=8
+#EXTINF:-1,5USA
+https://streams.wilmaa.com/m3u8/get?channelId=5usa&profile=8
+#EXTINF:-1,6+ HD
+https://streams.wilmaa.com/m3u8/get?channelId=6_plus_hd&profile=8
+#EXTINF:-1,6ter HD
+https://streams.wilmaa.com/m3u8/get?channelId=6_ter&profile=8
+#EXTINF:-1,Al Jazeera English
+https://streams.wilmaa.com/m3u8/get?channelId=ai_jazeera_en&profile=8
+#EXTINF:-1,Anixe HD
+https://streams.wilmaa.com/m3u8/get?channelId=anixe_hd&profile=8
+#EXTINF:-1,ARD-alpha
+https://streams.wilmaa.com/m3u8/get?channelId=ard_alpha&profile=8
+#EXTINF:-1,ARTE DE HD
+https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd&profile=8
+#EXTINF:-1,ARTE FR HD
+https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd&profile=8
+#EXTINF:-1,Bayrischer Rundfunk
+https://streams.wilmaa.com/m3u8/get?channelId=br_hd&profile=8
+#EXTINF:-1,BBC Four
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-four&profile=8
+#EXTINF:-1,BBC News HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_news_hd&profile=8
+#EXTINF:-1,BBC One HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_1_hd&profile=8
+#EXTINF:-1,BBC Parliament
+https://streams.wilmaa.com/m3u8/get?channelId=bbc-parliament&profile=8
+#EXTINF:-1,BBC three
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_3&profile=8
+#EXTINF:-1,BBC Two HD
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_2_hd&profile=8
+#EXTINF:-1,BBC World News
+https://streams.wilmaa.com/m3u8/get?channelId=bbc_world_news&profile=8
+#EXTINF:-1,beCuriousTV
+https://streams.wilmaa.com/m3u8/get?channelId=becurioustv&profile=8
+#EXTINF:-1,Bibel TV
+https://streams.wilmaa.com/m3u8/get?channelId=bibeltv&profile=8
+#EXTINF:-1,Bloomberg TV
+https://streams.wilmaa.com/m3u8/get?channelId=bloomberg_tv&profile=8
+#EXTINF:-1,Boing
+https://streams.wilmaa.com/m3u8/get?channelId=boing&profile=8
+#EXTINF:-1,Booster TV
+https://streams.wilmaa.com/m3u8/get?channelId=booster_tv&profile=8
+#EXTINF:-1,BVN
+https://streams.wilmaa.com/m3u8/get?channelId=bvn&profile=8
+#EXTINF:-1,C8
+https://streams.wilmaa.com/m3u8/get?channelId=direct_8&profile=8
+#EXTINF:-1,Canal Alpha NE HD
+https://streams.wilmaa.com/m3u8/get?channelId=canal_alpha_ne_hd&profile=8
+#EXTINF:-1,Canal9
+https://streams.wilmaa.com/m3u8/get?channelId=canal9&profile=8
+#EXTINF:-1,Canale 5 HD
+https://streams.wilmaa.com/m3u8/get?channelId=canale_5_hd&profile=8
+#EXTINF:-1,Canale Italia
+https://streams.wilmaa.com/m3u8/get?channelId=canale_italia&profile=8
+#EXTINF:-1,Cartoonito
+https://streams.wilmaa.com/m3u8/get?channelId=cartoonito_it&profile=8
+#EXTINF:-1,CBeebies
+https://streams.wilmaa.com/m3u8/get?channelId=cbeebies&profile=8
+#EXTINF:-1,Challenge
+https://streams.wilmaa.com/m3u8/get?channelId=challenge_uk&profile=8
+#EXTINF:-1,Channel 4 HD
+https://streams.wilmaa.com/m3u8/get?channelId=channel_4_hd&profile=8
+#EXTINF:-1,Channel 5
+https://streams.wilmaa.com/m3u8/get?channelId=channel_5&profile=8
+#EXTINF:-1,Chart Show TV
+https://streams.wilmaa.com/m3u8/get?channelId=chart_show_tv_uk&profile=8
+#EXTINF:-1,Chérie HD
+https://streams.wilmaa.com/m3u8/get?channelId=cherie_hd&profile=8
+#EXTINF:-1,Cielo
+https://streams.wilmaa.com/m3u8/get?channelId=cielo&profile=8
+#EXTINF:-1,Class TV Moda
+https://streams.wilmaa.com/m3u8/get?channelId=class_tv_moda&profile=8
+#EXTINF:-1,Clubland TV
+https://streams.wilmaa.com/m3u8/get?channelId=clubland_tv&profile=8
+#EXTINF:-1,CNBC
+https://streams.wilmaa.com/m3u8/get?channelId=cnbc&profile=8
+#EXTINF:-1,CNEWS
+https://streams.wilmaa.com/m3u8/get?channelId=i_tele&profile=8
+#EXTINF:-1,CNN International
+https://streams.wilmaa.com/m3u8/get?channelId=cnn&profile=8
+#EXTINF:-1,CNN Türk
+https://streams.wilmaa.com/m3u8/get?channelId=cnn_turk&profile=8
+#EXTINF:-1,Comedy Central
+https://streams.wilmaa.com/m3u8/get?channelId=viva_hd&profile=8
+#EXTINF:-1,CSTAR
+https://streams.wilmaa.com/m3u8/get?channelId=d17&profile=8
+#EXTINF:-1,Das Erste HD
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd&profile=8
+#EXTINF:-1,Dave
+https://streams.wilmaa.com/m3u8/get?channelId=dave_uk&profile=8
+#EXTINF:-1,Deluxe Music TV
+https://streams.wilmaa.com/m3u8/get?channelId=deluxe_music&profile=8
+#EXTINF:-1,Der Aktionär TV
+https://streams.wilmaa.com/m3u8/get?channelId=daf&profile=8
+#EXTINF:-1,Deutsche Welle
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_de&profile=8
+#EXTINF:-1,Deutsche Welle Arabic
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_ar&profile=8
+#EXTINF:-1,Deutsche Welle English
+https://streams.wilmaa.com/m3u8/get?channelId=deutsche-welle&profile=8
+#EXTINF:-1,Deutsche Welle Spanish
+https://streams.wilmaa.com/m3u8/get?channelId=deutschewelle_es&profile=8
+#EXTINF:-1,Deutsches Musik Fernsehen
+https://streams.wilmaa.com/m3u8/get?channelId=deutschesmusikfernsehen&profile=8
+#EXTINF:-1,Disney Channel
+https://streams.wilmaa.com/m3u8/get?channelId=disney_channel_de&profile=8
+#EXTINF:-1,DMAX
+https://streams.wilmaa.com/m3u8/get?channelId=dmax&profile=8
+#EXTINF:-1,DMAX Italia
+https://streams.wilmaa.com/m3u8/get?channelId=dmaxitalia&profile=8
+#EXTINF:-1,Drama
+https://streams.wilmaa.com/m3u8/get?channelId=drama_uk&profile=8
+#EXTINF:-1,Dream Türk
+https://streams.wilmaa.com/m3u8/get?channelId=dream_turk&profile=8
+#EXTINF:-1,E4
+https://streams.wilmaa.com/m3u8/get?channelId=e4&profile=8
+#EXTINF:-1,eoTV
+https://streams.wilmaa.com/m3u8/get?channelId=eotv&profile=8
+#EXTINF:-1,Euro D
+https://streams.wilmaa.com/m3u8/get?channelId=tr_euro_d&profile=8
+#EXTINF:-1,Euro Star
+https://streams.wilmaa.com/m3u8/get?channelId=tr_euro_star&profile=8
+#EXTINF:-1,euronews DE
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_de&profile=8
+#EXTINF:-1,Euronews EN
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_en&profile=8
+#EXTINF:-1,Euronews FR
+https://streams.wilmaa.com/m3u8/get?channelId=euronews&profile=8
+#EXTINF:-1,Euronews IT
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_it&profile=8
+#EXTINF:-1,Eurosport
+https://streams.wilmaa.com/m3u8/get?channelId=eurosport&profile=8
+#EXTINF:-1,Fashion TV
+https://streams.wilmaa.com/m3u8/get?channelId=fashiontv&profile=8
+#EXTINF:-1,Film 4
+https://streams.wilmaa.com/m3u8/get?channelId=film_4&profile=8
+#EXTINF:-1,Focus
+https://streams.wilmaa.com/m3u8/get?channelId=focus_it&profile=8
+#EXTINF:-1,Food Network
+https://streams.wilmaa.com/m3u8/get?channelId=food_network_uk&profile=8
+#EXTINF:-1,France 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=france_2_hd&profile=8
+#EXTINF:-1,France 24
+https://streams.wilmaa.com/m3u8/get?channelId=france_24&profile=8
+#EXTINF:-1,France 24 EN
+https://streams.wilmaa.com/m3u8/get?channelId=france-24-en&profile=8
+#EXTINF:-1,France 3
+https://streams.wilmaa.com/m3u8/get?channelId=france_3&profile=8
+#EXTINF:-1,France 4
+https://streams.wilmaa.com/m3u8/get?channelId=france_4&profile=8
+#EXTINF:-1,France 5
+https://streams.wilmaa.com/m3u8/get?channelId=france_5&profile=8
+#EXTINF:-1,France Info
+https://streams.wilmaa.com/m3u8/get?channelId=france_info&profile=8
+#EXTINF:-1,France O
+https://streams.wilmaa.com/m3u8/get?channelId=france_o&profile=8
+#EXTINF:-1,FreeSports
+https://streams.wilmaa.com/m3u8/get?channelId=freesports_uk&profile=8
+#EXTINF:-1,Frisbee
+https://streams.wilmaa.com/m3u8/get?channelId=frisbee_it&profile=8
+#EXTINF:-1,Giallo
+https://streams.wilmaa.com/m3u8/get?channelId=giallo_it&profile=8
+#EXTINF:-1,GoTV
+https://streams.wilmaa.com/m3u8/get?channelId=gotv_austria&profile=8
+#EXTINF:-1,Gulli
+https://streams.wilmaa.com/m3u8/get?channelId=gulli&profile=8
+#EXTINF:-1,Haber Turk
+https://streams.wilmaa.com/m3u8/get?channelId=haber_turk&profile=8
+#EXTINF:-1,Halk TV
+https://streams.wilmaa.com/m3u8/get?channelId=halk_tv&profile=8
+#EXTINF:-1,Health.tv
+https://streams.wilmaa.com/m3u8/get?channelId=health_tv_de&profile=8
+#EXTINF:-1,HGTV
+https://streams.wilmaa.com/m3u8/get?channelId=hgtv_de&profile=8
+#EXTINF:-1,HR
+https://streams.wilmaa.com/m3u8/get?channelId=hr&profile=8
+#EXTINF:-1,HSE 24
+https://streams.wilmaa.com/m3u8/get?channelId=hse24&profile=8
+#EXTINF:-1,HSE24 Extra
+https://streams.wilmaa.com/m3u8/get?channelId=hse24_extra&profile=8
+#EXTINF:-1,HSE24 Trend
+https://streams.wilmaa.com/m3u8/get?channelId=hse24_trend&profile=8
+#EXTINF:-1,i24NEWS EN
+https://streams.wilmaa.com/m3u8/get?channelId=i24news_english&profile=8
+#EXTINF:-1,i24NEWS FR
+https://streams.wilmaa.com/m3u8/get?channelId=i24news_french&profile=8
+#EXTINF:-1,Iris
+https://streams.wilmaa.com/m3u8/get?channelId=iris&profile=8
+#EXTINF:-1,Italia 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=italia_1_hd&profile=8
+#EXTINF:-1,Italia 2
+https://streams.wilmaa.com/m3u8/get?channelId=italia_2&profile=8
+#EXTINF:-1,iTV 2
+https://streams.wilmaa.com/m3u8/get?channelId=itv_2&profile=8
+#EXTINF:-1,iTV 3
+https://streams.wilmaa.com/m3u8/get?channelId=itv_3&profile=8
+#EXTINF:-1,ITV 4
+https://streams.wilmaa.com/m3u8/get?channelId=itv-4&profile=8
+#EXTINF:-1,iTV HD
+https://streams.wilmaa.com/m3u8/get?channelId=itv_1_hd&profile=8
+#EXTINF:-1,ITVBe
+https://streams.wilmaa.com/m3u8/get?channelId=itvbe&profile=8
+#EXTINF:-1,K-TV
+https://streams.wilmaa.com/m3u8/get?channelId=ktv&profile=8
+#EXTINF:-1,K2
+https://streams.wilmaa.com/m3u8/get?channelId=k2_it&profile=8
+#EXTINF:-1,Kabel 1 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=kabel1_doku&profile=8
+#EXTINF:-1,Kabel Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd&profile=8
+#EXTINF:-1,Kanal 7 Avrupa
+https://streams.wilmaa.com/m3u8/get?channelId=tr_kanal_7&profile=8
+#EXTINF:-1,Kanal 9
+https://streams.wilmaa.com/m3u8/get?channelId=kanal_9&profile=8
+#EXTINF:-1,Kika HD
+https://streams.wilmaa.com/m3u8/get?channelId=kika_hd&profile=8
+#EXTINF:-1,Kiss TV
+https://streams.wilmaa.com/m3u8/get?channelId=kiss_tv&profile=8
+#EXTINF:-1,KTO
+https://streams.wilmaa.com/m3u8/get?channelId=kto&profile=8
+#EXTINF:-1,KuriakosTV
+https://streams.wilmaa.com/m3u8/get?channelId=kuriakos_tv&profile=8
+#EXTINF:-1,L'equipe 21
+https://streams.wilmaa.com/m3u8/get?channelId=equipe_tv&profile=8
+#EXTINF:-1,La 7 d
+https://streams.wilmaa.com/m3u8/get?channelId=la_7_d&profile=8
+#EXTINF:-1,La7
+https://streams.wilmaa.com/m3u8/get?channelId=la_7&profile=8
+#EXTINF:-1,LCI
+https://streams.wilmaa.com/m3u8/get?channelId=lci&profile=8
+#EXTINF:-1,lfm tv
+https://streams.wilmaa.com/m3u8/get?channelId=lfm_tv_ch&profile=8
+#EXTINF:-1,Léman bleu
+https://streams.wilmaa.com/m3u8/get?channelId=leman_bleu&profile=8
+#EXTINF:-1,M6 HD CH
+https://streams.wilmaa.com/m3u8/get?channelId=m_6_hd&profile=8
+#EXTINF:-1,More 4
+https://streams.wilmaa.com/m3u8/get?channelId=more_4&profile=8
+#EXTINF:-1,MTV CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=mtv_ch_hd&profile=8
+#EXTINF:-1,n-tv HD
+https://streams.wilmaa.com/m3u8/get?channelId=n_tv_hd&profile=8
+#EXTINF:-1,N24 Doku
+https://streams.wilmaa.com/m3u8/get?channelId=n24_doku&profile=8
+#EXTINF:-1,NASA TV
+https://streams.wilmaa.com/m3u8/get?channelId=nasa_tv&profile=8
+#EXTINF:-1,NDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd&profile=8
+#EXTINF:-1,NETVIET
+https://streams.wilmaa.com/m3u8/get?channelId=netviet_vn&profile=8
+#EXTINF:-1,Nick Schweiz
+https://streams.wilmaa.com/m3u8/get?channelId=nick_cc_hd&profile=8
+#EXTINF:-1,NOVE
+https://streams.wilmaa.com/m3u8/get?channelId=nove_it&profile=8
+#EXTINF:-1,Now 90s
+https://streams.wilmaa.com/m3u8/get?channelId=chilled_tv&profile=8
+#EXTINF:-1,ONE
+https://streams.wilmaa.com/m3u8/get?channelId=einsfestival&profile=8
+#EXTINF:-1,one
+https://streams.wilmaa.com/m3u8/get?channelId=one_tv_ch&profile=8
+#EXTINF:-1,ORF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_2_hd&profile=8
+#EXTINF:-1,ORF Eins HD
+https://streams.wilmaa.com/m3u8/get?channelId=orf_1_hd&profile=8
+#EXTINF:-1,ORF3
+https://streams.wilmaa.com/m3u8/get?channelId=orf3&profile=8
+#EXTINF:-1,Paramount Channel Italy
+https://streams.wilmaa.com/m3u8/get?channelId=paramount_channel_it&profile=8
+#EXTINF:-1,Paramount Network
+https://streams.wilmaa.com/m3u8/get?channelId=paramount_network_uk&profile=8
+#EXTINF:-1,PBS America
+https://streams.wilmaa.com/m3u8/get?channelId=pbs_america&profile=8
+#EXTINF:-1,Phoenix HD
+https://streams.wilmaa.com/m3u8/get?channelId=phoenix_hd&profile=8
+#EXTINF:-1,Pick
+https://streams.wilmaa.com/m3u8/get?channelId=pick_uk&profile=8
+#EXTINF:-1,Power Turk TV
+https://streams.wilmaa.com/m3u8/get?channelId=power_turk&profile=8
+#EXTINF:-1,ProSieben HD
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd&profile=8
+#EXTINF:-1,ProSieben MAXX
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_maxx&profile=8
+#EXTINF:-1,Puls acht
+https://streams.wilmaa.com/m3u8/get?channelId=puls_8&profile=8
+#EXTINF:-1,QS24
+https://streams.wilmaa.com/m3u8/get?channelId=qs24&profile=8
+#EXTINF:-1,R9 Österreich
+https://streams.wilmaa.com/m3u8/get?channelId=r9_at&profile=8
+#EXTINF:-1,Radio Bremen TV
+https://streams.wilmaa.com/m3u8/get?channelId=radio-bremen-tv&profile=8
+#EXTINF:-1,Rai 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rai_1_hd&profile=8
+#EXTINF:-1,Rai 2
+https://streams.wilmaa.com/m3u8/get?channelId=rai_2&profile=8
+#EXTINF:-1,Rai 3
+https://streams.wilmaa.com/m3u8/get?channelId=rai_3&profile=8
+#EXTINF:-1,Rai 4
+https://streams.wilmaa.com/m3u8/get?channelId=rai_4&profile=8
+#EXTINF:-1,Rai 5
+https://streams.wilmaa.com/m3u8/get?channelId=rai_5&profile=8
+#EXTINF:-1,Rai Gulp
+https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp&profile=8
+#EXTINF:-1,Rai Movie
+https://streams.wilmaa.com/m3u8/get?channelId=rai_movie&profile=8
+#EXTINF:-1,Rai News
+https://streams.wilmaa.com/m3u8/get?channelId=rai_news&profile=8
+#EXTINF:-1,Rai Scuola
+https://streams.wilmaa.com/m3u8/get?channelId=rai_scuola&profile=8
+#EXTINF:-1,Rai Sport 1
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_1&profile=8
+#EXTINF:-1,Rai Sport 2
+https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_2&profile=8
+#EXTINF:-1,Rai Storia
+https://streams.wilmaa.com/m3u8/get?channelId=rai_storia&profile=8
+#EXTINF:-1,Rai Yoyo
+https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo&profile=8
+#EXTINF:-1,rbb Berlin
+https://streams.wilmaa.com/m3u8/get?channelId=rbb&profile=8
+#EXTINF:-1,Real Time
+https://streams.wilmaa.com/m3u8/get?channelId=real_time_it&profile=8
+#EXTINF:-1,Record News
+https://streams.wilmaa.com/m3u8/get?channelId=record_news&profile=8
+#EXTINF:-1,Record TV
+https://streams.wilmaa.com/m3u8/get?channelId=record_tv&profile=8
+#EXTINF:-1,Rete4 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd&profile=8
+#EXTINF:-1,RIC
+https://streams.wilmaa.com/m3u8/get?channelId=ric&profile=8
+#EXTINF:-1,RMC Découverte HD
+https://streams.wilmaa.com/m3u8/get?channelId=rmc_decouverte&profile=8
+#EXTINF:-1,Rocket Beans TV
+https://streams.wilmaa.com/m3u8/get?channelId=rocketbeans&profile=8
+#EXTINF:-1,Rouge TV
+https://streams.wilmaa.com/m3u8/get?channelId=rouge_tv&profile=8
+#EXTINF:-1,RSI La 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd&profile=8
+#EXTINF:-1,RSI La 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_hd&profile=8
+#EXTINF:-1,RT Doc
+https://streams.wilmaa.com/m3u8/get?channelId=rt_doc&profile=8
+#EXTINF:-1,RTL 102.5 TV
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_1025_tv&profile=8
+#EXTINF:-1,RTL CH HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd&profile=8
+#EXTINF:-1,RTL NITRO HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_nitro_hd&profile=8
+#EXTINF:-1,RTL2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd&profile=8
+#EXTINF:-1,RTLplus
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_plus&profile=8
+#EXTINF:-1,RTP 3
+https://streams.wilmaa.com/m3u8/get?channelId=rtp_3&profile=8
+#EXTINF:-1,RTP Internacional
+https://streams.wilmaa.com/m3u8/get?channelId=rtp_internacional&profile=8
+#EXTINF:-1,RTS DEUX HD
+https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd&profile=8
+#EXTINF:-1,RTS UN HD
+https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd&profile=8
+#EXTINF:-1,S1TV HD
+https://streams.wilmaa.com/m3u8/get?channelId=s1tv_hd&profile=8
+#EXTINF:-1,S4C
+https://streams.wilmaa.com/m3u8/get?channelId=s4c&profile=8
+#EXTINF:-1,Sat.1 Gold
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_gold&profile=8
+#EXTINF:-1,SAT.1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd&profile=8
+#EXTINF:-1,Servus HD
+https://streams.wilmaa.com/m3u8/get?channelId=servus_tv_hd&profile=8
+#EXTINF:-1,Show Turk
+https://streams.wilmaa.com/m3u8/get?channelId=tr_show_turk&profile=8
+#EXTINF:-1,sixx HD
+https://streams.wilmaa.com/m3u8/get?channelId=sixx_hd&profile=8
+#EXTINF:-1,Sky News
+https://streams.wilmaa.com/m3u8/get?channelId=skynews-intl&profile=8
+#EXTINF:-1,Sky Sport News
+https://streams.wilmaa.com/m3u8/get?channelId=sky_sport_news_de&profile=8
+#EXTINF:-1,Sky TG24
+https://streams.wilmaa.com/m3u8/get?channelId=sky_tg24_it&profile=8
+#EXTINF:-1,SONLife
+https://streams.wilmaa.com/m3u8/get?channelId=sonlife&profile=8
+#EXTINF:-1,Spike Italia
+https://streams.wilmaa.com/m3u8/get?channelId=spike_italia&profile=8
+#EXTINF:-1,Sport1
+https://streams.wilmaa.com/m3u8/get?channelId=sport_1&profile=8
+#EXTINF:-1,SR Fernsehen
+https://streams.wilmaa.com/m3u8/get?channelId=sr-fernsehen&profile=8
+#EXTINF:-1,SRF 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_1_hd&profile=8
+#EXTINF:-1,SRF 2 HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_2_hd&profile=8
+#EXTINF:-1,SRF info HD
+https://streams.wilmaa.com/m3u8/get?channelId=sf_info_hd&profile=8
+#EXTINF:-1,Star TV
+https://streams.wilmaa.com/m3u8/get?channelId=star_tv&profile=8
+#EXTINF:-1,SUPER RTL HD
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd&profile=8
+#EXTINF:-1,Super!
+https://streams.wilmaa.com/m3u8/get?channelId=super_it&profile=8
+#EXTINF:-1,Swiss 1 TV
+https://streams.wilmaa.com/m3u8/get?channelId=swiss1_tv_hd&profile=8
+#EXTINF:-1,SWR HD
+https://streams.wilmaa.com/m3u8/get?channelId=swr_hd&profile=8
+#EXTINF:-1,tagesschau24
+https://streams.wilmaa.com/m3u8/get?channelId=einsextra&profile=8
+#EXTINF:-1,Tele 1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_1_hd&profile=8
+#EXTINF:-1,Tele 5
+https://streams.wilmaa.com/m3u8/get?channelId=tele_5&profile=8
+#EXTINF:-1,Tele M1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_m1_hd&profile=8
+#EXTINF:-1,Tele Ostschweiz HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ostschweiz_hd&profile=8
+#EXTINF:-1,TELE TOP ZH
+https://streams.wilmaa.com/m3u8/get?channelId=tele_top_zh&profile=8
+#EXTINF:-1,Telebasel
+https://streams.wilmaa.com/m3u8/get?channelId=telebasel&profile=8
+#EXTINF:-1,TeleBielingue
+https://streams.wilmaa.com/m3u8/get?channelId=tele_biel&profile=8
+#EXTINF:-1,TeleBärn
+https://streams.wilmaa.com/m3u8/get?channelId=telebaern&profile=8
+#EXTINF:-1,Teleclub Zoom
+https://streams.wilmaa.com/m3u8/get?channelId=teleclub_zoom_hd&profile=8
+#EXTINF:-1,Teleclub Zoom FR
+https://streams.wilmaa.com/m3u8/get?channelId=teleclub_zoom_fr&profile=8
+#EXTINF:-1,Telepace
+https://streams.wilmaa.com/m3u8/get?channelId=telepace&profile=8
+#EXTINF:-1,TeleTicino
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ticino&profile=8
+#EXTINF:-1,TeleZüri HD
+https://streams.wilmaa.com/m3u8/get?channelId=tele_zuri_hd&profile=8
+#EXTINF:-1,TF1 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tf_1_hd&profile=8
+#EXTINF:-1,TF1 Séries Films
+https://streams.wilmaa.com/m3u8/get?channelId=hd_1&profile=8
+#EXTINF:-1,TFX
+https://streams.wilmaa.com/m3u8/get?channelId=nt_1&profile=8
+#EXTINF:-1,TLC Germany
+https://streams.wilmaa.com/m3u8/get?channelId=tlc_de&profile=8
+#EXTINF:-1,TMC
+https://streams.wilmaa.com/m3u8/get?channelId=tmc&profile=8
+#EXTINF:-1,TOGGO plus
+https://streams.wilmaa.com/m3u8/get?channelId=toggo_plus&profile=8
+#EXTINF:-1,Travel Channel
+https://streams.wilmaa.com/m3u8/get?channelId=travelchannel_en&profile=8
+#EXTINF:-1,TV 25 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv_25_hd&profile=8
+#EXTINF:-1,TV 8
+https://streams.wilmaa.com/m3u8/get?channelId=tv_8&profile=8
+#EXTINF:-1,TV 8 int
+https://streams.wilmaa.com/m3u8/get?channelId=tv8&profile=8
+#EXTINF:-1,TV Südostschweiz HD
+https://streams.wilmaa.com/m3u8/get?channelId=tso_hd&profile=8
+#EXTINF:-1,TV24 HD
+https://streams.wilmaa.com/m3u8/get?channelId=tv24_hd&profile=8
+#EXTINF:-1,TV5Monde
+https://streams.wilmaa.com/m3u8/get?channelId=tv_5_monde&profile=8
+#EXTINF:-1,TV5Monde
+https://streams.wilmaa.com/m3u8/get?channelId=tv5-monde&profile=8
+#EXTINF:-1,TVE Int.
+https://streams.wilmaa.com/m3u8/get?channelId=tve&profile=8
+#EXTINF:-1,TVM3
+https://streams.wilmaa.com/m3u8/get?channelId=tvm_3&profile=8
+#EXTINF:-1,UniNettuno University TV
+https://streams.wilmaa.com/m3u8/get?channelId=uninettuno_it&profile=8
+#EXTINF:-1,VISIT-X.tv
+https://streams.wilmaa.com/m3u8/get?channelId=visitx&profile=8
+#EXTINF:-1,VOX HD
+https://streams.wilmaa.com/m3u8/get?channelId=vox_hd&profile=8
+#EXTINF:-1,VOXup
+https://streams.wilmaa.com/m3u8/get?channelId=vox_up_de&profile=8
+#EXTINF:-1,W9 CH
+https://streams.wilmaa.com/m3u8/get?channelId=w_9&profile=8
+#EXTINF:-1,WDR HD
+https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd&profile=8
+#EXTINF:-1,WELT
+https://streams.wilmaa.com/m3u8/get?channelId=n24_hd&profile=8
+#EXTINF:-1,Welt der Wunder
+https://streams.wilmaa.com/m3u8/get?channelId=weltderwunder&profile=8
+#EXTINF:-1,Wetter TV
+https://streams.wilmaa.com/m3u8/get?channelId=wetter_tv&profile=8
+#EXTINF:-1,Yesterday
+https://streams.wilmaa.com/m3u8/get?channelId=yesterday_uk&profile=8
+#EXTINF:-1,ZDF HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd&profile=8
+#EXTINF:-1,ZDF Info HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_info_hd&profile=8
+#EXTINF:-1,ZDF Neo HD
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd&profile=8
