@@ -131,6 +131,18 @@ http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1,Липецкое время HD
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/720p.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/720p.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/720p.m3u8
+#EXTINF:-1,ЛитКлуб ТВ Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
+#EXTINF:-1,ЛитКлуб ТВ Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
+#EXTINF:-1,ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/480p.m3u8
 #EXTINF:-1,Майдан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 #EXTINF:-1,Майкопское Телевидение

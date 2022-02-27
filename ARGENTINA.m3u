@@ -23,10 +23,6 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/HasBahCa.m3u8
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ayvtv TELEVISION__Ayvnewlogo1
 https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8?HasBahCa.m3u8
-#EXTINF:-1,BACKUSTV
-http://stream.backustv.ru/content/39837/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,BACKUSTV Страшное
-http://stream.backustv.ru/content/39864/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Baile Picante
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1,BUTACA TV
@@ -171,8 +167,6 @@ https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist_1280x7
 https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1,LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,M2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1,MAXIMA
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
 #EXTINF:-1,MICROVISIÓN
@@ -207,8 +201,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1,Regionales Pa' Bailar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-#EXTINF:-1,Restaurando Vidas Internacional (720p)
-http://v4.tustreaming.cl/restaurandovidastv/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
 #EXTINF:-1,Ritmos Inolvidables
@@ -241,8 +233,6 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CD
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TU CINE HD
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TV CLASSICS
-https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w1374383399.m3u8
 #EXTINF:-1,TV ONE
@@ -257,8 +247,6 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1,TVO TOCOPILLA
 http://srv3.zcast.com.br/cristian5592/cristian5592/HasBahCa.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVS MARACAY
-http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8
 #EXTINF:-1,TVU Universidad Nacional de La Plata (720p) [Not 24/7]
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1,Vallenato Internacional (720p) [Not 24/7]

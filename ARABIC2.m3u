@@ -5,6 +5,8 @@ http://45.94.31.190:7002/play/a0bl
 http://149.62.177.158:8000/play/a01b
 #EXTINF:-1,2M TV
 http://45.94.31.195:7001/play/a0d9
+#EXTINF:-1,3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,4 BILLBOARD
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1,4 MUSIC
@@ -27,10 +29,22 @@ http://45.94.31.190:7003/play/a0bz
 http://149.62.177.158:8000/play/a00e
 #EXTINF:-1,A3 HD
 http://45.94.31.195:7001/play/a0b3
+#EXTINF:-1,ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1,Abu Dabi Aloula
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dabi Emirates
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1,Abu Dhabi Sports 1
 http://45.94.31.195:7001/play/a0d1
 #EXTINF:-1,Abu Dhabi Sports 2
 http://45.94.31.195:7001/play/a0d3
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,Abu Dhabi TV
 http://45.94.31.195:7001/play/a0cz
 #EXTINF:-1,Abu Dhabi TV HD
@@ -51,6 +65,8 @@ http://45.94.31.190:7004/play/a0b1
 http://45.94.31.195:7001/play/a0dl
 #EXTINF:-1,ADEN TV
 http://45.94.31.195:7001/play/a0ck
+#EXTINF:-1,AE | Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
 #EXTINF:-1,AFAQ TV
 http://45.94.31.190:7002/play/a0al
 #EXTINF:-1,Afarin TV (1080p) [Not 24/7]
@@ -69,10 +85,16 @@ https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 http://109.123.126.14:1935/live/livestream1.sdp/HasBahCa.m3u8
 #EXTINF:-1,AJMAN HD
 http://45.94.31.190:7003/play/a0ba
+#EXTINF:-1,Ajyal
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Ajyal (720p)
 http://htvmada.mada.ps:8888/ajyal/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Al Aan (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
+#EXTINF:-1,Al Adalah TV
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
 #EXTINF:-1,AL AHAD HD
 http://45.94.31.190:7002/play/a0aw
 #EXTINF:-1,Al Ahly HD
@@ -101,20 +123,32 @@ http://45.94.31.195:7001/play/a0d8
 http://45.94.31.195:7001/play/a0cn
 #EXTINF:-1,Al Arabiya
 http://45.94.31.195:7002/play/a0ft
+#EXTINF:-1,Al Arabiya HD
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Al Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,Al Araby 2 HD
 http://45.94.31.190:7003/play/a0bc
 #EXTINF:-1,AL ASRAR TV
 http://45.94.31.190:7002/play/a0bf
 #EXTINF:-1,AL AYAM TV
 http://45.94.31.190:7002/play/a0av
+#EXTINF:-1,AL Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/HasBahCa.m3u8
+#EXTINF:-1,AL Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/HasBahCa.m3u8
 #EXTINF:-1,Al Basira
 http://45.94.31.190:7002/play/a0bi
+#EXTINF:-1,Al Ekhbaria HD A
+https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1,Al Emarat TV
 http://45.94.31.195:7001/play/a0d0
 #EXTINF:-1,Al Emarat TV HD
 http://45.94.31.190:7004/play/a0cn
 #EXTINF:-1,AL ESHRAQ TV
 http://45.94.31.195:7001/play/a0bs
+#EXTINF:-1,Al Fajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1,Al Forat
 http://45.94.31.195:7002/play/a0fz
 #EXTINF:-1,AL GHAD AL MUSHREQ
@@ -125,6 +159,10 @@ http://45.94.31.190:7002/play/a0ao
 http://45.94.31.195:7001/play/a0cm
 #EXTINF:-1,Al Hadath HD
 http://45.94.31.190:7004/play/a0bn
+#EXTINF:-1,Al Hadath HD A
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Al Hadath HD B
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1,Al Hayat
 http://45.94.31.190:7004/play/a0c8
 #EXTINF:-1,Al Hayat TV (720p)
@@ -151,6 +189,12 @@ http://149.62.177.158:8000/play/a016
 http://45.94.31.195:7001/play/a0bc
 #EXTINF:-1,Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Al Jazeera HD
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,AL Jazeera Mubashe
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:-1,Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,AL JOUMHOURIYAH TV
@@ -159,10 +203,14 @@ http://45.94.31.190:7003/play/a0cd
 http://45.94.31.195:7002/play/a0ff
 #EXTINF:-1,Al Karma Family
 http://45.94.31.190:7002/play/a0bo
+#EXTINF:-1,AL KARMA TV
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/HasBahCa.m3u8
 #EXTINF:-1,AL KAWTHAR
 http://45.94.31.190:7004/play/a0ch
 #EXTINF:-1,Al Khalij (1080p)
 https://mn-nl.mncdn.com/khalij/khalij/HasBahCa.m3u8
+#EXTINF:-1,Al Khalij TV
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,AL MAAREF
 http://45.94.31.195:7001/play/a0c1
 #EXTINF:-1,Al Maghribia
@@ -175,6 +223,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_sn
 http://45.94.31.190:7001/play/a0af
 #EXTINF:-1,AL MALAKOOT SAT-THE KINGDOM SAT
 http://45.94.31.190:7002/play/a09p
+#EXTINF:-1,Al Mamlaka
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1,Al Manar (576p)
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Al Masirah (720p) [Not 24/7]
@@ -209,8 +259,14 @@ http://45.94.31.190:7002/play/a0aa
 http://45.94.31.190:7002/play/a0a4
 #EXTINF:-1,Al Sabah (360p) [Not 24/7]
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+#EXTINF:-1,Al Shahed TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
 #EXTINF:-1,AL SHALLAL
 http://45.94.31.190:7003/play/a0bb
+#EXTINF:-1,Al Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,Al Sharjah tv
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1,AL SHARQIYA
 http://45.94.31.195:7002/play/a0fe
 #EXTINF:-1,AL SHARQIYA HD
@@ -221,6 +277,8 @@ http://45.94.31.195:7002/play/a0du
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/HasBahCa.m3u8
 #EXTINF:-1,AL SHARQIYA NEWS HD
 http://45.94.31.190:7002/play/a0at
+#EXTINF:-1,Al Sharqiya TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1,AL SHASHA CINEMA
 http://45.94.31.190:7002/play/a0co
 #EXTINF:-1,AL SIRAT TV
@@ -233,6 +291,10 @@ http://45.94.31.195:7001/play/a0c2
 http://45.94.31.195:7001/play/a0bo
 #EXTINF:-1,Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1,Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1,Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
 #EXTINF:-1,Al Yaum TV (720p)
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1,AL YOOM CINEMA
@@ -243,6 +305,12 @@ http://45.94.31.190:7002/play/a09y
 http://45.94.31.195:7002/play/a0fu
 #EXTINF:-1,Al-Awhad TV
 http://45.94.31.190:7002/play/a09s
+#EXTINF:-1,Al-Hurra Iraq
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8
+#EXTINF:-1,Al-Iraqiya
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1,Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1,Al-Khalij TV
 http://45.94.31.190:7004/play/a0b8
 #EXTINF:-1,AL-MUSTAKILA
@@ -253,6 +321,12 @@ http://45.94.31.195:7002/play/a0es
 http://45.94.31.195:7002/play/a0f3
 #EXTINF:-1,Al-Nahar One
 http://45.94.31.195:7002/play/a0f2
+#EXTINF:-1,Al-Rafidain
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1,Al-Sabah TV
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
+#EXTINF:-1,Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8
 #EXTINF:-1,Al-Zahra TV Turkic (1080p)
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1,AL24 News
@@ -263,6 +337,8 @@ http://45.94.31.195:7001/play/a0b4
 http://45.94.31.190:7002/play/a0cq
 #EXTINF:-1,ALAAN TV HD
 http://45.94.31.190:7003/play/a0c4
+#EXTINF:-1,ALBAWADI TV
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
 #EXTINF:-1,Alerth Alnabawi
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1,Alghad Almushreq
@@ -285,6 +361,12 @@ http://45.94.31.190:7003/play/a0bn
 http://45.94.31.190:7004/play/a0cd
 #EXTINF:-1,Aliman TV (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1,Aljazeera
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1,Aljazeera Documentery
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1,Aljazeera Mubasher
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1,Alkarma Discipleship
 http://45.94.31.190:7004/play/a0c4
 #EXTINF:-1,AlKarma Praise
@@ -307,6 +389,10 @@ http://45.94.31.195:7001/play/a0cb
 http://45.94.31.195:7001/play/a0cc
 #EXTINF:-1,Almajd General
 http://45.94.31.190:7004/play/a0bs
+#EXTINF:-1,ALMAMLKA HD
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1,AlManar TV
+http://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ALMASAR TV HD
 http://45.94.31.190:7004/play/a0bq
 #EXTINF:-1,Almasira TV (720p)
@@ -327,6 +413,12 @@ http://45.94.31.190:7002/play/a0a2
 http://45.94.31.190:7004/play/a0b2
 #EXTINF:-1,Alrafidain (1024p) [Not 24/7]
 http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:-1,Alrai TV HD
+https://media.streambrothers.com:1936/8724/8724/HasBahCa.m3u8
+#EXTINF:-1,ALRayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1,ALRayyan Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 #EXTINF:-1,ALSALAM
 http://45.94.31.190:7002/play/a0a7
 #EXTINF:-1,ALSeha Waljamal
@@ -345,6 +437,8 @@ http://45.94.31.190:7002/play/a0c0
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,ARIRANG
 http://45.94.31.190:7004/play/a0at
+#EXTINF:-1,Arrabiaa (Opt-2)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Arryadia
 http://149.62.177.158:8000/play/a01c
 #EXTINF:-1,Arryadia
@@ -367,6 +461,8 @@ http://45.94.31.195:7001/play/a0dd
 http://45.94.31.190:7001/play/a0ag
 #EXTINF:-1,Atfal Mawaheb
 http://45.94.31.190:7004/play/a0by
+#EXTINF:-1,Atfal Wa Mawaheb
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1,Athaqafia
 http://149.62.177.158:8000/play/a01d
 #EXTINF:-1,Athaqafia
@@ -377,6 +473,10 @@ http://45.94.31.190:7001/play/a0ae
 http://149.62.177.158:8000/play/a012
 #EXTINF:-1,Attessia TV
 http://45.94.31.195:7001/play/a0b8
+#EXTINF:-1,Audeh (480p)
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Ava Entertainment
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Ava Entertainment (720p) [Not 24/7]
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 #EXTINF:-1,AVA Family
@@ -395,8 +495,12 @@ http://45.94.31.190:7003/play/a0c7
 http://45.94.31.190:7003/play/a0c8
 #EXTINF:-1,Bahia TV
 http://45.94.31.190:7002/play/a0b2
+#EXTINF:-1,Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Bahrain Sports 1 (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1,BAHRAIN TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain%20TV/HasBahCa.m3u8
 #EXTINF:-1,Bahrain TV (720p)
@@ -405,8 +509,14 @@ http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 http://45.94.31.190:7004/play/a0be
 #EXTINF:-1,BATOOT KIDS
 http://45.94.31.190:7002/play/a0cr
+#EXTINF:-1,Battery Pop
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1,BBCW
 http://45.94.31.195:7002/play/a0fl
+#EXTINF:-1,Bee Movies
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:-1,Bee Theater
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
 #EXTINF:-1,BEIRUT AFLAM
 http://45.94.31.190:7002/play/a0cs
 #EXTINF:-1,BEIRUT ALYOOM
@@ -431,6 +541,10 @@ http://45.94.31.190:7004/play/a0b3
 http://45.94.31.190:7002/play/a0ac
 #EXTINF:-1,Beur TV
 http://45.94.31.190:7002/play/a0b1
+#EXTINF:-1,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1,Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,CA HD
 http://149.62.177.158:8000/play/a02c
 #EXTINF:-1,CANAL ALGERIE
@@ -513,8 +627,22 @@ http://45.94.31.190:7003/play/a0cv
 http://45.94.31.195:7001/play/a0bt
 #EXTINF:-1,Dua TV (720p) [Not 24/7]
 https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8
+#EXTINF:-1,DUB-NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,DUBAI RACING 2 HD
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Dubai Racing 3 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/HasBahCa.m3u8
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,DUBAI Zaman HD
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1,DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Echorouk NEWS
@@ -529,6 +657,8 @@ http://51.210.199.40/hls/stream.m3u8
 http://45.94.31.195:7002/play/a0fo
 #EXTINF:-1,Egyptian TV HD
 http://45.94.31.195:7002/play/a0et
+#EXTINF:-1,Ekta TV
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1,EL BILAD
 http://45.94.31.190:7002/play/a0b7
 #EXTINF:-1,El Djazair N1
@@ -549,6 +679,8 @@ http://45.94.31.190:7003/play/a0cm
 http://45.94.31.190:7003/play/a0cj
 #EXTINF:-1,EL TELEVISION 6
 http://45.94.31.190:7003/play/a0cl
+#EXTINF:-1,Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/HasBahCa.m3u8
 #EXTINF:-1,Elhiwar Ettounsi
 http://149.62.177.158:8000/play/a010
 #EXTINF:-1,Elhiwar Ettounsi
@@ -587,6 +719,14 @@ http://45.94.31.190:7002/play/a0d5
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1,Funoon (360p)
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+#EXTINF:-1,Funoon Hd TV
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+#EXTINF:-1,GOLESTAN (240p)
+http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/HasBahCa.m3u8
+#EXTINF:-1,Gulli Bil
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Gulli Bil Arabi A
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Hadi TV 1
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1,Hadi TV 2
@@ -609,6 +749,8 @@ http://149.62.177.158:8000/play/a019
 http://45.94.31.195:7001/play/a0bf
 #EXTINF:-1,Hasti TV (1080p)
 https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1,Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 #EXTINF:-1,High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hiya TV
@@ -617,14 +759,24 @@ http://45.94.31.190:7002/play/a09j
 http://45.94.31.195:7001/play/a0bp
 #EXTINF:-1,HodHod TV
 http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1,I FILM 2
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,I FILM IRAN
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,i on Kuwait
+https://gulfsat.cdn.easybroadcast.fr/live/ionKuwait_abr/playlist.m3u8
 #EXTINF:-1,iFILM (720p)
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/HasBahCa.m3u8
 #EXTINF:-1,IFILM ARABIC
 http://45.94.31.195:7001/play/a0bl
+#EXTINF:-1,iFilm em farsi | Irã
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ILAM (576p)
 https://sdm.telewebion.com/live/ilam/playlist.m3u8
 #EXTINF:-1,Imam Hussein TV (720p)
 https://fa.imamhusseintv.com/live/ih1.m3u8
+#EXTINF:-1,Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih103/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Imam Hussein TV 1 Farsi (720p)
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1,Imam Hussein TV 2 Arabic (720p)
@@ -641,28 +793,48 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 http://45.94.31.190:7003/play/a0bk
 #EXTINF:-1,INTV Simaye Azadi (1080p)
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,iran 24 BOX TV
+https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1,Iran Beauty (Webradio)
 http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1,iran Canal Motor
+https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 #EXTINF:-1,iran Didar TV
 http://51.210.227.132/hls/stream.m3u8
 #EXTINF:-1,iran Drama TV
 http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1,iran EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1,iran EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/HasBahCa.m3u8
 #EXTINF:-1,iran FX TV
 http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1,iran Gem Series
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,IRAN INT
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 #EXTINF:-1,Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,iran Iraninternational
+https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
 #EXTINF:-1,iran Iranintl.radio
 http://51.210.199.46/hls/stream.m3u8
 #EXTINF:-1,iran maahtv
 http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1,iran Manoto HD
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:-1,iran Movie Box
 http://51.210.227.150/hls/stream.m3u8
+#EXTINF:-1,iran MTV Nordic
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master_2400.m3u8
 #EXTINF:-1,iran My Movie
 http://51.254.225.25/hls/stream.m3u8
 #EXTINF:-1,iran Navahang
 http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1,iran Oxir TV
 http://51.254.225.26/hls/stream.m3u8
+#EXTINF:-1,iran PBC Tapesh
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,iran Persian Film
 http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1,iran Persiana 1
@@ -675,20 +847,30 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1,iran Persiana IRANIAN
 http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1,iran Persiana KOREA
-http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1,iran Persiana MUSIC
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1,iran Persiana NOSTALGIA
 http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1,iran PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1,iran Radio Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
 #EXTINF:-1,iran SL1
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1,iran SL2
 http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1,iran Tapesh 2
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,iran tv2 - Nyhetsstrømmen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1,iran VOA PNN
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_1080_av-p.m3u8
 #EXTINF:-1,iran VOX1
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1,iran VOX2
 http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1,iran YourTime
+https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1,IRAQ 24 HD
 http://45.94.31.190:7004/play/a0ap
 #EXTINF:-1,IRIB Hamoon Zahedan(1080)
@@ -707,6 +889,8 @@ https://sdm.telewebion.com/live/jahanbin/playlist.m3u8
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/HasBahCa.m3u8
 #EXTINF:-1,JIN TV (720p)
 https://live.jintv.org:12443/medialive/jintv.m3u8
+#EXTINF:-1,Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1,K24 HD
 http://45.94.31.190:7004/play/a0b7
 #EXTINF:-1,Kalemeh TV (1080p) [Not 24/7]
@@ -723,6 +907,8 @@ http://45.94.31.190:7004/play/a0as
 https://sdm.telewebion.com/live/khoozestan/playlist.m3u8
 #EXTINF:-1,Khyber Middle East TV (720p) [Not 24/7]
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/HasBahCa.m3u8
 #EXTINF:-1,Koogi TV (1080p)
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1,KOREK HD
@@ -747,6 +933,12 @@ http://45.94.31.190:7002/play/a09n
 http://45.94.31.190:7002/play/a09l
 #EXTINF:-1,KURDISTAN TV
 http://45.94.31.190:7004/play/a0b9
+#EXTINF:-1,kuwait 1 HD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+#EXTINF:-1,kuwait 2 HD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+#EXTINF:-1,kuwait KIDS HD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
 #EXTINF:-1,Laayoune TV
 http://149.62.177.158:8000/play/a01i
 #EXTINF:-1,Laayoune TV
@@ -803,8 +995,12 @@ http://45.94.31.190:7004/play/a0co
 http://45.94.31.195:7001/play/a0cy
 #EXTINF:-1,Manoto TV (1080p)
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Manoto TV (720)
+https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8
 #EXTINF:-1,Marah FM (720p) [Not 24/7]
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:-1,Marina TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/playlist.m3u8
 #EXTINF:-1,Marjaeyat (1080p) [Not 24/7]
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1,Maspero Zaman
@@ -815,6 +1011,8 @@ http://45.94.31.195:7001/play/a0c3
 http://45.94.31.190:7002/play/a0bv
 #EXTINF:-1,MAZANDARAN (576p)
 https://sdm.telewebion.com/live/tabarestan/playlist.m3u8
+#EXTINF:-1,MBC 1 SD A
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MBC 2
 http://45.94.31.190:7003/play/a0c2
 #EXTINF:-1,MBC 2
@@ -825,30 +1023,50 @@ http://45.94.31.195:7001/play/a0cq
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MBC 3 HD A
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?HasBahCa.m3u8?HasBahCa
+#EXTINF:-1,MBC 3 SD
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC 4
 http://45.94.31.195:7001/play/a0cp
 #EXTINF:-1,MBC 5
 http://45.94.31.195:7001/play/a0co
+#EXTINF:-1,MBC 5 HD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MBC Action
 http://45.94.31.195:7001/play/a0cr
 #EXTINF:-1,MBC Bollywood
 http://45.94.31.195:7001/play/a0cu
 #EXTINF:-1,MBC Drama
 http://45.94.31.195:7001/play/a0cv
+#EXTINF:-1,MBC Drama HD A
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC Drama KSA (1080p)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MBC Drama+ HD A
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa.m3u8?HasBahCa
+#EXTINF:-1,MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC IRAQ
 http://45.94.31.190:7004/play/a0am
 #EXTINF:-1,MBC IRAQ HD
 http://45.94.31.190:7004/play/a0al
+#EXTINF:-1,MBC Iraq HD A
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MBC Masr 1 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MBC Masr 1 A
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC Masr 2
 http://45.94.31.195:7002/play/a0eu
 #EXTINF:-1,MBC Masr 2 (1080p)
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,MBC Masr 2 A
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC MAX
 http://45.94.31.195:7001/play/a0ct
+#EXTINF:-1,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,MBC Persia (1080p)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,MBC Plus Drama (1080p)
@@ -863,6 +1081,10 @@ http://45.94.31.190:7004/play/a0bu
 http://45.94.31.190:7001/play/a0ai
 #EXTINF:-1,MEKAMELEEN TV (720p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:-1,Mekka tv (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/HasBahCa.m3u8
 #EXTINF:-1,Menhag Alnbowa
 http://45.94.31.190:7002/play/a0bm
 #EXTINF:-1,Miracle TV
@@ -879,12 +1101,16 @@ http://45.94.31.195:7002/play/a0ep
 http://45.94.31.195:7002/play/a0e2
 #EXTINF:-1,MTA3
 http://45.94.31.190:7004/play/a0cc
+#EXTINF:-1,MTC IRAN
+http://51.210.227.128/hls/stream.m3u8
 #EXTINF:-1,MTI
 http://45.94.31.195:7002/play/a0dr
 #EXTINF:-1,MTV Lebanon (1080p)
 https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
 #EXTINF:-1,MusawaChannel (404p) [Not 24/7]
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Musawah TV
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NABA TV
 http://45.94.31.195:7001/play/a0bu
 #EXTINF:-1,Nabaa TV
@@ -937,8 +1163,20 @@ http://45.94.31.190:7002/play/a0br
 https://media.streambrothers.com:1936/8226/8226/HasBahCa.m3u8
 #EXTINF:-1,OFOGH (720p) [Not 24/7]
 https://sdm.telewebion.com/live/ofogh/playlist.m3u8
+#EXTINF:-1,Oman Althakafia
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Oman Live
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Oman TV Live HD
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/HasBahCa.m3u8
 #EXTINF:-1,Oman TV Mubashir (1080p)
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/HasBahCa.m3u8
+#EXTINF:-1,Oman TV Sport HD
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/HasBahCa.m3u8
 #EXTINF:-1,Omg Channel TV (720p) [Not 24/7]
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/HasBahCa.m3u8
 #EXTINF:-1,ON  E
@@ -969,14 +1207,28 @@ http://45.94.31.190:7002/play/a0d8
 http://45.94.31.190:7002/play/a0d9
 #EXTINF:-1,ORPIT MOVIES
 http://45.94.31.190:7002/play/a0da
+#EXTINF:-1,OSN MTV Biggest Pop B
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Palestine
 http://45.94.31.190:7002/play/a09i
 #EXTINF:-1,Palestine
 http://45.94.31.195:7002/play/a0er
+#EXTINF:-1,Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Palestine Mubasher (404p)
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Palestine Satellite Channel (404p)
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,PALESTINE TODAY
 http://45.94.31.190:7002/play/a0ab
 #EXTINF:-1,palestiniantv (720p)
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1,Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,PARS TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8
 #EXTINF:-1,Pars TV (240p) [Not 24/7]
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Payam Javan TV (720p)
@@ -989,6 +1241,8 @@ http://45.94.31.190:7004/play/a0bd
 http://51.210.199.25/hls/stream.m3u8
 #EXTINF:-1,Persiana Junior
 http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1,Persiana SAT 7
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks.m3u8
 #EXTINF:-1,PLAY DRAMA
 http://45.94.31.190:7002/play/a0dg
 #EXTINF:-1,PLAY TODAY
@@ -1003,6 +1257,10 @@ https://live.presstv.ir/liveprs/smil:liveprs/HasBahCa.m3u8
 http://149.62.177.158:8000/play/a007
 #EXTINF:-1,Programme NationalHD
 http://45.94.31.195:7001/play/a0as
+#EXTINF:-1,Qatar TV 2 HD
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Qatar TV HD
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Qatar TV HD
 http://45.94.31.190:7002/play/a0c5
 #EXTINF:-1,QAZVIN (576p)
@@ -1029,16 +1287,30 @@ http://45.94.31.190:7003/play/a0ct
 http://45.94.31.195:7001/play/a0dm
 #EXTINF:-1,Ronahi TV
 http://45.94.31.190:7004/play/a0bc
+#EXTINF:-1,Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,Rotana Cinema HD (1080p)
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8?HasBahCa.m3u8?HasBahCa
+#EXTINF:-1,Rotana Classic HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rotana Khalejia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,Rotana Khalijia HD (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rotana KIDS
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 #EXTINF:-1,Rotana Kids (1080p)
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Rotana KIDS HD
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,Rotana Radio Jordan: City View (180p)
 http://188.247.86.66/RotanaRadio/CityView1/HasBahCa.m3u8
 #EXTINF:-1,Rotana Radio Jordan: Control Studio (180p)
 http://188.247.86.66/RotanaRadio/ControlStudio1/HasBahCa.m3u8
+#EXTINF:-1,Rotana Rotana+ HD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?HasBahCa.m3u8?HasBahCa
 #EXTINF:-1,Rotana Tarab Jordan: City View (180p) [Not 24/7]
 http://188.247.86.66/RadioFann/Audio32/HasBahCa.m3u8
 #EXTINF:-1,Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
@@ -1059,20 +1331,22 @@ http://45.94.31.195:7002/play/a0f1
 http://45.94.31.195:7002/play/a0ez
 #EXTINF:-1,SAFA TV
 http://45.94.31.195:7002/play/a0eo
-#EXTINF:-1,SAHAND (576p)
-https://sdm.telewebion.com/live/sahand/playlist.m3u8
+#EXTINF:-1,Sahar (240p)
+http://cdnlive.irib.ir/live-channels/smil:sahar3/HasBahCa.m3u8
 #EXTINF:-1,SAHAR KURDI
 http://45.94.31.195:7001/play/a0bq
 #EXTINF:-1,Sahel TV (720p)
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1,Sahel TV (720p)
 http://142.44.214.231:1935/saheltv/myStream/HasBahCa.m3u8
+#EXTINF:-1,SALAAM TV IRAN
+https://iptv.salaamtv.org/salaam/playlist2/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Salam TV
 http://45.94.31.190:7003/play/a0al
 #EXTINF:-1,Salam TV (720p)
 https://iptv.salaamtv.org/salaam/playlist.m3u8
 #EXTINF:-1,SALAMAT (576p)
 https://sdm.telewebion.com/live/salamat/playlist.m3u8
+#EXTINF:-1,SAMA DUBAI HD
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1,SAMA TV
 http://45.94.31.195:7002/play/a0e1
 #EXTINF:-1,Samira TV
@@ -1083,12 +1357,18 @@ http://45.94.31.190:7002/play/a09h
 http://45.94.31.190:7004/play/a0bf
 #EXTINF:-1,SAT-7 ARABIC (720p)
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1,SAT-7 KIDS
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1,Sat7 Pars (720p)
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1,SAUDI 24
 http://45.94.31.190:7002/play/a0a5
+#EXTINF:-1,Saudi TV HD
+https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1,Sawt Alitra
 http://45.94.31.195:7001/play/a0cg
+#EXTINF:-1,SBC HD
+https://edge.taghtia.com/sa/1.m3u8
 #EXTINF:-1,SEPEHR (576p)
 https://sdm.telewebion.com/live/sepehr/playlist.m3u8
 #EXTINF:-1,Shabab FM (720p) [Not 24/7]
@@ -1099,6 +1379,8 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
 #EXTINF:-1,SHARO5AN HINDI
 http://45.94.31.190:7002/play/a0ag
+#EXTINF:-1,Sharqiya Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1,SHEHAB TV
 http://45.94.31.190:7004/play/a0c7
 #EXTINF:-1,SHEHAB TV HD
@@ -1119,10 +1401,16 @@ http://45.94.31.195:7001/play/a0c4
 http://45.94.31.190:7002/play/a0bk
 #EXTINF:-1,Souryana
 http://45.94.31.195:7002/play/a0e0
+#EXTINF:-1,Space Toon A
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Space Toon B
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/HasBahCa.m3u8
 #EXTINF:-1,Spacetoon (576p)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,SPACETOON ARABIC
 http://45.94.31.195:7002/play/a0f9
+#EXTINF:-1,SSC1 HD
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Story Channel
 http://45.94.31.190:7002/play/a0bh
 #EXTINF:-1,SUDAN NOW 24
@@ -1153,6 +1441,8 @@ http://45.94.31.190:7001/play/a0ah
 http://45.94.31.190:7002/play/a0ai
 #EXTINF:-1,TATT7
 http://45.94.31.190:7002/play/a0ci
+#EXTINF:-1,TBN Nejat TV (540p)
+https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Tele Maroc
 http://45.94.31.190:7003/play/a0ar
 #EXTINF:-1,Telvza TV
@@ -1165,6 +1455,8 @@ http://45.94.31.195:7002/play/a0ef
 https://live.thaqalayn.tv/hls/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,The Kingdom Sat (576p)
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Thikrayat TV HD
+https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1,Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/HasBahCa.m3u8
 #EXTINF:-1,TOKTOK AFLAM
@@ -1175,6 +1467,8 @@ http://45.94.31.190:7002/play/a0aq
 http://51.210.227.134/hls/stream.m3u8
 #EXTINF:-1,TOP MOVIES
 http://45.94.31.190:7002/play/a0a1
+#EXTINF:-1,Toyor Al-Jannah
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/user/toyorlive/live
 #EXTINF:-1,TRT Arabi
 http://45.94.31.190:7004/play/a0cj
 #EXTINF:-1,TRT Arabi HD
@@ -1195,6 +1489,8 @@ http://149.62.177.158:8000/play/a014
 http://45.94.31.195:7001/play/a0ba
 #EXTINF:-1,Tunisia Nat1 HD
 http://45.94.31.190:7002/play/a0a0
+#EXTINF:-1,Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TUNISNA
 http://149.62.177.158:8000/play/a011
 #EXTINF:-1,TUNISNA
@@ -1233,10 +1529,14 @@ http://45.94.31.190:7002/play/a09a
 http://45.94.31.190:7004/play/a0b6
 #EXTINF:-1,VARZESH (1080p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/HasBahCa.m3u8
+#EXTINF:-1,VoA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,VoA Persian (1080p)
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,WAAR HD
 http://45.94.31.190:7002/play/a099
+#EXTINF:-1,Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Wanasah
 http://45.94.31.195:7001/play/a0cx
 #EXTINF:-1,Weyyak Action (720p)
@@ -1269,8 +1569,12 @@ http://45.94.31.190:7004/play/a0ba
 http://45.94.31.190:7002/play/a09q
 #EXTINF:-1,ZAYTOONA
 http://45.94.31.195:7001/play/a0di
+#EXTINF:-1,Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ZEE AFLAM
 http://45.94.31.190:7003/play/a0c5
+#EXTINF:-1,Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,ZEE ALWAN
 http://45.94.31.190:7003/play/a0c6
 #EXTINF:-1,ZILZAL CLASSIC

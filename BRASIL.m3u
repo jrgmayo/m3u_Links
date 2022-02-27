@@ -547,8 +547,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 http://177.104.160.101:8000/play/a013
 #EXTINF:-1,Travel Box
 http://177.104.160.101:8000/play/a00b
-#EXTINF:-1,Travelᴴᴰ
-http://177.20.208.58:8000/play/a04i/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:-1,TRU TV
@@ -575,8 +573,6 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/HasB
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TV Capital Lucelia (828p) [Not 24/7]
 http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?HasBahCa.m3u8
 #EXTINF:-1,TV Cidade de Petrópolis (1080p) [Not 24/7]
 https://video01.kshost.com.br:4443/inside2133/inside2133/HasBahCa.m3u8
 #EXTINF:-1,TV CIDADE OESTE
@@ -659,8 +655,6 @@ http://177.104.160.101:8000/play/a00t
 https://stmv1.srvif.com/tvriogrande/tvriogrande/HasBahCa.m3u8
 #EXTINF:-1,TV Santa Cecília (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TV Santa Cruz (720p)
-https://rtmp.info/tvsantacruz/envivo/HasBahCa.m3u8
 #EXTINF:-1,TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/HasBahCa.m3u8
 #EXTINF:-1,TV Terceiro Anjo (360p) [Not 24/7]
@@ -729,8 +723,6 @@ http://181.176.148.142:8000/play/a003
 http://pfsv.io:80/dx6PVjx2/29993/133
 #EXTINF:-1,Woohoo
 http://177.104.160.101:8000/play/a00r
-#EXTINF:-1,Woohoo | Brasil
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1,XR Health Brasil
 https://video01.soultv.com.br/xrhealth/xrhealth/HasBahCa.m3u8
 #EXTINF:-1,YEEAAH TV

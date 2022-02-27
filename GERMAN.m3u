@@ -1,16 +1,38 @@
 #EXTM3U
+#EXTINF:-1,13th Street HD
+http://185.236.229.53:9981/play/a02c
 #EXTINF:-1,3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8?HasBahCa.m3u8
 #EXTINF:-1,3sat
-http://185.234.111.36:8003/play/a0cc/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cc/index.m3u8
 #EXTINF:-1,Anixe +
 http://80.151.59.124:8000/play/a07v
 #EXTINF:-1,ARD Das Erste
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,Astro TV
 http://80.151.59.124:8000/play/a085
+#EXTINF:-1,Beate Uhse HD
+http://185.236.229.53:9981/play/a014
+#EXTINF:-1,Boomerang
+http://185.236.229.53:9981/play/a013
+#EXTINF:-1,Cartoon Network
+http://185.236.229.53:9981/play/a03q
+#EXTINF:-1,Classica
+http://185.236.229.53:9981/play/a01h
+#EXTINF:-1,CNBC HD
+http://185.236.229.53:9981/play/a02p
+#EXTINF:-1,Comedy Central
+http://185.236.229.53:9981/play/a07q
+#EXTINF:-1,Comedy Central HD
+http://185.236.229.53:9981/play/a07j
+#EXTINF:-1,Crime + Investigation
+http://185.236.229.53:9981/play/a03p
 #EXTINF:-1,Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8?HasBahCa.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://185.236.229.53:9981/play/a00b
+#EXTINF:-1,DAZN 2 HD
+http://185.236.229.53:9981/play/a01p
 #EXTINF:-1,DE:CNN International (Germany)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,DE:Das Erste (720p)
@@ -29,26 +51,94 @@ https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:-1,DE:Parlamentsfernsehen 2 (1080p)
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
+#EXTINF:-1,Discovery HD
+http://185.236.229.53:9981/play/a020
+#EXTINF:-1,E! Entertainm. HD
+http://185.236.229.53:9981/play/a03g
 #EXTINF:-1,EURONEWS
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://185.236.229.53:9981/play/a006
+#EXTINF:-1,Eurosport 2 HD
+http://185.236.229.53:9981/play/a03e
+#EXTINF:-1,Eurosport 2 HD Xtra
+http://185.236.229.53:9981/play/a007
+#EXTINF:-1,Eurosport360HD 1
+http://185.236.229.53:9981/play/a024
+#EXTINF:-1,Eurosport360HD 2
+http://185.236.229.53:9981/play/a01n
+#EXTINF:-1,Eurosport360HD 3
+http://185.236.229.53:9981/play/a03d
+#EXTINF:-1,Eurosport360HD 4
+http://185.236.229.53:9981/play/a00f
+#EXTINF:-1,Eurosport360HD 5
+http://185.236.229.53:9981/play/a02n
+#EXTINF:-1,Eurosport360HD 6
+http://185.236.229.53:9981/play/a019
+#EXTINF:-1,Eurosport360HD 7
+http://185.236.229.53:9981/play/a01d
+#EXTINF:-1,Eurosport360HD 8
+http://185.236.229.53:9981/play/a01s
+#EXTINF:-1,Eurosport360HD 9
+http://185.236.229.53:9981/play/a03m
+#EXTINF:-1,Heimatkanal
+http://185.236.229.53:9981/play/a01g
+#EXTINF:-1,HISTORY Channel HD
+http://185.236.229.53:9981/play/a03f
 #EXTINF:-1,hr-fernsehen HD
-http://185.234.111.36:8003/play/a0c2/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0c2/index.m3u8
+#EXTINF:-1,hr-fernsehen HD
+http://185.236.229.53:9981/play/a03x
+#EXTINF:-1,Jukebox
+http://185.236.229.53:9981/play/a03o
+#EXTINF:-1,Junior
+http://185.236.229.53:9981/play/a01f
+#EXTINF:-1,Kabel 1 Austria
+http://185.236.229.53:9981/play/a00k
+#EXTINF:-1,Kabel 1 Doku HD Austria
+http://185.236.229.53:9981/play/a00z
+#EXTINF:-1,Kabel 1 Schweiz
+http://185.236.229.53:9981/play/a00j
 #EXTINF:-1,kabel eins
-http://185.234.111.36:8003/play/a0b3/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,kabel eins
-http://185.205.201.101:8009/play/a026
+http://185.234.111.35:8003/play/a0b3/index.m3u8
 #EXTINF:-1,kabel eins Doku
-http://185.234.111.36:8003/play/a0b9/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,kabel eins Doku
-http://185.205.201.101:8009/play/a02a
+http://185.234.111.35:8003/play/a0b9/index.m3u8
+#EXTINF:-1,Kabel Eins Doku HD
+http://185.236.229.53:9981/play/a00v
+#EXTINF:-1,kabel eins HD
+http://185.236.229.53:9981/play/a00t
+#EXTINF:-1,kabel eins HD Austria
+http://185.236.229.53:9981/play/a00w
 #EXTINF:-1,KiKA
-http://185.234.111.36:8003/play/a0cd/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cd/index.m3u8
+#EXTINF:-1,Kinowelt TV
+http://185.236.229.53:9981/play/a03r
 #EXTINF:-1,MDR S-Anhalt HD
-http://185.234.111.36:8003/play/a0c0/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0c0/index.m3u8
+#EXTINF:-1,MDR S-Anhalt HD
+http://185.236.229.53:9981/play/a03v
 #EXTINF:-1,MDR Sachsen HD
-http://185.234.111.36:8003/play/a0bz/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0bz/index.m3u8
+#EXTINF:-1,MDR Sachsen HD
+http://185.236.229.53:9981/play/a03u
 #EXTINF:-1,MDR Thüringen HD
-http://185.234.111.36:8003/play/a0c1/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0c1/index.m3u8
+#EXTINF:-1,MDR Thüringen HD
+http://185.236.229.53:9981/play/a03w
+#EXTINF:-1,Motorvision TV
+http://185.236.229.53:9981/play/a03i
+#EXTINF:-1,MTV
+http://185.236.229.53:9981/play/a07r
+#EXTINF:-1,MTV
+http://185.236.229.53:9981/play/a07p
+#EXTINF:-1,MTV 00s
+http://185.236.229.53:9981/play/a07k
+#EXTINF:-1,MTV 80s
+http://185.236.229.53:9981/play/a07l
+#EXTINF:-1,Nat Geo Wild HD
+http://185.236.229.53:9981/play/a01y
+#EXTINF:-1,NatGeo HD
+http://185.236.229.53:9981/play/a02a
 #EXTINF:-1,NDR Fernsehen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
 #EXTINF:-1,NDR Hamburg HD
@@ -59,105 +149,145 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?HasBahCa.m3u8?set-segment-duration=responsive
 #EXTINF:-1,NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1,Nick Jr.
+http://185.236.229.53:9981/play/a07m
+#EXTINF:-1,Nick Junior Global
+http://185.236.229.53:9981/play/a07n
+#EXTINF:-1,NICK/CC+1
+http://185.236.229.53:9981/play/a07s
 #EXTINF:-1,Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1,Nicktoons
+http://185.236.229.53:9981/play/a026
 #EXTINF:-1,NITRO
-http://185.234.111.36:8003/play/a0ax/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,NITRO
-http://185.205.201.101:8008/play/a02h
+http://185.234.111.35:8003/play/a0ax/index.m3u8
 #EXTINF:-1,ntv
-http://185.234.111.36:8003/play/a0az/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ntv
-http://185.205.201.101:8008/play/a02j
+http://185.234.111.35:8003/play/a0az/index.m3u8
+#EXTINF:-1,ntv HD
+http://185.236.229.53:9981/play/a003
 #EXTINF:-1,Pro7 MAXX
-http://185.234.111.36:8003/play/a0b6/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Pro7 MAXX
-http://185.205.201.101:8009/play/a029
+http://185.234.111.35:8003/play/a0b6/index.m3u8
+#EXTINF:-1,Pro7 MAXX HD
+http://185.236.229.53:9981/play/a00u
+#EXTINF:-1,Pro7 MAXX HD Austria
+http://185.236.229.53:9981/play/a00y
 #EXTINF:-1,ProSieben
-http://185.234.111.36:8003/play/a0b2/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,ProSieben
-http://185.205.201.101:8009/play/a025
+http://185.234.111.35:8003/play/a0b2/index.m3u8
+#EXTINF:-1,ProSieben Austria
+http://185.236.229.53:9981/play/a00i
+#EXTINF:-1,ProSieben HD
+http://185.236.229.53:9981/play/a00s
+#EXTINF:-1,ProSieben Schweiz
+http://185.236.229.53:9981/play/a00h
+#EXTINF:-1,PULS 4 Austria
+http://185.236.229.53:9981/play/a00q
 #EXTINF:-1,rbb Berlin HD
-http://185.234.111.36:8003/play/a0by/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0by/index.m3u8
+#EXTINF:-1,rbb Berlin HD
+http://185.236.229.53:9981/play/a03t
 #EXTINF:-1,rbb Brandenburg HD
-http://185.234.111.36:8003/play/a0bx/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0bx/index.m3u8
+#EXTINF:-1,rbb Brandenburg HD
+http://185.236.229.53:9981/play/a03s
+#EXTINF:-1,Romance TV
+http://185.236.229.53:9981/play/a01o
 #EXTINF:-1,RTL Bayern
-http://185.234.111.36:8003/play/a0ar/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0ar/index.m3u8
 #EXTINF:-1,RTL HB NDS
-http://185.234.111.36:8003/play/a0aq/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0aq/index.m3u8
+#EXTINF:-1,RTL HD
+http://185.236.229.53:9981/play/a001
 #EXTINF:-1,RTL HH SH
-http://185.234.111.36:8003/play/a0as/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0as/index.m3u8
 #EXTINF:-1,RTL Regional NRW
-http://185.234.111.36:8003/play/a0ap/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0ap/index.m3u8
 #EXTINF:-1,RTL Television
-http://185.234.111.36:8003/play/a0ao/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,RTL Television
-http://185.205.201.101:8008/play/a02c
+http://185.234.111.35:8003/play/a0ao/index.m3u8
 #EXTINF:-1,RTLup
-http://185.234.111.36:8003/play/a0ay/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,RTLup
-http://185.205.201.101:8008/play/a02i
+http://185.234.111.35:8003/play/a0ay/index.m3u8
 #EXTINF:-1,RTLZWEI
-http://185.234.111.36:8003/play/a0at/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,RTLZWEI
-http://185.205.201.101:8008/play/a02d
+http://185.234.111.35:8003/play/a0at/index.m3u8
+#EXTINF:-1,RTLZWEI HD
+http://185.236.229.53:9981/play/a004
 #EXTINF:-1,SAT.1
-http://185.234.111.36:8003/play/a0b1/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,SAT.1
-http://185.205.201.101:8009/play/a024
+http://185.234.111.35:8003/play/a0b1/index.m3u8
+#EXTINF:-1,SAT.1 A
+http://185.236.229.53:9981/play/a00l
 #EXTINF:-1,SAT.1 Bayern
-http://185.234.111.36:8003/play/a0b7/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0b7/index.m3u8
+#EXTINF:-1,SAT.1 CH
+http://185.236.229.53:9981/play/a00m
 #EXTINF:-1,SAT.1 Gold
-http://185.234.111.36:8003/play/a0b5/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,SAT.1 Gold
-http://185.205.201.101:8009/play/a028
+http://185.234.111.35:8003/play/a0b5/index.m3u8
+#EXTINF:-1,SAT.1 Gold HD
+http://185.236.229.53:9981/play/a005
+#EXTINF:-1,SAT.1 HD
+http://185.236.229.53:9981/play/a00r
+#EXTINF:-1,SAT.1 HH/SH
+http://185.236.229.53:9981/play/a00n
 #EXTINF:-1,SAT.1 NRW
-http://185.234.111.36:8003/play/a0b8/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0b8/index.m3u8
+#EXTINF:-1,SAT.1 NS/Bremen
+http://185.236.229.53:9981/play/a00o
+#EXTINF:-1,SAT.1 RhlPf/Hessen
+http://185.236.229.53:9981/play/a00p
+#EXTINF:-1,SIXX HD
+http://185.236.229.53:9981/play/a07t
+#EXTINF:-1,sixx HD Austria
+http://185.236.229.53:9981/play/a00x
+#EXTINF:-1,Spiegel Geschichte HD
+http://185.236.229.53:9981/play/a01q
+#EXTINF:-1,Spiegel TV Wissen
+http://185.236.229.53:9981/play/a027
 #EXTINF:-1,SUPER RTL
-http://185.234.111.36:8003/play/a0av/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,SUPER RTL
-http://185.205.201.101:8008/play/a02f
+http://185.234.111.35:8003/play/a0av/index.m3u8
+#EXTINF:-1,SYFY HD
+http://185.236.229.53:9981/play/a03a
 #EXTINF:-1,TOGGO plus
-http://185.234.111.36:8003/play/a0au/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,TOGGO plus
-http://185.205.201.101:8008/play/a02e
+http://185.234.111.35:8003/play/a0au/index.m3u8
+#EXTINF:-1,Universal TV HD
+http://185.236.229.53:9981/play/a008
 #EXTINF:-1,VOX
-http://185.234.111.36:8003/play/a0aw/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,VOX
-http://185.205.201.101:8008/play/a02g
+http://185.234.111.35:8003/play/a0aw/index.m3u8
+#EXTINF:-1,VOX HD
+http://185.236.229.53:9981/play/a002
+#EXTINF:-1,Warner TV Comedy HD
+http://185.236.229.53:9981/play/a03h
+#EXTINF:-1,Warner TV Film HD
+http://185.236.229.53:9981/play/a02i
+#EXTINF:-1,Warner TV Serie HD
+http://185.236.229.53:9981/play/a00a
 #EXTINF:-1,WDR HD Aachen
-http://185.234.111.36:8003/play/a0cr/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cr/index.m3u8
 #EXTINF:-1,WDR HD Bielefeld
-http://185.234.111.36:8003/play/a0cs/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cs/index.m3u8
 #EXTINF:-1,WDR HD Bonn
-http://185.234.111.36:8003/play/a0ct/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0ct/index.m3u8
 #EXTINF:-1,WDR HD Duisburg
-http://185.234.111.36:8003/play/a0cu/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cu/index.m3u8
 #EXTINF:-1,WDR HD Düsseldorf
-http://185.234.111.36:8003/play/a0cv/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cv/index.m3u8
 #EXTINF:-1,WDR HD Essen
-http://185.234.111.36:8003/play/a0cw/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cw/index.m3u8
 #EXTINF:-1,WDR HD Köln
-http://185.234.111.36:8003/play/a0cq/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cq/index.m3u8
 #EXTINF:-1,WDR HD Münster
-http://185.234.111.36:8003/play/a0cx/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cx/index.m3u8
 #EXTINF:-1,WDR HD Siegen
-http://185.234.111.36:8003/play/a0cy/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cy/index.m3u8
 #EXTINF:-1,WDR HD Wuppertal
-http://185.234.111.36:8003/play/a0cz/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cz/index.m3u8
 #EXTINF:-1,WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1,WELT
-http://185.234.111.36:8003/play/a0b4/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,WELT
-http://185.205.201.101:8009/play/a027
+http://185.234.111.35:8003/play/a0b4/index.m3u8
 #EXTINF:-1,WELT Live Stream
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1,ZDF
-http://185.234.111.36:8003/play/a0cb/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0cb/index.m3u8
 #EXTINF:-1,ZDF HD
-http://185.234.111.36:8003/play/a0c8/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0c8/index.m3u8
 #EXTINF:-1,zdf_neo HD
-http://185.234.111.36:8003/play/a0c9/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0c9/index.m3u8
 #EXTINF:-1,ZDFinfo
-http://185.234.111.36:8003/play/a0ce/index.m3u8?HasBahCa.m3u8
+http://185.234.111.35:8003/play/a0ce/index.m3u8

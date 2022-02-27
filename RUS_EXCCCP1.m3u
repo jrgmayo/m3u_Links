@@ -113,8 +113,6 @@ http://82.194.1.2:8015/play/E36_11785R_SID1312/index.m3u8
 http://82.194.1.2:8016/play/E36_11785R_SID1312/index.m3u8
 #EXTINF:-1,KINOUJAS
 http://82.194.1.2:8000/play/E36_11785R_SID1309/index.m3u8
-#EXTINF:-1,KINOUJAS[ALTR]
-http://82.194.1.2:8015/play/E36_11785R_SID1309/index.m3u8
 #EXTINF:-1,KINOUJAS[osc_tv_srg]
 http://82.194.1.2:8016/play/E36_11785R_SID1309/index.m3u8
 #EXTINF:-1,LEOMAX24
@@ -157,8 +155,6 @@ http://82.194.1.2:8016/play/E36_11785R_SID1305/index.m3u8
 http://82.194.1.2:8000/play/E36_11785R_SID1306/index.m3u8
 #EXTINF:-1,MATCH! FUTBOL 2 HD
 http://82.194.1.2:8000/play/E36_11823R_SID1401/index.m3u8
-#EXTINF:-1,MATCH! FUTBOL 2 HD[ALTR]
-http://82.194.1.2:8015/play/E36_11823R_SID1401/index.m3u8
 #EXTINF:-1,MATCH! FUTBOL 2[ALTR]
 http://82.194.1.2:8015/play/E36_11785R_SID1306/index.m3u8
 #EXTINF:-1,MATCH! FUTBOL 2[osc_tv_srg]
@@ -203,14 +199,24 @@ http://82.194.1.2:8004/play/E36_12284R_SID816/index.m3u8
 http://82.194.1.2:8004/play/E36_12284R_SID812/index.m3u8
 #EXTINF:-1,MTV Live HD
 http://82.194.1.2:8000/play/E36_11823R_SID1404/index.m3u8
-#EXTINF:-1,MTV Live HD[ALTR]
-http://82.194.1.2:8015/play/E36_11823R_SID1404/index.m3u8
 #EXTINF:-1,MUZ
 http://82.194.1.2:8000/play/E36_11785R_SID1313/index.m3u8
-#EXTINF:-1,MUZ[ALTR]
-http://82.194.1.2:8015/play/E36_11785R_SID1313/index.m3u8
 #EXTINF:-1,MUZ[osc_tv_srg]
 http://82.194.1.2:8016/play/E36_11785R_SID1313/index.m3u8
+#EXTINF:-1,MUZZIK HD
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1,MUZZIK JEKA HD
+http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1,MUZZIK OKK HD
+http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1,MUZZIK POP STAR HD
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1,MUZZIK RIVIERA HD
+http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1,MUZZIK ROCK HD
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1,MUZZIK WORLD HD
+http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 http://82.194.1.2:8002/play/E36_11861R_SID208/index.m3u8
 #EXTINF:-1,National Geographic HD
@@ -221,12 +227,8 @@ http://82.194.1.2:8004/play/E36_12284R_SID814/index.m3u8
 http://82.194.1.2:8004/play/E36_12284R_SID826/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://82.194.1.2:8000/play/E36_11823R_SID14106/index.m3u8
-#EXTINF:-1,Nickelodeon HD[ALTR]
-http://82.194.1.2:8015/play/E36_11823R_SID14106/index.m3u8
 #EXTINF:-1,NickToons
 http://82.194.1.2:8000/play/E36_11785R_SID1327/index.m3u8
-#EXTINF:-1,NickToons[ALTR]
-http://82.194.1.2:8015/play/E36_11785R_SID1327/index.m3u8
 #EXTINF:-1,NickToons[osc_tv_srg]
 http://82.194.1.2:8016/play/E36_11785R_SID1327/index.m3u8
 #EXTINF:-1,NTV
@@ -243,8 +245,6 @@ http://82.194.1.2:8003/play/E36_12437R_SID432/index.m3u8
 http://82.194.1.2:8003/play/E36_12437R_SID402/index.m3u8
 #EXTINF:-1,Perviy kanal HD
 http://82.194.1.2:8000/play/E36_11823R_SID1408/index.m3u8
-#EXTINF:-1,Perviy kanal HD[ALTR]
-http://82.194.1.2:8015/play/E36_11823R_SID1408/index.m3u8
 #EXTINF:-1,Playboy TV
 http://82.194.1.2:8003/play/E36_12437R_SID427/index.m3u8
 #EXTINF:-1,Radost moya
@@ -257,6 +257,8 @@ http://82.194.1.2:8016/play/E36_11785R_SID1330/index.m3u8
 http://82.194.1.2:8000/play/E36_11785R_SID1317/index.m3u8
 #EXTINF:-1,RBK-TV[osc_tv_srg]
 http://82.194.1.2:8016/play/E36_11785R_SID1317/index.m3u8
+#EXTINF:-1,ROCK FM TV
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8?HasBahCa.m3u8
 #EXTINF:-1,RT (английский)
 http://82.194.1.2:8001/play/E36_11977R_SID1815/index.m3u8
 #EXTINF:-1,RTG HD
